@@ -1,0 +1,63 @@
+CERTIFICADO DE CONFORMIDADE
+
+CERTIFICATE OF CONFORMITY
+Certificado No. / Certificate No. UL-BR 12.0005X
+
+Certificado de Conformidade vál lo somente acompanhado das páginas de: 1a9
+Certificate of Conformity valid only with the following pages
+Emissão / Dateofissue | 13 de janeiro de 2012 / January 13, 2012
+Revisão / Revision Date 27 de setembro de 2021 / September 27, 2021
+Validade / Expire date 12 de janeiro de 2024 / January 12, 2024
+
+Fabricante / Manufacturer ASCOVAL INDUSTRIA E COMERCIO LTDA.
+Rua Goiatuba nº 81 - Jardim Mutinga — Barueri — SP - 06465-300 - Brasil
+CNPJ: 43.021.906/0001-03
+Audit File: AZ8378 (date 2021-03-17)
+
+Emerson Automation Fluid Control & Pneumatics Poland Sp. z o. o.
+UI. Kurczaki 132 - Lodz - PL 93-331 Poland
+
+CNPJ: Não Aplicável / Not Applicable
+
+Audit File: AZ8906 (date 2020-10-29)
+
+MODELO DE CERTIFICAÇÃO / CERTIFICATION MODEL:
+
+Modelo com Avaliação do Sistema de Gestão da Qualidade do Processo de Produção do Produto e Ensaios no Produto
+Quality Management System Evaluation of the Product Production Process and Product Test Model
+
+Modelo Ensaio de Lote
+
+Lot Test Model
+
+CÓDIGO DE BARRAS GTIN / GTIN BAR CODE:
+
+Não aplicável / Not applicable.
+
+DESCRIÇÃO DO PRODUTO / PRODUCT DESCRIPTION:
+
+Operador de Válvula Solenóide modelo EM-M... utilizado na ação de empurrar ou puxar quando montado com uma válvula. As
+diferenças nos modelos referem-se ao tamanho, tensão nominal e potência.
+
+Proteção do equipamento fornecida: Ex mb para o conjunto interno da bobina e Ex eb para o invólucro externo e compartimento de
+conexão. O equipamento possui tipo de proteção Ex tb para uso em ambientes com poeira.
+
+Faixa de temperatura ambiente: -40ºC até +75ºC
+Faixa de temperatura média: -40ºC até +75ºC
+
+A faixa de temperatura ambiente real está dentro desses limites, depende do tipo e da classificação de potência e será marcada
+quando for diferente de -20ºC até +40ºC.
+
+Solenoid Valve Operator type EM-M... to be used for pushing or pulling valve action with mounted valve. Differences in models concern size, rated voltage and power.
+Equipment protection provided: Ex mb for the internal bobbin assembly and Ex eb for the outer enclosure and connection compartment. The equipment is also Ex tb for
+use in dust environments.
+
+Ambient temperature range: -40ºC to +70ºC
+Medium temperature range: -40ºC to +75ºC
+
+The actual temperature range is within these limits, is depending on the type and power rating and will be marked when it differs from -20ºC to +40ºC.
+
+Organismo de Certificação / UL do Brasil Certificações
+Certification Body | Avenida Engenheiro Luis Carlos Berrini, 105 — 24º andar
+04571-010 — Brooklin — São Paulo — SP — Brasil
+Página / Page 2/9 41-IC-FO0400 rev. 18.0

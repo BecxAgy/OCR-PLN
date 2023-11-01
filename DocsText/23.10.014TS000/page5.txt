@@ -1,0 +1,55 @@
+ARVOS GmbH Requirements for Water/Steam | ARVOSNo.: 23.10.014
+SCHMIDTSCHE SCHACK
+
+Ellenbacher Strae 10, 34123 Kassel Client: Braskems. A. Client No.: PJ-0602056
+Germany Project: Projeto Helius Spec. No.: W/S-1
+
+Values recommended by VGB (Vereinigung der GroBkesselbesitzer) for steam to turbines, demineralized
+boiler feed water and boiler water under consideration of alkaline operation method with combined use of
+
+A volatile (ammonia - NHs, hydrazine - N2H4) and solid (trisodiumphosphate - NasPO4, sodium hydroxide
+NaOH) alkalizers.
+
+B Values specified by client.
+
+Requirements Unit B Notes
+
+Steam to Turbines
+Conductivity at 25 ºC uS/em
+Silica ppm
+
+Total iron ppm
+
+Total copper ppm
+
+Sodium ppm
+Liquid entrainment Wt. %
+
+Boiler Feed Water
+
+Oxygen not specified
+Total iron < 0,02
+Total copper < 0,003
+pH at 25ºC >9
+
+Silica < 0,02
+Conductivity at 25 “C < 0,2
+
+Boiler Water
+
+pH at 25ºC
+Silica
+
+Phosphate
+Conductivity at 25 ºC
+
+Continuous sampling behind highly acid cation exchanger.
+Depending on operating pressure.
+
+In the event of alkaline operation, only with volatile alkalizers, conductivity in boiler water should not exceed 3 us/cm.
+
+Hf continuous operation with demineralized water cannot be guaranteed, oxygen content should not exceed 0,02 ppm.
+
+Revision: O / Apr. 27, 2023
+
+Dok. Water/Steam/11.17

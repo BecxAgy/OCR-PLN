@@ -1,0 +1,75 @@
+a.
+FLOWSERVE
+Ne *
+
+Valbart
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+
+2 Safety Information
+
+21
+
+2.2
+
+Intended use
+
+AN me valve must not be operated beyond the parameters specified for the application. If
+there is any doubt as to the suitability of the valve for the application intended, contact
+Flowserve for advice, quoting the serial number.
+
+nstalling, operating, or maintaining the valve in any way that is not covered in this User
+nstruction could cause death, serious personal injury, or damage to the equipment.
+his includes any modification to the valve or use of the parts not provided by
+Flowserve.
+
+Only operate the valve when it has successful passed all inspection acceptance
+criteria
+
+Do not operate the valve in a partially assembled condition.
+
+f the conditions of service on the customer's purchase order change (i.e. pumping
+luid, temperature, or duty conditions) it is requested that the user seeks written
+agreement from Flowserve before start Up.
+
+Observe equipment labels, such as arrows designating the direction of rotation,
+warning signs, etc., and keep them in a legible condition. Replace any damaged
+and/or ilegible labels immediately.
+
+Safety symbols and description
+
+This User Instruction contains specific safety markings where non-observance of an instruction
+would cause a hazard. The specific safety markings are:
+
+Table 1: Definition of safety symbols and markings
+
+Symbol Description
+
+DANGER
+
+This symbol indicates a hazardous situation which, if not
+avoided, will result in death or serious injury
+
+WARNING
+This symbol indicates a hazardous situation which, if not
+avoided, could result in death or serious injury
+
+CAUTION
+his symbol indicates a hazardous situation which, if not
+avoided, could result in minor or moderate injury
+
+Safety Instruction
+his symbol indicates specific safety-related instruction or
+procedures
+
+NOTICE
+his symbol is used to address practices not related to
+
+physical injury
+
+his is the safety alert symbol. It is used to alert you to
+potential physical injury hazards. Obey all safety messages
+hat follow this symbol to avoid possible injury or death.
+
+Page 6 of 35
+

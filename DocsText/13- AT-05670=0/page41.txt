@@ -1,0 +1,56 @@
+MODBUS Primer
+
+MODBUS Message
+Format
+
+Message Content
+
+Protocol Formats
+
+The MODBUS protocol is based on polling. One master device polls one
+or more slave devices. The master sends commands (queries) to the
+slaves. The slaves wait for commands from the master. If a command is
+directed to a particular MODBUS slave, the slave sends a response.
+Some commands can also be broadcast to all slaves at once. The
+Maxum MODBUS implementation does not support broadcast mes-
+sages.
+
+The message content is always:
+
+Slave Function-Code String of Data Bytes
+1 byte 1 byte N bytes
+
+Message Content
+
+Each message begins with a one byte slave identifier (Slavef). Slaves
+are configured with identifiers between 1 and 255 inclusive. Slave identi-
+fier O (zero) is used in the commands broadcast to all slaves. Broadcast
+messages are not supported in the Maxum MODBUS. Note: MODICON
+documentation specifies 1 to 247 for slave identifiers, reserving 248
+through 255 for special equipment, but other vendors frequently allow 1
+to 255 for slave identifiers.
+
+The second byte of the message indicates the function code (Function-
+Code). For commands, this byte has a value between 0 and 127 inclu-
+sive. For responses, the function code values range from 1 to 127 if
+there was no error and from 128 to 255 if there was an error. Slaves in-
+dicate errors by sending a response with 128 added to the function code
+and sending an error code as the String Of Data Bytes.
+
+The String Of Data Bytes has a length that depends upon the function
+code and whether the MODBUS Master is sending the message (Com-
+mand) ora MODBUS Slave is sending the message (Response). For
+some function codes, the length of the String Of Data Bytes can vary. If
+the length can vary, there is always one byte, which indicates the num-
+ber of bytes, 1 to 255, in the variable portion.
+
+In the MODBUS protocol there are two formats for sending messages,
+MODBUS RTU and MODBUS ASCII (not supported by the Maxum). The
+message content is the same in each format. Both formats have check-
+sums, but the checksum methods are different. All of the MODBUS de-
+vices on a communications link must use the same message format and
+the same communication parameters (e.g. baud rate).
+
+2000584-001
+
+Maxum MODBUS User's Guide e 35

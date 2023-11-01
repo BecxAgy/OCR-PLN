@@ -1,0 +1,46 @@
+Function 08 — Loopback Diagnostics Test
+
+Master Command The master sends the Loopback Diagnostics Test command to test com-
+munications with a slave device. A 2-byte diagnostic code tells the slave
+what action is required. MODICON has specified a number of diagnostic
+codes and reserves some additional codes for proprietary use. Most of
+the diagnostic codes tell the slave to return a value from an internal
+communications event counter (e.g., Diagnostic Code 12 requests the
+Checksum Error Count). The 2-byte data code is followed by a two byte
+(16-bit) data value.
+
+Diagnostic Codes Diagnostic Code | Action of MODBUS Slave Device
+0 Respond by echoing command
+1 Reinitialize MODBUS interface
+10 Clear event counters (reset to zero)
+11 Respond with the number of received messages (bus
+
+message events)
+
+12 Respond with the number of received checksum er-
+rors (checksum error events)
+
+13 Respond with the number of error responses sent
+(exception events)
+
+14 Respond with the number of responses sent (re-
+sponse events)
+
+15 Respond with the number of commands not re-
+sponded to (nonresponse events)
+
+16 Respond with the number of NAK responses from at-
+tached devices (NAK events)
+
+17 Respond with the number of busy responses from at-
+tached devices (busy events)
+
+Function 08 - Loopback Diagnotic Test Diagnostic Codes
+
+Diagnostic Codes 16 and 17, NAK, and busy event counters respectively
+are a diagnostic for MODBUS slave interfaces that forward values to at-
+tached devices perhaps over a proprietary network.
+
+Full definitions of these codes are shown on the next page.
+
+54 e Maxum MODBUS User's Guide 2000584-001

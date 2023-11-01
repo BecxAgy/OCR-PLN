@@ -1,0 +1,49 @@
+MODBUS Primer, Continued
+
+Character
+Transmission
+
+MODBUS protocol uses normal RS-232C, RS-422 (not supported in the
+
+Maxum), and RS-485 asynchronous character transmission. A start bit is
+sent before the data bits, then the data bits are transmitted with the least
+significant bit first, then an optional parity bit may be sent, and finally one
+or two stop bits are sent.
+
+In MODBUS RTU, the binary values of the message and checksum are
+transmitted as characters. The checksum requires two bytes, which are
+transmitted with less significant byte first, immediately after the last byte
+of the message is transmitted. Characters must be transmitted as 8 data
+bits. Character parity can be odd, even, or none. Either 1 or 2 stop bits
+can be used.
+
+In MODBUS RTU, a pause is inserted between messages to indicate the
+start and end of a message. MODICON's MODBUS specification re-
+quires a pause equal to or greater than the time required to transmit 3.5
+characters at the configured baud rate. Shorter pauses are accepted
+between characters in the same message. However, many MODBUS
+RTU interfaces are implemented on multiprocessing computers and are
+unable to detect such a small time interval, especially at higher baud
+rates. For these systems, a larger pause is specified (for example, mini-
+mum of 500ms inserted between consecutive messages).
+
+The following table assumes: 8-bit data, 1 start bit, 1 stop bit, and no par-
+ity.
+
+Baud Rate 3.5 Character Pause (milliseconds)
+(bits per second)
+
+318.2
+
+300 116.7
+1200 29.2
+4800 7.29
+9600 3.65
+19200 1.823
+38400 0.911
+57600 0.608
+112500 0.304
+
+Character Pause Relative to Baud Rate
+
+38 « Maxum MODBUS User's Guide 2000584-001

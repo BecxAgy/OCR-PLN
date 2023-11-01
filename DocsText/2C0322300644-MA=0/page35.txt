@@ -1,0 +1,18 @@
+“a.
+FLOWSERVE
+Ne *
+
+Valhart
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+
+1.2 Operating limits
+
+The limits of temperature and pressure are clearly indicated on the name plate, Valbart
+declines any responsibility for any use outside the above limits.
+
+1.3 Torque requirements
+
+Refer to Section 8.2 for torque requirements.
+
+Page 33 of 35

@@ -1,0 +1,73 @@
+DNV-GL
+
+DNV GL - BUSINESS ASSURANCE
+CERTIFICADO DE CONFORMIDADE
+
+Certificate of Conformity 7 Certificado de Conformidad
+
+Certificado nº: DNV 12.0059 X — Revisão 05 Emissão: 31/05/2021 Válido até: 31/05/2024
+
+Certificate nº / Certificado nº Issuance / Otorgamiento Valid until / Válido hasta
+
+Características Elétricas:
+
+Tipo de elemento Características elétricas
+de chaveamento (Modelo DCA — opção denotada com [])
+Mi e MA 15,1 A— > HP — 125/250 Vca / 0,5 A — 125 Vcc / 0,25 A — 250 Vec / 5 A — 120 Vca
+MC 15,1 A— > HP — 125/250 Vca / 0,5 A — 125 Vcc / 0,25 A — 250 Vec / 5 A — 120 Vca
+MD e MS 10 A-— Yo HP -— 125 Vca
+MG 1 A- 125 Vca / 50 ma — 24 Vcc
+M3 15 A — 125/250 Vca / 3/5 HP — 125 Vca / 42 HP — 250 Vca
+P4 0,25 A— 200 Vcc / 0,5 A — 100 Vcc / 1 A— 50 Vcc/ 0,35 A — 140 Vca — 50 W
+P5 0,25 A — 120 Vca — 60 Hz — 28 Vcc— 3 W
+MB 10 A-— Y> HP -— 125 Vca
+PE 24Vcc—- 2 A- 120 Vca- 1 A
+PPe[P] 3 A- 120 Vca/2 A- 24 Vcc
+PTeít 3 A- 120 Vca / 0,5 A — 24 Vec
+N8, NPe NQ 5-25 Vcc
+NR, NSe NT 10-60 Vcc, 200 mA
+FZ 31 Vcc — 26 mA
+N9, R1 e [M] 5-60 Vcc, 100 mA
+Pi 10-60 Vcc, 100 mA
+EN 24 Vcc, 0,12 A
+
+Código do modelo:
+
+Chave fim de curso modelo UltraSwitch abcdef-g-hijkl
+
+a 5 Etiqueta: 01 caractere alfanumérico
+
+b 5 Tipo de eixo: 01 caractere alfanumérico
+
+c > Invólucro / Entrada: XCL = Invólucro em alumínio / 34” NPT
+XML = Invólucro em alumínio / M25
+
+d 5 Indicador de posição: 01 caractere alfanumérico
+
+e > Quantidade de chaves: 01 caractere alfanumérico
+
+f > Tipo de chave: M1 = Mecânica (SPDT)
+
+M3 = Mecânica (DPDT)
+
+MA = M1 com cames para controle de 3 posições
+
+MB = Mecânica (DPDB) — Licon
+
+MC = Mecânica (SPDT) com bloco de terminais para 120 ºC
+
+MD = Mecânica (DPDT) com cames para controle de 3 posições (DA)
+MG = Mecânica (SPDT) revestida a ouro
+
+MS = Mecânica (DPDT) com cames para controle de 3 posições (SR)
+N8 = NJ2-V3-N — P+F (DOW = S)
+
+N9 = NBB3-V3-24 — P+F
+
+NP = SJ3-5N (Namur) — P+F
+
+NQ = NJ4-12GK+N (Namur) — P+F
+
+DNV GL Business Assurance Avaliações e Certificações Brasil Ltda
+Av. Alfredo Egydio de Souza Aranha, 100 - Bloco D - 3º Andar — CEP: 04726-908 - São Paulo, SP, Brasil
+Form Ref.: ZNS-BR-EX-006 Rev.: 03 Data: 03/01/2020 http:/Awww.dnvgl.com.br Pág.: 3 de 7

@@ -1,0 +1,134 @@
+Www.flowserve.com
+
+Automax Valve Automation Systems
+
+-—
+FLOWSERVE
+
+Flowserve Corporation
+Flow Control Division
+
+Maintenance Instructions
+Disassembly Procedures
+
+. Disconnect all air and electrical supplies from actuator.
+
+o)
+
+. Remove all accessories from actuator and dismount
+actuator from valve.
+
+1350 N. Mountain Springs Parkway
+Springyville, Utah 84663-3004 Cookeville, TN 38501
+Phone: 801 489 2233
+
+Installation, Operation and Maintenance Instructions
+
+1978 Foreman Dr.
+
+Phone: 931 432 4021
+
+Reassembly Procedures
+
+1. Inspect all parts for wear and replace any worn parts
+as needed. Replace all “O-rings.
+
+2. Clean all components and lightly grease cylinder bore,
+3. Remove the 16 Endcap Screws (11, 12). When pinion and seals per temperature rating notes. See
+removing endcap screws on the supply side, apply low page 4.
+heat to loosen. Failure to apply heat may result in
+broken bolts. 3. Reverse the disassembly procedures to reassemble.
+WARNING: Loaded Springe in Endeaps, should be 4. The standard Pinion (3) orientation is with the drive
++ pocket parallel with the Body (1) in the CW position.
+4. SR - The Springs (21-24) will push the Endcaps off, re-
+
+leasing the spring load prior to the disengagement of
+the Endcap Screws (11, 12). Remove the Endcaps (2)
+and Spring Cartridge (21-24).
+
+DA- Remove the Endcaps (2). Step 6 will push the
+Endcaps (2) from the Body (1).
+
+q
+
+the end of the rack. Pull the Left Piston (16) from the
+Body (1).
+
+o
+
+. Remove the Right Piston (16) by pushing out through
+inside of Body (1).
+
+“
+
+. Remove the Pinion Snap Ring (7), and pinion washer
+
+(6).
+
+. Tap Pinion (3) lightly with plastic mallet to remove.
+
+oo
+
+Changing Pinion Orientation
+
+1. Disconnect all air and electrical supplies from actuator.
+
+2. Remove all accessories from actuator and dismount
+actuator from valve.
+
+3. Remove the Pinion Snap Ring (7) and Pinion Washer
+
+(6).
+4. Tap Pinion (3) lightly with plastic mallet to remove.
+
+5. Reverse Steps 3 & 4 with new Pinion (3) orientation.
+
+FCD AXAIM0005-00 (LMROO14-1) (AUTO-5)
+O 2005, Flowserve Corporation, Printed in USA
+
+. Rotate Pinion (3) counterclockwise (DA & SR-FCW) or
+clockwise (DR & SR-FCCW) to drive the Pistons (16) off
+
+Edo
+
+When fitting the Pistons (16) ensure the teeth engage
+the Pinion (3) at the same time by measuring in from
+the edge of the Body (1) the same distance from each
+end. Note: the orientation of the pistons will determine
+the operation of the actuator. Refer to the diagrams
+under “Operation” for correct piston position.
+
+o
+
+. When assembling a spring return actuator, stand
+actuator cylinder vertical when inserting spring
+cartridges. If this is not possible, make sure spring
+cartridges are fully seated in piston pockets when
+installing Endcap.
+
+“
+
+. Adjust the Stop Bolt (8) until the desired travel is
+obtained and reinstall O-ring (10) and Nut (9).
+
+oo
+
+. Test the actuator for smooth operation and air leakage
+at service pressure before reinstalling.
+
+Changing Number of Springs
+
+1. Follow the Disassembly Procedures through step 5.
+
+o)
+
+. Determine spring combination, consult catalog torque
+charts, distributor or factory. Simply add or remove
+one or more of the spring cartridges.
+
+[9%]
+
+. Reassemble the actuator, paying special note to step 6
+in reassembling procedures.
+
+03/05 Page 3 0f4

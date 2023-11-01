@@ -1,0 +1,79 @@
+Va
+
+e
+FLOWSERVE
+an Mme
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+
+6  Commissioning
+
+6.1
+
+6.2
+
+6.2.1
+
+6.2.2
+
+Periodic checks
+
+Between installation and operation it is recommended to perform periodic checks and
+maintenance operations described in par. 8.1.
+
+Hydrostatic on-site testing recommendations
+
+When the valve requires hydrostatic testing (before or after the installation in a piping system)
+these instructions must be followed.
+
+Test fluid
+
+Hydrostatic tests must be carried out with fresh and clean water containing a water soluble
+corrosion inhibitor and chloride/fluoride content not exceeding 30 ppm.
+
+Air used for pneumatic test must be dry, clean and oil free (if applicable).
+
+It is client responsibility to make sure that testing medium is
+NOTICE conform to these recommendations and does not contain
+any components/particles that may compromise the
+
+correct valve functioning.
+
+tis client responsibility to make sure that testing medium is conform to these recommendations
+and does not contain any components/particles that may compromise the correct valve
+unctioning.
+
+Valve ready to be installed in a piping system
+
+fthe valve is ready to be installed in a piping system and requires hydrostatic testing, please
+ollow the Valbart Hydro Testing Procedure related to the specific job which the valve belong
+o in conjunction with the instructions specified below.
+
+Piping system pipes welded on the valve ends
+
+n case the valve has been prepared with piping system pipes welded on the valve ends, the
+piping system test pressures must be used.
+
+Drying
+1. The valve body cavity must be fully drained after completion of all tests and duly dried as
+
+follows:
+
+2. Drain the residue test liquid remaining the valve opening the drain port (remove the drain
+plug or the drain/vent bleeder).
+
+3. Flush the valve with compressed air from the vent port (vent/bleeder housing) in order to
+optimize the drain.
+
+4. Close the drain port (mount the drain plug or the drain/vent bleeder). Pay attention to
+remount the PTFE seal(s) in case of the drain fitting is provided with.
+
+5. Close the vent port (mount the vent bleeder). Pay attention to remount the PTFE seal(s) in
+case of the vent/bleeder is provided with.
+
+6. When accessible, proceed to aspirate the valve bore and the gaps between ball/seats
+and seats/closures.
+
+7. Dry and the internal bore of the valve.
+
+Page 19 of 35

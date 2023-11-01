@@ -1,0 +1,115 @@
+MEMORIAL DE CÁLCULO
+
+BRASKEM Folha: [02] DE Toa]
+4503649776
+
+Data: 5/09/23
+
+Ea
+
+XV-441054
+
+Rev.:
+
+Elaborado” 7 GARCIA Verificado: L. BARBEIRO Aprovado: N. IRON
+
+Et O
+FLOWSERVE
+e
+
+Flow Control Division
+
+Manufacturer :
+Model :
+
+Size :
+
+Seat Material :
+
+Bearing Material :
+
+Manufacturer
+
+Model :
+Spring Set :
+
+Valbart
+
+TMBV
+
+4 inch
+
+PEEK CT200
+PTFE+ELGILOY/GRAFITE
+
+S-Series SuperNova
+S250
+9
+
+Valve Torque
+
+Break To Open :
+Run :
+End/Open :
+
+Break To Close :
+
+Run :
+Seating :
+
+549 N-m Pneumatic Start :
+
+203 N-m
+
+270 N-m Pneumatic End :
+
+368 N-m
+203 N-m
+329 N-m
+
+Actuator Sizing Report
+
+Line Pressure :
+
+Duty Factor :
+
+Media Factor
+
+Total App. Factor :
+Safety Factor :
+
+Supply Pressure
+
+Fail Safe Type :
+
+Fail Direction :
+
+Actuator Torque
+
+Spring Start
+
+Spring End :
+
+1073 N-m
+
+494 N-m
+1117 N-m
+
+511 N-m
+
+51 kg/cm?
+
+3.923 bar
+Spring Return
+Clockwise(FCW)
+
+Calculated
+Safety Factor
+
+2,54
++00
+2,38
+3,95
+Rojo)
+2,02
+

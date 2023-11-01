@@ -1,0 +1,56 @@
+Host / Analyzer Communications, Continued
+
+Readable from Host Result values (Value type: RESULT)
+Computer Valid Addresses: 20001-49999, 70001-79999
+
+Expressed as a fraction of full scale (data type S) or as a 32-bit float
+(data type R). Designated for transmission by the Maxum analyzer from
+the Maxum's result table or ftom the Optichrom Advance analyzer. A
+“bad value” is used, when defined in the map, when a condition on the
+analyzer suggests that the values are not current or good. These condi-
+tions are:
+
+e the result exceeds the EUHI
+e the EUHI has changed
+
+e analyzer status is < 500 (in fault alarm, out of service, or application
+time limit has expired)
+
+e the stream is disabled.
+EUHI values (Value type: EUHI) Valid Addresses: 30001-49999
+
+This is the full scale value for each scaled result. It is set for each trans-
+mitted result in the Maxum's result table. The default value is 100. Itis
+sent to the Host as a 16-bit floating point number, as in the HCI-H. The
+value is useful to the host to verify the full scale value used. Additionally,
+the EUHI can be set by the Host to force synchronization and override
+any EUHI set manually on the Maxum. EUHI values must be >= 1.0.
+
+Analyzer/Application status (Value type: ANALYZERSTATUS)
+Valid Addresses: 30001-49999
+
+Each stream transmits the application status at the end of cycle. The
+status values can range from O to 1000, as follows:
+
+1000 normal, error free operation
+
+9ss Optichrom Advance warning alarm on stream ss
+
+7ss auto cal running on stream ss
+
+6ss manual cal running on stream ss
+
+5ss Optichrom Advance change test exceeded on stream ss
+4ss Optichrom Advance database change on stream ss
+
+3ss Optichrom Advance excessive rate of change test failed on
+stream ss
+
+2ss Optichrom Advance minimum rate of change test failed on
+stream ss
+
+100 application has fault alarm this cycle
+50 application is out of service, disabled, or in hold
+0 application is not transmitting results (timed out)
+
+10 «e Maxum MODBUS User's Guide 2000584-001

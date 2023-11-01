@@ -1,0 +1,95 @@
+Et O
+FLOWSERVE
+ee?
+
+Espe ações de Opção de Chave:
+
+Opção da Chave Fabricante No. da Peça Capacidade de Carga
+
+SPDT - M1 - Mecânica Honeywell V7-1C13D8-201 15,1A (1/2 HP) a 125/250VCA; Y2 A a 125VCC; 1/4A
+MicroSwitch a 250VCC; 5A a 120VCA
+
+MC-SPDT 250ºF - Honeywell V7-1C13D8-201 15,1A (1/2 HP) a 125 VCA; A a 125VCC; 1/4A à
+
+Mecânica MicroSwitch 250VCC; 5A a 120VCA
+
+MG — SPDT Dourada - Honeywell V7-1D19D8-201 1A a 125VCA/50 mA a 24VCC
+
+Mecânica MicroSwitch
+
+MA de 3 Posições - Honeywell V7-1C13D8-201 15,1A (1/2 HP) a 125 VCA; VA a 125VCC; 1/4A a
+
+Controle MicroSwitch 250VCC; 5A a 120VCA
+
+M3 — DPDT - Mecânica Cherry E19-00A 15A, 125/250 VCA 3/5CV
+
+MB — DPDT - Mecânica Licon 22-104 10A (1/2 HP) a 125VCA
+
+MD —3 Posições Controle Licon 22-104 10A (1/2 HP) a 125VCA
+
+c/ Indicação (DA)
+
+MS —3 Posições Controle Licon 22-104 10A (1/2 HP) a 125VCA
+
+c/ Indicação (SR)
+
+P4— SPST - Proximidade Aleph PS-6132 0,35A a 140VCA/.25A a 200VCC (50W Máx.)
+
+P5 — SPDT - Proximidade Hamlin 59135-030 0,25A a 120VCA/.25A a 28VCC (3W Máx.)
+
+PE — SPDT Sabre - Flowserve XAO199 1A a 120 VCA/2A a 24VCC
+
+Proximidade
+
+PP — SPDT Phazer - Flowserve XA0155 3A a 120 VCA/2A a 24VCC
+
+Proximidade
+
+PL — SPDT Phazer c/ LED Flowserve XA0154 0,5A a 120 VCA/0,3A a 24VCC
+
+PT — SPST BRS - Flowserve XA0157 3A a 120 VCA/0,5mA a 24VCC
+
+Proximidade
+
+PX-—SPST BRS c/ LED Flowserve XA0156 0,5A a 120 VCA/0,3A a 24VCC
+
+N8 - Estado Sólido — Pepperl + Fuchs NJ2-V3-N
+
+Proximidade Saída do Sensor NAMUR/ Fornecimento de 5 a
+
+NP - Estado Sólido — Pepperl + Fuchs SJ3.5-N 25VCC
+
+Proximidade
+
+NQ - Estado Sólido — Pepperl + Fuchs NJ4-12GK-N
+
+Proximidade
+
+NR - Estado Sólido - Pepperl + Fuchs NJ4-12GM40-E1 PNP Sinking /200mA máx. Corrente /10 a 60VCC
+
+Proximidade
+
+NS - Estado Sólido — Pepperl + Fuchs NJ4-12GM40-E2 NPN Sourcing / 200 mA máx. Corrente /10 a 60VCC
+
+Proximidade
+
+NT - Estado Sólido - Pepperl + Fuchs NJ4-12GK40-E2 NPN Sourcing / 200mA máx. Corrente/10 a 60VCC
+
+Proximidade
+
+NU — SPDT GO - Go 35-13319-A1A 4A a 120VCA/2A mA a 240VCA
+
+Proximidade
+
+N9 - Estado Sólido — Pepperl + Fuchs NBB3-V3-Z4 NPN/ Sourcing / 100mA máx. Corrente / 5 a 60VCC
+
+Proximidade
+
+SN -3 vias - Pneumático
+
+Favor consultar a fábrica para mais especificações técnicas.
+
+FZ - AS-| Bus Card 31VCC 28mA
+
+Experience In Motion
+

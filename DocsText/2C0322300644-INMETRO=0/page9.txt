@@ -1,0 +1,63 @@
+CERTIFICADO DE CONFORMIDADE
+
+CERTIFICATE OF CONFORMITY
+Certificado No. / Certificate No. UL-BR 12.0005X
+
+Certificado de Conformidade válido somente acompanhado das páginas de: 1a9
+Certificate of Conformity valid only with the following pages.
+
+Emissão / Dateofissue | 13 de janeiro de 2012 / January 13, 2012
+Revisão / Revision Date 27 de setembro de 2021 / September 27, 2021
+Validade / Expire date 12 de janeiro de 2024 / January 12, 2024
+
+OBSERVAÇÕES / OBSERVATIONS:
+
+1.
+
+Este certificado aplica-se aos produtos idênticos ao protótipo avaliado e certificado, manufaturados na(s) unidade(s) fabril(is)
+mencionada(s) neste certificado, sendo este válido apenas para produtos fabricados/produzidos após a sua emissão.
+
+Qualquer alteração no produto, incluindo a marcação, invalidará o presente certificado, salvo se o solicitante informar por escrito à
+UL do Brasil Certificações sobre esta modificação, a qual procederá à avaliação e decidirá quanto à continuidade da validade do
+certificado.
+
+Somente as unidades comercializadas durante a vigência deste certificado estarão cobertas por esta certificação.
+
+Os equipamentos devem ser instalados em atendimento ás Normas pertinentes em Instalações Elétricas em Atmosferas Explosivas,
+ABNT NBR IEC 60079-14.
+
+As atividades de instalação, inspeção, manutenção, reparo, revisão e recuperação dos equipamentos são de responsabilidade dos
+usuários e devem ser executadas de acordo com os requisitos das normas técnicas vigentes e com as recomendações do fabricante.
+
+É de competência do solicitante estabelecido fora do país notificar o representante legal para fins de comercialização no Brasil,
+importador ou o próprio usuário sobre as responsabilidades e obrigações prescritas na Cláusula 10 da Portaria 179:2010.
+
+A validade deste Certificado de Conformidade está atrelada à realização das avaliações de manutenção e tratamento de possíveis
+não conformidades de acordo com as orientações da UL do Brasil Certificações previstas no RAC específico. Para verificação da
+condição atualizada de regularidade deste Certificado de Conformidade deve ser consultado o banco de dados de produtos e serviços
+certificados do Inmetro.
+
+This certificate applies to the products that are identical to the prototype investigated, certified and manufactured at the production site(s) mentioned in this certificate,
+being valid only for products produced/manufactured after its issuance.
+
+Any changes made on the product, including marking, will invalidate this certificate unless UL do Brasil Certificações is notified, in written, about the desired change,
+who will conduct an analyzes and will decide over the continuity of the certificate validity.
+
+Only the products placed into the market during the validity of this certificate will be covered by this certification.
+The equipment shall be installed according to the relevant Standards in Electrical Installation for Explosive Atmospheres, ABNT NBR IEC 60079-14.
+
+The installation, inspection, maintenance, repair, review and rebuild equipment activities are responsibility of the end user and must be performed in accordance with
+the requirements of the standards and manufacturer's recommendation.
+
+Ifthe applicant is established outside of Brazil it is their responsibility to notify the legal representative for commercial purposes in Brazil, importer or end user of the
+responsibilities and obligations described in Clause 10 of Portaria 179:2010.
+
+The validity of this Certificate of Conformity is subjected to the conduction of the maintenance evaluations and treatment of possible nonconformities according to
+UL do Brasil Certificações guidelines in accordance with the specific RAC. In order to verify the updated condition of validity of this Certificate of Conformity, the
+Inmetro database of certified products and services must be consulted.
+
+Organismo de Certificação / UL do Brasil Certificações
+Certification Body Avenida Engenheiro Luis Carlos Berrini, 105 — 24º andar
+04571-010 — Brooklin — São Paulo — SP — Brasil
+
+Página / Page 8/9 41-IC-FO400 rev. 18.0

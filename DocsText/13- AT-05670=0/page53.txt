@@ -1,0 +1,44 @@
+Function 02 — Read Input Status
+
+Master Command The master sends a command requesting the values of a number of digi-
+tal inputs (table 1) that specifies the initial address to read and the num-
+ber of locations to read. For example, the master might request a read of
+the 22 inputs 10197 through 10218 from slave 17. Translating the values
+into hexadecimal, this is a request that slave 0x11 read 0x0016 digitals
+starting at address 0x00C4 (corresponds to table offset 0197 of table 1):
+
+Function
+Slavef Code Data Start Quantity
+High Low High Low
+11 02 00 c4 00 16
+
+Read Input Status Command
+
+Slave Response If the slave can process the command without error, the slave will re-
+spond with its identifier, the function code, a count specifying the number
+of data bytes required to pack the digitals, and the string of data bytes.
+
+For example:
+Slavef Function Byte Data Data Data
+Code Count Byte O Byte 1 Byte 2
+11 02 03 AC DB 35
+
+Read Input Status Response
+
+In this example,
+
+OxAC (10101100) indicates that inputs 10199, 10200, 10202, and
+10204 are on.
+
+0xDB (11011011) indicates that inputs 10205, 10206, 10208, 10209,
+10211, and 10212 are on.
+
+0x35 (00110101) indicates that inputs 10213, 10215, 10217, and
+10218 are on.
+
+All of the other inputs are off (value of zero).
+
+Note: the two most significant bits of data byte 2 (third byte) are all un-
+used and are therefore set to zero.
+
+2000584-001 Maxum MODBUS User's Guide e 47

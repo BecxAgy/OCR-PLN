@@ -1,0 +1,35 @@
+Getting Started, continued
+
+Special Instructions >
+
+Do not duplicate data in the address map. There should be only one
+address defined for analyzer 1, application 1, Stream 1, result 1.
+(This differs from the HCIH address map.)
+
+The address map must contain an ANALYZER STATUS for every
+transmitting analyzer/application.
+
+The address map must contain a RESULT for every transmitted
+component (with EUHI if required).
+
+lfthe bad value is > O there will be the normal process of setting
+values “bad.” Otherwise, the component values will be stored as is.
+
+Messages from the host must be alternated until version 3.11.
+
+EUHI values must be >= 1.0.
+
+Addresses in the 40000s, 20000s, and 70000s all map to the same
+registers. Do not overlap the addresses. i.e., do not use 40001 and
+70001 in the same map.
+
+Starting with Version 3.1, itis acceptable to request a range of ad-
+dresses, some of which do not exist. Bad values will be returned for
+the undefined addresses. The first address in the range must exist in
+the address map.
+
+Starting with Version 3.1, RS-485 multidrop is operational.
+
+32 « Maxum MODBUS User's Guide
+
+2000584-001

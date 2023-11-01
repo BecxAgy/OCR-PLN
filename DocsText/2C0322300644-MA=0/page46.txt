@@ -1,0 +1,59 @@
+Et O
+FLOWSERVE
+eae?
+
+Especificações de Opção de Retroalimentação Analógica:
+Opções T, D, E, S - 4-20 mA - Transmissor
+
+Tensão: 6 a 30VCA
+Impedância: 300 Ohms a 20mA
+
+Opções A, B, C — Saída do Potenciômetro
+Carga Máxima: 1 Watt
+
+Classificações do Invólucro
+
+NEMA 4,4x,7e9
+IP67 (somente CSA)
+
+Aprovações para Locais Classificados (de Risco):
+
+Todas as Opções de Chaves
+À prova de chama
+
+[dá ATEX IECEx
+0518 Ex 2 G Exd IB T5 Ex dIIB T5
+
+12D ExtD AZ1 IP 65 ExtD AZ21 IP 65
+T5O-20C< a <+55ºC, T50-20'C<s a <+55C,
+EN 60079-0:2004 IEC 60079-0:2004 (Ed 4)
+EN 60079-1:2004 IEC 60079-1:2003 (Ed.5)
+EN 61241-0:2006 IEC 61241-0:2004 (Ed.1)
+EN 61241-1:2004 IEC 61241-1:2004 (Ed.1
+
+Opções de Chaves Mecânicas
+
+A Prova de Explosão (UL/CSA)
+Classe |, Divisão 1, Grupo C, D
+Classe Il, Divisão 1, Grupo E, F,G
+Classe Il, Divisão 2, Grupo F,G
+Classe III (somente CSA)
+
+Opções de Chave de Proximidade/Estado Sólido
+A Prova de Explosão (UL/CSA)
+
+Classe |, Divisão 1, Grupo C, D
+
+Classe |, Divisão 2, Grupo A, B, C,D T3
+
+Classe Il, Divisão 1, Grupo E, F,G
+
+Classe Il, Divisão 2, Grupo F,G
+
+Classe III (somente CSA)
+
+NOTA: Ao utilizar uma chave de proximidade selada (P4, P5, PP e PL) nas aplicações da Divisão 2 na América do Norte, o uso
+da conexão da vedação não é obrigatório.
+
+Experience In Motion
+

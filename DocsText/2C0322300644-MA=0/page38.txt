@@ -1,0 +1,68 @@
+Automax Valve Automation Systems
+
+-—
+FLOWSERVE
+
+Installation, Operation and Maintenance Instructions
+
+Flowserve Corporation
+Flow Control Division
+Www.flowserve.com
+
+1350 N. Mountain Springs Parkway 1978 Foreman Dr.
+Springyville, Utah 84663-3004 Cookeville, TN 38501
+Phone: 801 489 2233 Phone: 931 432 4021
+
+SNA250 / SNA300
+All actuators are factory lubricated for life, but still should be necessary to turn or stroke the actuator a few degrees and/or
+protected from the elements and stored indoors until ready for adjust the actuators travel stops. Bolt the actuator to the bracket.
+use. The ports of the actuator are plugged as supplied from
+he factory. If actuators are stored for a long period of time After consulting the valve manufacturer's recommendations,
+prior to installation, the units should be stroked periodically adjust the travel stop bolts of the actuator for the proper open
+o prevent the seals from taking a set. or closed valve position. Adjust the Stop Bolt (8) until the
+desired travel is obtained and reinstall O-ring (10) and Nut (9).
+Prior to assembly, check the mounting surfaces, the stem Pneumatically stroke the actuator several times to ensure
+adaptor and the bracket to assure proper fit. Manually open proper operation with no binding of the stem adaptor. If the
+and close the valve to insure freeness of operation. Be sure actuator is equipped with an UltraSwltch or other accessories,
+he valve and Automax actuator rotate in the same direction adjust them at this time.
+and are in the same position (i.e., valve open, actuator open).
+Secure the valve with the stem vertical. Bolt the bracket to the To prolong actuator life use only clean, dry plant air. Lubricated air is
+valve and place the stem adaptor on the valve stem. Position not required, however it is recommended particularly for high cycle
+he actuator over the valve and lower to engage the stem applications. CAUTION: Do not use lubricated air with positioners,
+adaptor to the actuator shaft.
+Dimensional Information
+Continue to lower until the actuator seats on the bracket MODEL SNA250 SNA300
+mounting surface. In order to align the bolt holes, it may be A (DA & SR) 27.32 32.60
+180º 39.14 44.00
+o B 4.250 5.000
+E mn” C 5/8-11x.63 |5/8-11x.86
+| ME ni D 2.87 N/A
+a o O — Pa -ÓRAN E 1.850 N/A
+LO TO PET TAS ua E O—ia56
+DT] im H(NPT) 1/2 1/2
+RR J 5.91 6.30
+Q FOR CLEMRANCE | K 11.02 13.39
+L 1.181 1.181
+M 5.118 5.118
+NoS 10-24 10-24
+09 2.20 2.44
+P 1.969 1.969
+PP 0.98 0.98
+[0[2) 3.75 3.75
+R 1.65 1.65
+s 0.24 N/A
+Wis. Ibs. (DA) 137 217
+Wis. Ibs. (SR) 172 288
+Volume (Nº) cw 757 1403
+Volume (IN) cow 720 1019
+Ot Notes:
+Bottom View Bottom View OD Actuators shown in the full clockwise (CW) position as viewed from
+REA the accessory side.
+“15 a O Accessory mounting holes not for gear override or stop block.
+Optional " Es TAS fe) Dee tudo antro mount. Bolts are not recommended
+ain isto | Ps + E ) (o) Air consumption per9oº = Vo ( Sue Pressure + 147)
+M6x 12 MM Deep 7 Na (Standard cubic feet) 1728 NO TETO
+H NPT SUPPLY (CW).
+
+FCD AXAIMO005-00 (LMROO14-1) (AUTO-5) 03/05 Page 1 0f4
+O 2005, Flowserve Corporation, Printed in USA

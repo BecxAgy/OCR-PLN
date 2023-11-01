@@ -1,0 +1,57 @@
+MODBUS Primer, Continued
+
+RTU Checksum MODBUS RTU uses a CRC-16 (cyclic redundancy check) checksum, an
+equivalent to doing a polynomial division of the message in modulo-
+65536 (i.e., keep the remainder and discard the quotient). The algorithm
+usually does this one bit at a time. However, modulo arithmetic allows
+this to be done one byte at a time, by precomputing a table of all 256 of
+the possible CRC-16 checksums for a single-byte message.
+
+To compute the 16-bit CRC-16 checksum for a message:
+(1) Initialize the cnecksum to OxFFFF (65535 in decimal);
+
+(2) For each byte in the message, starting with the first, do:
+(2.a
+
+Exclusive OR the message byte with the less significant
+
+byte of the checksum;
+
+(2.b) Use the result of (2.a) as an index into the precomputed
+CRC-16 lookup table;
+
+(2.c) Exclusive OR the result of (2.b) with the more significant
+
+byte of the checksum;
+
+(2.d) Replace the current cnhecksum with the result of (2.C);
+
+CRC-16 Lookup Table Use the following steps to create the CRC-16 lookup table. This is only
+one of many ways to compute CRC-16 checksums.
+
+(1) For each of the values 0 to 255, do:
+(1.a) | Initialize the checksum to 0xFFFF (65535 in decimal);
+
+(1.b) Exclusive OR the less significant byte of the checksum
+with the value between O and 255;
+
+(1.c) Replace the less significant byte of the checksum with
+the result of (1.b);
+
+(1.d) Do the following 8 times:
+(1.d-1) If the least significant bit of (1.c) is 1 then:
+(1.d-1.a) Right shift the checksum one bit;
+
+(1.d-1.b) Exclusive OR the result of (1.d-1) with
+0xA001 (40961 in decimal);
+
+(1.d-1.c) Replace the checksum with result of
+(1.d-2);
+(1.d-2) Else:
+(1.d-2.a) Right shift the checksum one bit;
+(1.d-2.b) Replace the checksum with the result of
+(1.e);
+(1.e) Place the result of (1.d) in the table at the index speci-
+fied by the value between O and 255.
+
+2000584-001 Maxum MODBUS User's Guide e 39

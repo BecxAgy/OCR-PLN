@@ -1,0 +1,24 @@
+Formula for Map Size, Continued
+
+Customer wants 18 applications, 162 streams (9 per app), 1458 scaled
+
+Example 3 results (9 per stream)
+
+Customer wants all addresses as in HCI-H
+
+Map needs:
+18 for application status
+2916 for results/euhi
+162 for readme
+162 for stream enable/disable
+162 for force stream
+18 for dedicated stream
+18 for run/hold
+36 for calibration
+180 for euhi change
+162 for next stream
+18 for cycle length
+- 162 for select stream from host
+3852 addresses
+
+34 e Maxum MODBUS User's Guide 2000584-001

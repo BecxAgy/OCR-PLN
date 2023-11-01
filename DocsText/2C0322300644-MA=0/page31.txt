@@ -1,0 +1,108 @@
+e
+FLOWSERVE
+á Ne *
+
+9 Troubleshooting Guide
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+
+Depressurize the line before starting any maintenance activity.
+Failure to do so may cause serious personal injury and-or
+equipment damage.
+
+Table 8: Troubleshooting recommendations
+
+SCENARIO
+
+CAUSES
+
+REMEDIES
+
+EXTERNAL LEAK
+
+SEALANT INJECTORS ARE
+LEAKING
+
+Dirty particles are present
+inside check valve of fitting.
+
+Dirty particles or damaging
+
+under needle protection cup.
+
+Leaks from the NPT thread.
+
+nject a small amount of valve
+cleaner inside the fitting until
+the leakage has stopped.
+
+Remove the cup, inspect and
+clean the needle area. If
+damaged replace with a new
+one.
+
+ighten the fitting until the
+eakage disappears.
+
+f the problem persists replace
+the fitting when the line is not
+under pressure.
+
+THE STEM IS LEAKING
+
+The stem seals are damaged.
+
+nject sealant into injection
+ifting.
+
+Replace the stem gasket or
+stem seals (ref to relevant
+procedures).
+
+VALVE BODY FLANGED
+CONNECTION LEAKAGE
+
+Seals and gasket are
+damaged.
+
+Seals housings are corroded.
+
+Bolts tightening of the flanged
+connection should be verified.
+
+Valve should be removed from
+the line for maintenance.
+
+Contact Valbart after sales
+service.
+
+VENT AND/OR DRAIN BLEEDER
+ARE LEAKING (SAFETY PLUGS)
+
+Needle screws are not
+properly closed.
+
+Check that the needle is
+properly closed tightening it.
+
+ry to re-open and re-close the
+needle.
+
+f the problem persists replace
+the fitting when the line is not
+under pressure.
+
+Leaks from the NPT thread.
+
+ighten the fitting per table 7.
+
+f the leak does not stop, use a
+sealant applied on the threads
+temporary solution).
+
+f the problem persists replace
+the fitting when the line is not
+under pressure.
+
+Page 29 of 35
+

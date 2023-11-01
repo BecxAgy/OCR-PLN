@@ -1,0 +1,94 @@
+information
+status.
+types..
+information types
+defined in map... q
+limits
+address map...
+component ..
+operational...
+stream
+
+Loopback Diagnostics Test
+function 08..
+map
+
+address... reererereeeeeeeeaeaerereratnaa 15
+
+create or edit...
+edit or view.
+entries
+examples.
+formula for size.
+how to load
+limits.
+rules...
+sample lines ...
+message
+
+data types
+Operation...
+operational checks
+Preset Multiple Registers
+
+function 16... seereeeeerererererererereeesenesa 59
+Preset Single Register
+
+function 06... serererereeererererererereeeesenesa 53
+protocol
+
+implementation. .
+
+Modbus.............. reias
+Read Coil Status
+
+Function 01.
+Read Input Registers
+
+function 04... eretas 50
+Read Input Status
+
+Function 02... eerarrranaa 47
+Read Output Registers
+
+function 03..
+references...
+response codes
+
+exception... rrenan 26
+results
+
+floating point .
+
+scaled...
+ResultValue
+
+checksum..
+
+restrictions
+sample lines
+
+MAP... ccerrrerererereeararerererererereararererereerenoa
+scale factor....
+scaled results.
+
+ScaleFactor 29
+serial
+
+settings... rrreeeeeeeerererereeerereaaeanad 4
+set up
+
+analyzers.......... ii iieeeeerereaeeererarareanas 31
+
+special instructions
+getting started
+
+status information ...
+
+values
+component... rrenan 6
+TOSUÍt......... ri rrereeeerereeeeerererararereana 6
+
+Index 2 + Maxum MODBUS User's Guide
+
+2000584-001

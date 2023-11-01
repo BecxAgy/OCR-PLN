@@ -1,0 +1,60 @@
+Getting Started
+
+“Empty Database”
+
+Set Up Maxum
+Analyzers
+
+Set Up Optichrom
+Advance Analyzers
+
+On an “empty database” do these things.
+
+1.
+
+Configure MODBUS slave and serial port: Using Advance System
+Manager, enter a value in the modbus setting attribute of the Sys-
+tem Control table.
+
+If an address map does not exist, create one using Microsoft ExcelO.
+You will need to know the analyzer %, application %, stream %, and
+trtval 4 for every result that the system needs to handle. You will also
+need to know the specific customer requirements for host computer
+controls and information. See the Formula for Map Size section to
+determine if the system can handle the number of addresses re-
+quired. 4000 addresses are a good rule of thumb for this limitation,
+but certain configurations may allow more or less addresses. The
+reason for this is that a map with more flags defined, as opposed to
+results, takes up less room than a map with mostly results. The limit
+for a map with only analyzer status and results may be less than
+4000. Note that a much larger map may be successfully loaded, but
+when the NAU goes through a reset, the database cannot be rebuilt.
+
+Load the address map: Use Advance System Manager's Load
+MODBUS utility (under Tools/Advance Tools/Loader/Load
+MODBUS) to add the address map to the NAU.
+
+Use the Advance System Manager to add the NAU to the host table
+of the “sending” analyzers. Use Type 6 and set anlzref to the NAU's
+analyzer id. If the NAU does not appear in the list box, wait until it
+broadcasts (10-15 minutes).
+
+Use the Advance System Manager to make entries in the “sending
+analyzer” result table to indicate which component values to send.
+Indicate the result values to send by placing an integer value in the
+TRTVAL to indicate the result 4 in the address map. EUHI values are
+set in the result table. The NAU's address map will direct the result
+to a specific MODBUS address using the anlz, application, stream,
+and result attributes in the address map table (modbus addmap).
+
+Set up the Optichrom Advance's results and events exactly as done
+for transmitting to an HCI-H.
+
+The NAU will need to have a loop, unit defined in order to receive
+Advance Data Hiway messages. Define the loop and unit under Ad-
+vance System Manager/System Tables/System control or on the
+MMI/Menu/Setup/System.
+
+2000584-001
+
+Maxum MODBUS User's Guide e 31

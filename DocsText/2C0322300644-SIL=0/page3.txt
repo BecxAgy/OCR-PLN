@@ -1,0 +1,75 @@
+V 1079.01/18 - page 2
+
+Holder:
+
+Product tested:
+
+Results of Assessment
+
+A TÚVRheinland”
+Precisely Right.
+
+Flowserve S.r.l.
+
+Valbart
+
+Via delle Industrie 15
+
+20883 Mezzago (MB)
+
+Italy
+
+Side Entry Trunnion Mounted Ball Valves:
+VB2, VB3, VW1, TMCBV
+
+Top Entry Trunnion Mounted Ball Valves: VT1
+Rising Stem Ball Valves: RSBV
+
+Route of Assessment
+Type of Sub-system
+Mode of Operation
+
+PRER
+
+Type A
+
+Low Demand Mode
+(o)
+
+Hardware Fault Tolerance HFT
+Safety Function
+Lambda Dangerous
+confidence level of calculation 1-a = 95 % ho
+Lambda Dangerous Undetected
+assumed Diagnostic Coverage DC = 0 % hou
+Mean Time To Dangerous Failure MTTF5
+Average Probability of Failure on Demand 1001
+assumed Proof Test Interval T, = 1 year PFDavolT1) 5.17 E-04 1.88 E-03
+Average Probability of Failure on Demand 1002
+assumed Proof Test Interval T, = 1 year PFDavg(T+) 1.88 E-04
+assumed B4002 = 10 %
+
+Origin of values
+
+The stated values are the results of an FMEDA. It was verified by qualification test of the safety
+function under critical conditions and the analysis of field feedback of the last eight years. Random and
+systematic failures which are the responsibility of the manufacturer were examined.
+
+Systematic Capability
+
+The development and manufacturing process and the functional safety management applied by the
+manufacturer in the relevant lifecycle phases of the product have been audited and assessed as
+suitable for the manufacturing of products for use in applications with a maximum Safety Integrity
+
+Level of 3 (SC 3).
+
+Periodic Tests and Maintenance
+
+The given values require periodic tests and maintenance as described in the Installation, Operating
+
+and Maintenance Manual and the Safety Manual.
+
+The operator is responsible for the consideration of specific external conditions (e.g. ensuring of
+required quality of media, max. temperature, time of impact), and adequate test cycles.
+
+TUV Rheinland Industrie Service GmbH, Am Grauen Stein, 51105 Kôln / Germany

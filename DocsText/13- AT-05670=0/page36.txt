@@ -1,0 +1,50 @@
+Floating Point Formats, Continued
+
+Conversion Routines The following are conversion routines for this format, written in C. The
+information can be used by host computer software engineers for setting
+the EUHI from the host or translating the EUHI reported by the NAU.
+These routines are valid for EUHI values greater than 1.0.
+
+intto euhi(float input);
+
+t
+int output;
+int man;
+int exp;
+float temp;
+
+for (exp = O; ;++exp)
+
+t
+if ((1 << exp) > input)
+break;
+
+-exp; /* 1 to compensate for going too far */
+
+temp = input - (1 << exp);
+man = (int)(temp * (512 /(1 << exp)));
+
+output = ((exp + 31) << 9) + man;
+return output;
+
+)
+
+/* Convert number from EUHI */
+float from euhi(int input)
+f
+float output;
+int man;
+int exp;
+float temp;
+
+exp = (input >> 9) - 31;
+man = input & 0x1FF;
+
+temp = man;
+
+output = temp / (float)(1 << (9 - exp));
+output += 1 << exp;
+
+return output;
+
+30 « Maxum MODBUS User's Guide 2000584-001

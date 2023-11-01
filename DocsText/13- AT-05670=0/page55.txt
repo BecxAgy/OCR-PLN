@@ -1,0 +1,56 @@
+Function 03 — Read Output Registers
+
+Master Command
+
+Slave Response
+
+Error Response
+
+The master sends a command requesting the values of a number of out-
+put registers (table 4), specifying the initial address to read and the num-
+ber of locations to read. For example, the master might request a read of
+the 3 registers 40108 through 40110 from slave 17. Translating the val-
+ues into hexadecimal, this is a request that slave 0x11 read 0x0003 ana-
+ogs starting at address 0x006B (corresponds to table offset 0108 of ta-
+ble 4):
+
+Slavef Function Data Start Quantity
+Code
+High Low High Low
+11 03 00 6B 00 03
+
+Read Output Registers Command
+
+If the slave can process the command without error, the slave will re-
+spond with its identifier, the function code, a count specifying the number
+of data bytes required for the analogs, and the string of data bytes. For
+example:
+
+Slave Function Byte
+Eid Code Count Word O Word 1 Word 2
+
+High Low High Low High Low
+11 03 06 02 2B 00 00 00 64
+
+Read Output Registers Response
+
+In this example, registers 40108, 40109, and 40110 have the values 555
+(0x022B), O (0x0000), and 100 (0x0064) respectively.
+
+Similar to Function Code 01, an ILLEGAL DATA ADDRESS error re-
+sponse will be sent if the starting address or combination of starting ad-
+dress and number of analogs exceeds the configured range of analog
+outputs (table 4).
+
+An ILLEGAL DATA VALUE error response will be sent if the number of
+registers exceeds 127 which is the limit that can be packed into 254 data
+bytes for a response.
+
+Note: some devices limit the response length to 250 data bytes (125
+registers). However, the function code in the error response, will be 131
+(0x83), indicating that the error occurred on a command with Function
+Code 03.
+
+2000584-001
+
+Maxum MODBUS User's Guide «e 49

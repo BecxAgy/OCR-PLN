@@ -1,0 +1,66 @@
+MODBUS Functions
+
+Function Codes
+
+MODICON has defined many MODBUS Function Codes, most of which
+are specialized for PLC configuration and some are only used with spe-
+cific models of PLC's. Most vendors only implement a subset of the
+MODBUS functions.
+
+The following functions are almost always supported:
+
+Function 01 Read Coil Status reads a string of digital outputs
+(table 0)
+
+Function 02 Read Input Status reads a string of digital inputs
+(table 1)
+
+Function 03 Read Holding Registers reads a string of analog outputs
+(table 4)
+
+Function 04 Read Input Registers reads a string of analog inputs
+(table 3)
+
+Usually Supported Functions
+
+The following functions are almost as common:
+
+Function 05 Force Single Coil writes a value to a single digital
+output (table 0)
+Function 06 Preset Single Register writes a value to a single analog
+
+output (table 4)
+
+Very Common Functions
+
+The following functions are also very common:
+
+Function 15 Force Multiple Coils writes values to a string of digital
+outputs (table 0)
+
+Function 16 Preset Multiple Regis- writes values to a string of analog
+ters outputs (table 4)
+
+Common Functions
+
+Note: At least one of Function 05 and Function 15 will be implemented.
+Usually both are. At least one of Function 06 and Function 16 will be im-
+plemented. Usually both are.
+
+Less common functions are:
+
+Function 08 Loopback Diagnostic diagnostic test message sent to
+Test test communications
+
+Function 11 Fetch Event Counter check slave's communications
+Communications counter
+
+Less Common Functions
+
+The other MODBUS functions tend to be specific to models of
+MODICON PLC's and are not described here.
+
+2000584-001
+
+Maxum MODBUS User's Guide «e 43
+

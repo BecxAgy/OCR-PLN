@@ -1,0 +1,77 @@
+Host / Analyzer Communications
+
+Description
+
+This table summarizes the information types and availability. Topics in
+the following pages provide details for each information type.
+
+Availability
+
+Information
+
+Always available to the
+Host
+
+Available to the Host
+when defined in the ad-
+dress map
+
+Result values (Value type: RESULT)
+EUHI values (Value type: EUHI)
+
+Analyzer/Application status (Value type:
+ANALYZERSTATUS)
+
+Readme flags (Value type: rdme)
+
+Database change flags (Value type:
+DCHG)
+
+EUHI change flags (Value type: ECHG)
+
+Stream skip flags (Value type:
+SKIPSTREAM)
+
+Dedicated Stream (Value type:
+DEDICATEDSTREAM)
+
+Stream active flags (Value type:
+CURRENTSTREAM
+
+Analyzer standby (Value type: STANDBY)
+MapCalibration (Value type: CALIBRATE)
+
+Cycle Length (Value type:
+CYCLELENGTH)
+
+Diread(Value type: DIREAD)
+Alarm(Value type: ALARM)
+
+Host Controls sent to
+Maxum Analyzers when
+addresses are defined
+
+Analyzer control (Value type: STANDBY)
+
+Calibration control (Value type:
+CALIBRATE)
+
+Stream control (Value type:
+SELECTSTREAM. SKIPSTREAM)
+
+EUHI change (Value type: EUHI)
+
+Set clock (Value types: SCMIN, SCSEC,
+SCHR, SCDAY, SCMON, SCYEAR)
+
+Clear Alarms (Value type:CLEARALARM)
+
+Program Run (Value type:
+PROGRAMRUN)
+
+DO set (Value type: DOSET)
+
+2000584-001
+
+Maxum MODBUS User's Guide e 9
+

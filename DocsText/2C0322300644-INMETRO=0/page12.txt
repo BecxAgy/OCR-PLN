@@ -1,0 +1,66 @@
+DNV-GL
+
+DNV GL - BUSINESS ASSURANCE
+CERTIFICADO DE CONFORMIDADE
+
+Certificate of Conformity 7 Certificado de Conformidad
+
+Certificado nº: DNV 12.0059 X — Revisão 05 Emissão: 31/05/2021 Válido até: 31/05/2024
+Certificate nº / Certificado nº Issuance / Otorgamiento Valid until / Válido hasta
+Local de Fabricação adicional: PMV AUTOMATION AB
+Additional Manufacturing location(s): Korta Gatan 9
+Ubicación de fabricación adicionales (s): SE-171 54 Solna
+
+Sweden
+
+Data da auditoria: 19/05/2021
+
+BROVEX MEKANISKA VERKSTAD AB
+Garpenbergsgatan 4
+
+SE-163 53 Spânga
+
+Sweden
+
+Data da auditoria: 21/05/2021
+
+UNIMET D.0.0
+
+Delfe Ivanic 51
+
+RS-21241 Kac
+
+Serbia
+
+Data da auditoria: 20/05/2021
+
+Descrição do Equipamento:
+
+A chave fim de curso modelo UltraSwitch!”M fornece indicação de posição local ou remota para válvulas
+automatizadas. As chaves fim de curso são equipadas com uma série de opções e adequadas a uma variedade de
+aplicações elétricas, possuem invólucro em alumínio e são constituídas das seguintes partes principais:
+
+— — Base do invólucro principal
+
+— — Tampa do invólucro principal (plana ou com domo)
+— — Eixo e mancais de bronze
+
+— — Anéis de vedação O-ring
+
+O tipo de proteção “à prova de explosão” das chaves fim de curso depende dos seguintes aspectos:
+
+— — Juntas roscadas
+
+— — Juntas cilíndricas
+
+— — Anéis de vedação O-ring
+
+— — Resistência mecânica do invólucro
+
+Todas as conexões externas são realizadas através de terminais instalados no interior do invólucro. Alguns
+modelos de chaves fim de curso possuem indicador na tampa (vermelho = fechado / verde = aberto) para a
+visualização local da posição. O equipamento não possui juntas soldadas.
+
+DNV GL Business Assurance Avaliações e Certificações Brasil Ltda
+Av. Alfredo Egydio de Souza Aranha, 100 - Bloco D - 3º Andar — CEP: 04726-908 - São Paulo, SP, Brasil
+Form Ref.: ZNS-BR-EX-006 Rev.: 03 Data: 03/01/2020 http:/Awww.dnvgl.com.br Pág.:2 de 7

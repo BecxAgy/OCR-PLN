@@ -1,0 +1,25 @@
+Copyright Notice
+
+2002-2007 by Siemens
+All rights reserved.
+
+This publication is for information only. The contents are subject to change without notice and should not
+be construed as a commitment, representation, warranty, or guarantee of any method, product, or device
+by Siemens
+
+Reproduction or translation of any part of this publication beyond that permitted by Sections 107 and 109
+of the United States Copyright Act without the written consent of the copyright owner is unlawful.
+
+Inquiries regarding this manual should be addressed to:
+Siemens Energy & Automation, Inc.
+
+7101 Hollister Road
+
+Houston, TX 77040
+
+USA.
+
+Trademarks
+
+Maxum is a trademark of Siemens
+

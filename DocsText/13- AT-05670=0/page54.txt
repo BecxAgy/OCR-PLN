@@ -1,0 +1,17 @@
+Function 02 — Read Input Status, Continued
+
+Error Response Similar to a Function Code 01, an ILLEGAL DATA ADDRESS error re-
+sponse will be sent if the starting address or combination of starting ad-
+dress and number of digitals exceeds the configured range of table 1
+(digital inputs).
+
+An ILLEGAL DATA VALUE error response will be sent if the number of
+digitals exceeds 2040, the limit that can be packed into 255 data bytes
+for a response.
+
+Note: some devices will limit the response length to 250 data bytes
+(2000 digitals). However, the function code in the error response, will be
+130 (0x82) indicating that the error occurred on a command with Func-
+tion Code 02.
+
+48 «e Maxum MODBUS User's Guide 2000584-001

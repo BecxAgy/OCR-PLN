@@ -1,0 +1,63 @@
+33
+
+AT-44004 ACETYLENE
+
+RESULT anlz/app/strm/res: 8212/2/2/2
+
+2/RESULT
+
+34
+35
+
+AT-44004 HYDROGEN
+AT-44004 ACETYLENE
+
+RESULT anlz/app/strm/res: 8212/2/21/1
+RESULT anlz/app/strm/res: 8212/2/21/2
+
+1/RESULT
+2/RESULT
+
+ref |host tag desc data type |address res |value type init value
+SF 9999
+
+3/AT-44004 STANDBY anlz/app/strm/res: 8212/1// B 1 O|STANDBY 0 1 0
+4/AT-44004 STANDBY anlz/app/strm/res: 8212/2// B 2 O|STANDBY 0 1 0
+5/AT-44004 SKIPSTRM anlz/app/strm/res: 8212/1/1/ B 1 O|SKIPSTREAM 0 1 0
+6/AT-44004 SKIPSTRM anlz/app/strm/res: 8212/1/20/ B 1 O|SKIPSTREAM 0 1 0
+7/AT-44004 SKIPSTRM anlz/app/strm/res: 8212/2/2/ B 2 O|SKIPSTREAM 0 1 0
+8/AT-44004 SKIPSTRM anlz/app/strm/res: 8212/2/21/ B 2 O|SKIPSTREAM 0 1 0
+9/AT-44004 SELECTSTRM anlz/app/strm/res: 8212/1/1/ B 1 O|SELECTSTREAM 0 1 0
+10/AT-44004 SELECTSTRM anlz/app/strm/res: 8212/1/20/ B 1 O|SELECTSTREAM 0 1 0
+11/AT-44004 SELECTSTRM anlz/app/strm/res: 8212/2/2/ B 2 O|SELECTSTREAM 0 1 0
+12/AT-44004 SELECTSTRM anlz/app/strm/res: 8212/2/21/ B 2 O|SELECTSTREAM 0 1 0
+13/AT-44004 CURRSTRM anlz/app/strm/res: 8212/1/1/ B 1 O|CURRENTSTREAM 0 1 0
+14/AT-44004 CURRSTRM anlz/app/strm/res: 8212/1/20/ B 1 O|CURRENTSTREAM 0 1 0
+15|AT-44004 CURRSTRM anlz/app/strm/res: 8212/2/2/ B 2 O|CURRENTSTREAM 0 1 0
+16/AT-44004 CURRSTRM anlz/app/strm/res: 8212/2/21/ B 2 O|CURRENTSTREAM 0 1 0
+19/AT-44004 PROGRAMRUN anlz/app/strm/res: 8212/1// 1 O|PROGRAMRUN 0 1 0
+20/AT-44004 PROGRAMRUN anlz/app/strm/res: 8212/2// 2 O|PROGRAMRUN o) 1 o)
+21/AT-44004 RDME anlz/app/strm/res: 8212/1/1/ 1 O|RDME (o) 1 (o)
+22/|AT-44004 RDME anlz/app/strm/res: 8212/1/20/ B 1 O|RDME (o) 1 (o)
+23/|AT-44004 RDME anlz/app/strm/res: 8212/2/2/ B 2 O|RDME (o) 1 (o)
+24/|AT-44004 RDME anlz/app/strm/res: 8212/2/21/ B 2 O|RDME (o) 1 (o)
+27/|AT-44004 ALARM anlz/app/strm/res: 8212/// 0 O/ALARM (o) 1 (o)
+28|AT-44004 CYCLELENGTH anlz/app/strm/res: 8212/1// 1 O|CYCLELENGTH 0 1 0
+29/AT-44004 CYCLELENGTH anlz/app/strm/res: 8212/2// 2 O|CYCLELENGTH 0 1 0
+25|AT-44004 ANALYZERSTATUS anlz/app/strm/res: 8212/1// 1 O|ANALYZERSTATUS 0 1 0
+26|AT-44004 ANALYZERSTATUS anlz/app/strm/res: 8212/2// 2 O|ANALYZERSTATUS 0 1 0
+17/AT-44004 CALIBRATE anlz/app/strm/res: 8212/1/1/ 1 O|CALIBRATE 0 1 0
+18/AT-44004 CALIBRATE anlz/app/strm/res: 8212/2/2/ B 2 O|CALIBRATE 0 1 0
+
+30/AT-44004 ACETYLENE |RESULT anlz/app/strm/res: 8212/1/1/1 R 1 1/RESULT 0 1
+
+31/AT-44004 ACETYLENE |RESULT anlz/app/strm/res: 8212/1/20/1 R 1 1/RESULT 0 1
+
+32/AT-44004 HYDROGEN |RESULT anlz/app/strm/res: 8212/2/2/1 2 1/RESULT 0 1
+
+2 0 1
+
+2 0 1
+
+R 2 0 1
+

@@ -1,0 +1,70 @@
+Certificado de Conformidade válido somente acompanhado das páginas de:
+
+CERTIFICADO DE CONFORMIDADE
+
+CERTIFICATE OF CONFORMITY
+
+Certificado No. / Certificate No.
+
+Certificate of Conformity valid only with the following pages.
+Emissão / Date of issue
+
+Revisão / Revision Date
+
+Validade / Expire date
+
+UL-BR 12.0005X
+
+1ag9
+
+13 de janeiro de 2012 / January 13, 2012
+27 de setembro de 2021 / September 27, 2021
+12 de janeiro de 2024 / January 12, 2024
+
+CERTIFICADO DE CONFORMIDADE, RELATÓRIOS DE ENSAIO / CERTIFICATE OF CONFORMANCE, TEST
+REPORTS:
+BiTestRec DSH Título/Descrição: Documento Nº Revisão ou Data:
+DTestRef DSH Title/Description: Document No.: Issue or Date
+1 Certificado IECEx, DEKRA Certification B.V. IECEx KEM 08.0002X- Issue 4 2020-08-06
+2 Relatório de ensaios, KEMA Quality B.V. NL/KEM/ExTRO8.0002/00 2009-07-16
+3 Relatório de ensaios, KEMA Quality B.V. (IEC 60079-7) NL/KEM/ExTRO8.0002/02 2017-12-01
+4 Relatório de ensaios, KEMA Quality B.V. (IEC 60079-18) NL/KEM/ExTRO8.0002/02 2017-12-01
+5 Relatório de ensaios, DEKRA Certification B.V. (IEC 60079-31) NL/KEM/ExTRO8.0002/02 2017-12-01
+6 Relatório de ensaios, DEKRA Certification B.V. (Addendum) NL/KEM/ExTRO8.0002/02 2017-12-01
+7 Relatório de ensaios, DEKRA Certification B.V. (Cover Page) NL/KEM/ExTRO8.0002/02 2017-12-01
+8 Relatório de ensaios, DEKRA Certification B.V. (National Differ.) NL/KEM/ExTRO8.0002/02 2017-12-01
+9 Relatório de ensaios, Labelo ATX072/2008 2008-10-17
+10 Relatório de ensaios, Labelo ATX005/2006 2006-03-21
+11 Relatório de ensaios, Labelo ATX006/2006 2006-03-23
+12 Relatório de ensaios, Labelo ATX007/2006 2006-03-23
+13 Relatório de ensaios, Labelo ATX008/2006 2006-03-23
+14 Relatório de ensaios, Labelo ATX009/2006 2006-03-23
+15 Relatório de ensaios, Labelo ATX015/2006 2006-05-22
+16 Relatório de ensaios, Labelo ATX016/2006 2006-05-22
+17 Relatório de ensaios, Labelo ATX017/2006 2006-05-22
+18 Relatório de ensaios, Labelo ATX066/2008 2008-10-17
+19 Relatório de ensaios, Labelo ATX067/2008 2008-10-17
+20 Relatório de ensaios, Labelo ATX068/2008 2008-10-17
+21 Relatório de ensaios, Labelo ATX069/2008 2008-10-17
+22 Relatório de ensaios, Labelo ATX070/2008 2008-10-17
+23 Relatório de ensaios, Labelo ATX071/2008 2008-10-17
+24 Relatório de ensaios, DEKRA Certification B.V. (IEC 60079-0) NL/KEM/ExTRO8.0002/01 2014-10-17
+25 Relatório de ensaios, DEKRA Certification B.V. (IEC 60079-18) NL/KEM/ExTRO8.0002/01 2014-10-17
+26 Relatório de ensaios, DEKRA Certification B.V. (IEC 60079-31) NL/KEM/ExTRO8.0002/01 2014-10-17
+27 Relatório de ensaios, DEKRA Certification B.V. (Addendum) NL/KEM/ExTRO8.0002/01 2014-10-17
+28 Relatório de ensaios, DEKRA Certification B.V. (Description) NL/KEM/ExTRO8.0002/01 2014-10-17
+29 Relatório de ensaios, DEKRA Certification B.V. (Cover Page) NL/KEM/ExTRO8.0002/01 2014-10-17
+30 Relatório de ensaios, DEKRA Certification B.V. (National Differ.) NL/KEM/ExTRO8.0002/01 2014-10-17
+31 Relatório de ensaios, DEKRA Certification B.V. NL/KEM/ExTRO8.0002/02 2017-12-01
+32 Hazloc Inmetro Test Report Addendum, emitido por UL do Brasil 4789954838 (BR2053 V1S7) 2021-09-21
+
+Página / Page 7/9
+
+Organismo de Certificação /
+
+UL do Brasil Certificações
+
+Certification Body Avenida Engenheiro Luis Carlos Berrini, 105 — 24º andar
+04571-010 — Brooklin — São Paulo — SP — Brasil
+
+41-IC-FO400 rev. 18.0

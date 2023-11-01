@@ -1,0 +1,74 @@
+Valhe
+
+Si,
+FLOWSERVE
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+
+8 Maintenance
+
+8.1
+
+8.1.1
+
+8.2
+
+Scheduled maintenance
+
+In order to check the integrity of valve components and avoid damages due to wear we
+suggest regular tin service maintenance operations in accordance with the following table or
+whenever requested by local regulations.
+
+Table 4: Recommended maintenance checklist
+
+. Verification Object of
+Phase |No. Service ” serras
+frequency [*] verification
+Fo) Full stroke tes Every three
+4 soft seated) [*] | months
+a 1 Operability
+fo) Full stroke tes Year
+a metal seated) Y
+INSTALLATION
+(o) -
+4 Full stroke tes Every three
+õ soft seated) [*] | months
+FZ) 1 Operability
+= -
+= Full stroke tes Yeari
+o) metal seated) Y
+Ú
+Full stroke tes
+soft seated) [*] o
+z
+Õ 1 Full stroke fes Yearly Operability
+« metal seated)
+Err! No external
+a Visual leakage
+(o) 2 inspection Yearly No external
+corrosion
+[*] timing for maintenance frequency is cumulative and must be referred at the warranty
+effective date
+[**] operate the valves from open to closed position for three/four times
+
+Actuated Valves for Safety Instrumented Systems
+
+When the actuated valves supplied by VALBART are intended for use in Safety Instrumented
+Systems, the relevant Safety Integrity Level (SIL) requirements (if applicable) must be clearly
+specified in Customer's Purchase Order or Contract documentation.
+
+In addition to the maintenance activities described above, the provisions given in VALBART's
+Safety Manual shall be followed.
+
+Disassembly
+
+In case disassembly is needed for valve refurbishing activities the instructions below must be
+followed:
+
+1. Ifthe valve is installed MAKE SURE TO RELEASE THE PRESSURE FROM THE LINE.
+2. Rotate the ball (3) to fully closed position.
+
+3. OPENTHE DRAIN/VENT BLEEDER (17e) TO RELEASE ANY RESIDUAL PRESSURE FROM THE BODY
+CAVITY, remove the drain/vent bleeder (17€).
+
+Page 22 of 35

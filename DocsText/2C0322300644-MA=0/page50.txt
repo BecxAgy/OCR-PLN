@@ -1,0 +1,56 @@
+FLOWSERVE
+a
+Notas
+1. Otipo de chave MA deve ser solicitado em quantidade de 2 chaves Os tipos de chaves MD e MS devem ser
+solicitados em quantidade de 4 chaves.
+2. Certificações:
+
+Os códigos de certificação válidos para Chaves Mecânicas (opções Mt, MA, MD, MS, MC, MG, M3 e MB) incluem
+-14,-18, -19, -25, Mi.
+
+Os códigos de certificação válidos para Chaves de Proximidade (opções P4, P5, PE, PP, PL, PT, PX, N8, NQ, NR,
+NS, NJ, NU incluem -14,-17, -18,-19,-25, -M2.
+
+Os códigos de certificação válidos para Saída Analógica (opções T, D, A, B, D) incluem -14,-18,-19,-24, -M1,- MB.
+
+3. Opção de transmissor disponível apenas para as opções de chave 00, M1, MG, N8. A quantidade máxima de chaves
+é2.
+
+4. Ao solicitar conectores potted, especifique o conduíte (esquerdo ou direito), a quantidade de conectores, o
+comprimento e a cor dos fios.
+
+5. Alguns modelos possuem mais de 2 locais para terminais abertos como padrão. Consulte a fábrica para detalhes.
+
+6. Opção de Chave FN (Dispositivo de Rede), F2, F4 (Foundation Fieldbus), SN (chave pneumática) não-aprovada pela
+ATEX ou IECEx.
+
+Exemplo:
+
+NXCLU2M1-18-00200 = marca Automax, eixo NAMUR, XCL, Indicador Ultradome, 2 chaves mecânicas SPDT e
+certificações UL/CSA e ATEX
+
+Materiais de Construção:
+
+Peça Material
+
+Invólucro/Tampa Alumínio com Dicromato e Revestimento Resistente de Poliéster
+Eixo Aço Inoxidável
+Cames/Ranhuras Náilon
+
+UltraDome e Rotor Policarbonato
+
+Bloco de Terminal Náilon — Série Buchanan TBS
+Suportes Internos Aço Inoxidável ou Aço Revestido
+Todos os Fixadores Internos Aço Inoxidável ou Aço Revestido
+Todos os Fixadores Externos Aço Inoxidável
+
+UltraDome Lexan ou Ektar!M
+
+Rotor Policarbonato
+
+* No caso do equipamento entrar em contato com substâncias agressivas, o usuário deve adotar precauções
+adequadas para evitar danos, garantindo assim que a proteção fornecida pelo equipamento não seja
+comprometida.
+
+Experience In Motion
+

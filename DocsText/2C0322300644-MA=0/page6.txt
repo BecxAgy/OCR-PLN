@@ -1,0 +1,64 @@
+—
+FLOWSERVE
+“id
+
+1.2
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+General Information
+
+Scope of manual
+
+AN mese instructions must be kept close to the product's operating location or directly with
+the product.
+
+AN tese instructions must be read prior to installing, operating, using, or maintaining the
+equipment in any region worldwide. The equipment must not be put into service until all of the
+safe operating conditions noted in the instructions have been met. Failure to comply with the
+information provided in the User Instructions is considered to be misuse. Personal injury, product
+damage, delay in operation, or product failure caused by misuse are not covered by the
+Flowserve warranty.
+
+The following instructions are applicable to the maintenance and installation of Flowserve
+Valbart 2 Piece Split Body Trunnion Mounted Ball Valves Bolted Body Side Entry (model VB2) for
+general service.
+
+Metric DIN Units - PN 20 to PN 420, DN 100 full bore and DN 150 x 100
+English ASME Units - Class 150 to 2500, NPS 4 full bore and NPS 6 x 4
+Assembled with manual gear, pneumatic/hydraulic or electric actuator.
+
+These instructions cannot claim to cover all details of all possible product variations, nor can
+they provide information for every possible example of installation, operation or maintenance.
+This means that the instructions normally include only the directions to be followed by qualified
+personal using the product for its defined purpose. If there are any uncertainties in this respect,
+particularly in the event of missing product-related information, clarification must be obtained
+via the appropriate Flowserve sales office.
+
+These instructions are intended to familiarize the reader with the product and its permitted use.
+Operating the product in compliance with these instruction is important to help ensure
+reliability in service and avoid risks. These instructions may not take into account all local
+regulations; ensure such regulations are observed by all, including those installing the product.
+Always coordinate repair activities with operations personnel, and follow all plant safety
+requirements and applicable safety and health legislation.
+
+Disclaimer
+
+Information in this User Instruction is believed to be complete and reliable. In spite of all
+Flowserve's efforts to provide comprehensive information and instructions, sound engineering
+and safety practices should always be used. Please consult with a qualified engineer.
+
+Flowserve manufactures products to applicable International Quality Management System
+Standards as certified and audited by external Quality Assurance organizations. Genuine parts
+and accessories have been designed, tested, and incorporated into the products to help
+ensure continued product quality and performance in use. As Flowserve cannot test parts and
+accessories sourced from other vendors the incorrect incorporation of such parts and
+accessories may adversely affect the performance and safety features of the product. The
+failure to properly select, install, or use authorized Flowserve parts and accessories is
+considered to be misuse. Damage or failure caused by misuse is not covered by Flowserve's
+warranty. In addition, any modification of Flowserve products or removal of original
+components may impair the safety of these products in use.
+
+Valbart declines any responsibility should the valve not be used for the service indicated on
+the client's data sheets.
+
+Page 4 of 35

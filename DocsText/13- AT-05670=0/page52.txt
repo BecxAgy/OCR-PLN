@@ -1,0 +1,37 @@
+Function 01 — Read Coil Status, Continued
+
+Possible Errors Possible errors that could occur are:
+
+* The specified starting address is outside of the configured range
+for table 0.
+
+*. The combination of specified starting address and number of
+digitals (quantity) would result in an address outside of the con-
+figured range for table 0.
+
+*. The specified number of digitals (quantity) is too large to fit into a
+response. (A response can hold a maximum of 255 data bytes or
+2040 digitals.)
+
+Error Response Some devices limit the response length to 250 data bytes (2000 digitals).
+If one of the first two errors occurs, an error response will be sent indicat-
+ing that there is an ILLEGAL DATA ADDRESS. If the third error occurs,
+an error response will be sent indicating that there is an ILLEGAL DATA
+VALUE.
+
+Using the example on page 45, slave 17 would respond to a command
+which had an illegal address or an illegal combination of address and
+number of digitals (quantity) with:
+
+Slavef Function Code Error Code
+11 81 02
+ILLEGAL DATA ADDRESS Error Response
+
+Slave 17 would respond to a command specifying more than the allow-
+able number of digitals (quantity) with:
+
+Slavef Function Code Error Code
+11 81 03
+ILLEGAL DATA VALUE Error Response
+
+46 « Maxum MODBUS User's Guide 2000584-001

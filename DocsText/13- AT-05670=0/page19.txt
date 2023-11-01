@@ -1,0 +1,58 @@
+Host / Analyzer Communications, Continued
+
+Information Available
+When Defined in
+Address Map,
+continued
+
+Host Computer
+Settings
+
+Calibration (Value type: CALIBRATE)
+Valid Addresses: 0001-9999
+
+This flag can be defined for each analyzer/application/stream and is set
+by the Maxum analyzer when the application is in manual or auto calibra-
+tion. See Host operations in the next section for a discussion of Host
+calibration control.
+
+Cycle Length (Value type: CYCLELENGTH)
+Valid Addresses: 30001-49999
+
+This integer (data type S or |) is set by the Maxum analyzer to be the
+longest cycle time in the Maxum's method table for an application, even
+unused methods.
+
+The Host can direct an application to start or stop running — see page 12,
+Analyzer Standby.
+
+Analyzer control (Value type: STANDBY)
+Valid Addresses: 0001-9999
+
+Calibration control (Value type: CALIBRATE)
+Valid Addresses: 0001-9999
+
+The Host can direct an application to calibrate or stop calibrate by setting
+the calibrate flag, defined on each analyzer/application/stream, for any
+stream in an application. If set by the Host, a message is sent to the
+Maxum analyzer to place the application in auto calibration (1 or True) or
+stop calibration (0 or False). In either case, if the analyzer is in hold, it
+will be placed in run state. If auto calibration is not enabled for the appli-
+cation, it will be placed in manual calibration. Although each stream can
+be defined, it is recommended for only one stream (any stream in the
+application). There may be operational differences for calibration when
+the Maxum MODBUS interface is implemented for Advance Optichrom
+analyzers.
+
+Stream control (Value type: SELECTSTREAM. SKIPSTREAM)
+Valid Addresses: 0001-9999
+
+The selectstream flag, defined on each analyzer/application/stream, can
+be set by the Host to cause a Force Always condition (1 or True) or a
+Resume sequence (0 or False) on the Maxum stream. The skipstream
+flag can be set to control Maxum stream enable/disable, as described in
+the previous section.
+
+2000584-001
+
+Maxum MODBUS User's Guide «e 13

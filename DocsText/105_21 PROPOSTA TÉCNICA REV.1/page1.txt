@@ -1,0 +1,76 @@
+IAM BRAS
+
+Simões Filho/BA, 02 de agosto de 2021.
+
+IN
+
+BRASKEM S/A
+
+Av. Antônio Carlos Magalhães, 3244, 20º Andar - Ed. Empresarial Thomé de Souza
+Salvador/BA
+
+ATT: Sr. Antônio Jorge da Silva Abreu
+Viref.: PJ-0602367 - TROCADOR DE CALOR - EA-1302 - COTAÇÃO DE PREÇO
+
+Nrref.: Proposta SSA-105/2021 Rev.1 — Parte Técnica
+
+1.0 OBJETO
+1.1 Fornecimento de 01 (um) Trocador de Calor denominado EA-1302, tipo TEMA B - AEU, fabricado em aço liga,
+composto de 46 tubos em U (2 3/4” BWG 16, de acordo com as condições e características técnicas constantes
+nos documentos de referência do cliente, com as seguintes alterações na especificação de materiais:
+1.1.1 Forjados / Flanges: SA-182 Gr F11
+1.1.2 Tubos de troca térmica: SA-213 Tp Gr 5 ou SA-335 Gr P11, SA-231 Gr T11, SA-199 Gr T11
+1.1.3 Chapas: SA-387 Gr 11 CI2
+
+2.0 DOCUMENTOS DE REFERÊNCIA
+2.1 Para emissão desta proposta e modelagem mecânica preliminar do equipamento, foram consideradas as
+informações constantes nos seguintes documentos fornecidos pelo cliente:
+2.1.1 | Desenho Missouri Boiler nº MD-N-1076 Folha 1 de 2 Rev.5 — Conjunto e detalhes
+2.1.2 Desenho Missouri Boiler nº MD-N-1076 Folha 2 de 2 Rev.3 — Detalhes de espelhos e miscelâneas
+
+3.0 ESCOPO DE FORNECIMENTO
+
+3.1 Elaboração projeto mecânico do trocador de calor, compreendendo:
+
+3.1.1 - Emissão de memória de cálculo contendo dimensionamento mecânico e verificação de tensões
+localizadas em bocais e suportes.
+
+3.1.2 Especificação de materiais.
+
+3.1.3 - Emissão de desenhos de conjunto e desenhos de detalhamento para fabricação.
+
+3.1.4 - Emissão de lista de documentos do projeto
+
+3.2 Emissão e execução, após aprovação do cliente, do Plano de Inspeção e Testes, incluindo-se todas as
+inspeções e ensaios necessários, com utilização de procedimentos e inspetores / operadores qualificados à
+luz do código de projeto, incluindo teste hidrostático em fábrica.
+
+3.3 Ainspeção radiográfica quando substituída pelo US, será do tipo Phased Array.
+
+3.4 Fornecimento de todos os materiais, com certificação de qualidade.
+
+3.5 Fabricação do trocador de calor.
+
+3.6 Placa de identificação conforme padrão BRASKEM BKIB0001-PE-0006-43-001, e suporte
+
+3.7 Tratamento térmico de alívio de tensões, lado tubos.
+
+3.8 Tratamento superficial conforme PN-00-00095 Rev.5 com esquema de pintura para Microclima CX.
+
+3.9 Emissão de Data Book contendo: Desenhos, Plano de Inspeção e Testes, Plano de Soldagem, RQPS/EPS,
+CQs, Registro/Certificados de ensaios não destrutivos incluindo os de qualificação dos operadores /
+inspetores, certificados de qualidade dos materiais e certificado de liberação de inspeção.
+
+3.10 Apresentação da documentação técnica para aprovação da Braskem antes do início da fabricação.
+
+3.11 Documentos de controle de fabricação e de controle e garantia da qualidade, serão fornecidos em
+conformidade com os requisitos da NR-13.
+
+3.120 trocador de calor será convenientemente acondicionado para transporte, tendo suas faces de vedação
+protegidas de modo a evitar avarias durante o transporte, armazenagem e montagem.
+
+3.13 Entrega do equipamento nas instalações do ciente em Camaçari/ BA.
+
+TECHBRAS EQUIPAMENTOS INDUSTRIAIS LTDA.
+Via Periférica |I, s/n — Centro Industrial de Aratu - CIA SUL - Simões Filho / BA — Brasil - CEP 43.700-000
+Fone: + 55 71.3594.9530 - www.techbras.ind.br

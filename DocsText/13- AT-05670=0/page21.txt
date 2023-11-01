@@ -1,0 +1,63 @@
+Maxum MODBUS Address Map
+
+Description
+
+General Map Rules
+
+To have working communication among the Maxum unit(s), MODBUS,
+and Host, you must have an address map customized to user specifica-
+tions. The Maxum MODBUS Address Map is a text file used for loading
+the Advance Network Access Unit (NAU) with details for processing the
+following:
+
+e Maxum analyzer results to be placed at certain addresses so the
+host computer can read them.
+
+e control requests sent from the host computer to be directed to
+Maxum analyzers.
+
+The map contains details about all addresses configured to send and
+receive data. Since no assumptions are made about what is contained at
+an address, the data type and a value type indicate what kind of informa-
+tion is stored at an address and any actions to be taken. For example, a
+RDME flag is set to “True” from the analyzer and reset to “False” 3 sec-
+onds after the host reads it. The value column in the Modbus addmap
+table in System Manager contains information in readable format, not the
+format the Modbus Driver sends to the Host. A scaled result will be in
+the pre-scaled format, as it appears in the result table.
+
+An address map may be configured by Siemens according to customer
+requirements or configured by the customer — either by using a general
+default map or by editing that map to meet specific requirements. Micro-
+soft Excel is used as the configuration tool for Version 3.0, by editing the
+map and saving it in comma delimited (.CSV) format. The resulting text
+file can be loaded onto the NAU by using Advance System Man-
+ager/Tools/Advance Tools/Loader/MODBUS Load. An unload utility is
+also available.
+
+Each transmitted result must be defined in the address map, and each
+transmitting application must have a status in the map.
+
+For every result that the system needs to handle, have the following
+available:
+
+* the analyzer number
+
+* application number
+
+* stream number
+
+* result number (trtval value)
+
+In addition, have on hand the specific customer requirements for host
+computer controls and information.
+
+New in 4.0: As the map is loaded onto the analyzer using Advance Utili-
+ties/Loader/Modbus Load, duplicate addresses that contain the same
+information will be removed. That is, two addresses for result 1/ ana-
+lyzer 14/application 1/stream 2 are not allowed and will be removed dur-
+ing loading of the map.
+
+2000584-001
+
+Maxum MODBUS User's Guide e 15

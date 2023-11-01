@@ -1,0 +1,63 @@
+Maxum MODBUS Address Map, Continued
+
+Address Map Limits
+
+Creating and Loading
+a Map
+
+The address map is limited to 4000-4500 addresses. This will be suffi-
+cient to handle an old-style Optichrom HCI-H map for 18 applications/
+
+9 streams/ 9 results. A custom address map may have any combination
+of types of values, with the only requirement being a result or result plus
+EUHI for every component transmitted to the NAU and an analyzer
+status for every application tagged to transmit results. A much larger
+map may be successfully loaded, but, when the NAU goes through a
+reset, the database cannot be rebuilt.
+
+Use a text editor or Microsoft Excel to create a map.
+Load the map onto the NAU with System Manager.
+
+Use the following to configure Maxums to transmit results:
+
+1. Mark results for transmit using the trtval and euhi attributes of
+the result table.
+
+2. Mark stream for transmission using the autotrt attribute in the
+stream method table.
+
+3. Designate NAU to receive results, using the host table
+type:6, anizref:NAU's anlz id
+or
+
+Version 3.1 (after patch): The following format was developed
+for use by NAUSs that are used to gather results from 3 party
+analyzers and transmit them to a host. This will allow for running
+a MaxBasic program that transmits by frequency using the
+trtnow attribute in the stream method table. An application and
+streams will need to be created to create the results in the result
+table. Store Al or other values in result table. Set up additional
+results with these specific result names:
+
+Analyzerstatus — set to status as in HCI-H (required)
+
+Currentstream — set saved value to the next stream
+
+Standby - set to 1 for running, O for hold
+
+Alarmstream - set for stream alarm
+
+Alarmantlz — set to anlz alarm
+
+Alarmapp — set to application alarm
+
+Dedicatedstream — set to dedicated stream
+
+Cyclelength — set to cycle length
+
+Skipstream — set saved value to stream that is enabled (positive)
+or disablednegative)
+
+Calibrate — set to 1 ifin calibration
+
+16 «e Maxum MODBUS User's Guide 2000584-001

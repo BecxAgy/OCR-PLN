@@ -1,0 +1,55 @@
+Host / Analyzer Communications, Continued
+
+Information Available
+When Defined in
+Address Map
+
+Readme flags (Value-TYPE: RDME) Valid Addresses: 0001-19999
+
+This status flag can be defined for each analyzer/application/stream. Itis
+set when the Maxum transmits results for a stream. The flag tells the
+Host that there is new result data available. For versions before 3.11, the
+flag automatically resets to zero after being read by the Host after 3 sec-
+onds. These flags are stored in blocks of 1000 (1-1000, 1001-2000....).
+When the host reads a flag in any certain block, all the flags in that block
+are reset. The customer must be sure to read all rdme flags in a block in
+a single message. Starting with version 3.11, the flag is reset after 20
+seconds, regardless of host read. Each flag is reset independently. The
+20-second default may be changed by setting the write offset value in
+the Modbus addmap table.
+
+DIREAD flags (Value-TYPE: DIREAD) Valid Addresses: 0001-19999
+
+This flag can be defined for each Application DI that is defined in the
+NAU's application 999. It is polled according to the Application DI setup.
+The value in the result field designates the ID from the APPDI table.
+
+DOREAD flags (Value-TYPE: DOREAD) Valid Addresses: 0001-
+19999
+
+This flag can be defined for each Application DO that is defined in the
+NAU's application 999. It is polled according to the Application DO setup.
+The value in the result field designates the ID from the APPDO table.
+
+Database change flags (Value type: DCHG)
+Valid Addresses: 0001-9999
+
+This flag can be defined with or without analyzer/application/stream and
+is set when the scale factor changes. The flag is not reset when read by
+the Host. If defined for stream 0, it is a summary flag for all streams. If
+stream O entry is set to 0, the flag will set all stream DCHG flags for the
+application to O.
+
+EUHI change flags (Value type: ECHG)
+Valid Addresses: 0001-9999
+
+This flag can be defined for each analyzer/application/stream and is set
+when the EUHI is changed from the Maxum analyzer or from the Host.
+The flag is reset, after 3 seconds, when read by the Host. If defined for
+stream 0, itis a summary flag for all streams in the application. If stream
+O entry is set to 0, the flag will set all stream ECHG flags for the applica-
+tion to O.
+
+2000584-001
+
+Maxum MODBUS User's Guide e 11

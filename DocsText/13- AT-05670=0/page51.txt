@@ -1,0 +1,50 @@
+Function 01 — Read Coil Status
+
+Master Command The master sends a command requesting the values of a number of digi-
+tal outputs (table 0), specifying the initial address to read and the number
+of locations to read. For example, the master might request a read of the
+37 coils 00020 through 00056 from slave 17. Translating the values into
+hexadecimal, this is a request that slave 0x11 read 0x0025 digitals start-
+ing at address 0x0013 (corresponds to table offset 0020 of table 0):
+
+Slave * | Function Code Data Start Quantity
+High Low High Low
+11 01 00 13 00 25
+
+Read Coil Status Command
+
+Slave Response If the slave can process the command without error, the slave will re-
+spond with its identifier, the function code, a count specifying the number
+of data bytes required to pack the digitals, and the string of data bytes.
+
+For example:
+Func- Data Data Data Data Data
+tion Byte Byte Byte Byte Byte Byte
+Slave & Code Count (o) 1 2 3 4
+1 01 05 cD 6B B2 0E 1B
+
+Read Coil Status Response
+
+In this example,
+
+0xCD (11001101) indicates that coils 00020, 00022, 00023, 00026,
+and 00027 are on.
+
+0x6B (01101011) indicates that coils 00028, 00029, 00031, 00033,
+and 00034 are on.
+
+0xB2 (10110010) indicates that coils 00037, 00040, 00041, and
+00043 are on.
+
+0x0E (00001110) indicates that coils 00045, 00046, and 00047 are
+on.
+
+0x1B (00011011) indicates that coils 00052, 00053, 00055, and
+00056 are on.
+
+All of the other coils are off (value of zero).
+
+Note: the three most significant bits of data byte 4 (fifth byte) are all un-
+used and are therefore set to zero.
+
+2000584-001 Maxum MODBUS User's Guide « 45

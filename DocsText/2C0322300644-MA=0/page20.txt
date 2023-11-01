@@ -1,0 +1,42 @@
+“a.
+FLOWSERVE
+Ne *
+
+Valbart
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+5.3.2 Standard stem/flow line valve orientation
+o For manual valves any stem orientation with the stem key over the horizontal plane is
+
+allowed: at most the stem can be found in horizontal position (see figure).
+
+o Formotor operated valves the vertical stem position is the only allowed. Any other option
+must be defined in the purchase order.
+
+n EE
+R | Ria =
+Lj &
+N
+N
+7777777777. N
+RECOMMENDED =
+PERMITTED ONLY =.
+FOR MANUAL E
+[ ] NOT ALLOWED «
+N 1
+N /
+N n nm /
+% A
+= i /
+Na o
+
+RECOMMENDED
+
+PERMITTED ONLY
+FOR MANUAL
+
+NOT ALLOWED
+
+Figure 4: Stem/flow line valve orientation permitted
+
+Page 18 of 35

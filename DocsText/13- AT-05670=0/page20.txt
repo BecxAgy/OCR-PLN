@@ -1,0 +1,49 @@
+Host / Analyzer Communications, Continued
+
+Host Computer Settings,
+continued
+
+EUHI change (Value type: EUHI) Valid Addresses: 40001-49999
+
+The EUHI value for any result can be set by the Host in 16-bit floating
+point format. See the section on the EUHI format, page 29. Version 3.0
+requires that EUHI values to be greater that 1.0.
+
+Set clock (Value types: SCMIN, SCSEC, SCHR, SCDAY, SCMON,
+SCYEAR) Valid Addresses: 40001-49999
+
+By writing to the appropriate locations, the Host can set the date and
+time of day on the Advance Network Access Unit (NAU).
+
+lfthe NAU has designated another system as its time server, this has no
+long term effect and will be overwritten by the time server. If there is no
+time server for the NAU, this date and time will be allowed to remain but
+will have no effect on the Maxum analyzers. In order for the date and
+time to be sent to the Maxum analyzers, each Maxum analyzer will have
+to have its time server set to the NAU's IP address.
+
+DOset flags (Value type: DOSET)
+Valid Addresses: 0001-9999
+
+This flag can be defined for each analyzer/application/appdo and is set
+by the host.
+
+Alarm Clear flags (Value type: CLEARALARM)
+Valid Addresses: 0001-9999
+
+This flag can be defined for each analyzer, analyzer/application, and
+analyzer/application/stream. The Maxum analyzer will clear all alarms for
+the specified analyzer, application, or stream. This flag is not operational
+for Advance Optichrom. Note that clearing alarms operates under the
+same constraints as clearing the alarms directly on the Maxum. If stream
+or application alarms are cleared, record of them is still kept by the appli-
+cation and stream until a cycle without alarms completes.
+
+Program run (Value type: PROGRAMRUN)
+Valid Addresses: 40001-49999
+
+Registers can be defined for each analyzer/application/stream. The
+Maxum analyzer runs the event number that is indicated in the register
+for the designated stream.
+
+14 « Maxum MODBUS User's Guide 2000584-001

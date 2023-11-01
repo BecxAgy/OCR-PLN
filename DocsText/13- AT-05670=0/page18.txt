@@ -1,0 +1,52 @@
+Host / Analyzer Communications, Continued
+
+Information Available
+When Defined in
+Address Map,
+continued
+
+Stream active flags (Value type: CURRENTSTREAM)
+Valid Addresses: 0001-9999
+
+This flag can be defined for each analyzer/application/stream and is set
+by the Maxum analyzer. The flag tells the Host which stream will be the
+next to report
+
+Stream skip flags (Value type: SKIPSTREAM)
+Valid Addresses: 0001-9999
+
+This flag can be defined for each analyzer/application/stream. Itis set by
+the Maxum analyzer and tells the Host if the stream is enabled (0 or
+False) or disabled (1 or True). If set by the Host, this flag causes a mes-
+sage to be sent to the Maxum analyzer to disable or enable the stream.
+
+Dedicated Stream (Value type: DEDICATEDSTREAM)
+Valid Addresses: 30001-49999
+
+This integer (data type S or |) can be defined for an analyzer/application
+and is set by the Maxum analyzer. It tells the Host if a stream is running
+on a dedicated basis (Force Always or Force Once). If the value is 0,
+there is no dedicated stream.
+
+Alarm status (Value type: ALARM)
+Valid Addresses: 30001-49999
+
+This integer (data type 1) can be defined for each analyzer, ana-
+lyzer/application, and analyzer/application/stream. It contains the latest
+alarm code for fault alarms. Note that the ALARM defined for the ana-
+Iyzer corresponds directly with the red light on the front of the MMI. An
+ALARM defined for the stream or application, will reflect the contents of
+the curr error attributes in the stream and application table. These can
+only be cleared by the completion of a cycle without alarms. This means
+that the analyzer ALARM can be zero, but the stream and application
+can reflect an alarm condition.
+
+Analyzer standby (Value type: STANDBY)
+Valid Addresses: 0001-9999
+
+This flag can be defined for each analyzer/application and is set by the
+Maxum analyzer. The flag tells the host if the application is in hold, out of
+service, or disabled. If set by the Host, a message is sent to the Maxum
+analyzer to place the application in hold (1 or True) or run (0 or False).
+
+12 « Maxum MODBUS User's Guide 2000584-001

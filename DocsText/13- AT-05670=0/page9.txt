@@ -1,0 +1,52 @@
+Maxum MODBUS Operation
+
+Description
+
+Operation
+From Maxum 3.1 Analyzer
+
+From the Host
+
+Figure 1: Operation
+
+This section provides an overview of the Maxum MODBUS operation.
+
+The following steps are illustrated in Figure 1.
+
+The Maxum units send sql commands or Optichrom Advance
+units send Advance Data Hiway messages to the NAU database
+at the end of a cycle or after a manual transmit.
+
+The NAU updates the MODBUS addmap table. The correct ad-
+dress is identified and updated with the value received from the
+analyzer. Identification is based on the value type, aniz, applica-
+tion, stream, and result.
+
+The MODBUS Addmap table sends the value to the MODBUS
+Driver.
+
+The Host sends a message to the MODBUS Driver (messages
+must be alternating in version 3.0 and 3.1)
+
+The MODBUS Driver processes a read request and returns a
+message to the host or sends the value to the modbus addmap
+table.
+
+The MODBUS addmap table determines the correct message to
+send to a specific Maxum or Optichrom Advance unit based on
+the address value type, anlz, application, stream, and result.
+
+Maxum NAU
+Maxum Mobus
+Ms Addmap
+Ethernet pa table
+M and Host
+axum Advance
+Data Modbus RS 232
+' ldriver or
+Hiway RS 485
+Optichrom
+
+2000584-001
+
+Maxum MODBUS User's Guide e 3

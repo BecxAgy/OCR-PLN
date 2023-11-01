@@ -1,0 +1,40 @@
+Maxum MODBUS Address Map, Continued
+
+Address Entries, Field Type Range Description
+continued Name
+Data Type | Charac- S for scaled fraction (only posi-
+ter tive values)
+E for 16-bit EUHI float
+B for boolean
+R for real number (IEEE 32-bit
+float)
+Q same R words swapped
+Ifor an integer that can be
+positive or negative
+MODBUS |Integer | For digital: | A pair of addresses are re-
+Address 00001 to quired for each 32-bit floating
+9999 point number. All addresses
+10001 to must be unique within each of
+19999 the four tables (0, 1, 3, and 4).
+The first digit of the address
+Forinteger | specifies the table. Addresses
+or float: in the 20000s, 40000s and
+20001 to 70000s share the same mem-
+29999 ory locations. These address
+30001 to ranges allow the host to format
+39999 the date into swapped 32-bit,
+40001 to 16-bit integer, or 32-bit float,
+49999 respectively.
+70001 to
+79999
+Aniz Integer analyzer id/unit
+Application | Integer Must be a valid application id
+for the given analyzer.
+Stream Integer Must be a valid stream id for
+the given application.
+Result Integer Must be a valid result.
+
+18 «e Maxum MODBUS User's Guide
+
+2000584-001
+

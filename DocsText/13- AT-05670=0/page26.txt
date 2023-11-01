@@ -1,0 +1,41 @@
+Maxum MODBUS Address Map, Continued
+
+Sample Address Map Some sample lines from an address map (the first line is always ignored
+Lines by the loader):
+
+Ref index, host, tag, desc, data type, address, aniz, app, stream, res,
+value type, initvalue, euhi address
+
+1,,,,4,,,, ,8Sf, 9999 € scale factor( required)
+2,544, ++,» bv, 65535 €"bad value” (required)
+3,,,B,10,,,,, DCHG,0,1,,
+4,,,B,1001,1,1,1, ,SKIP,0,1,,
+5,,,B,1002,2,1,1, ,SKIP,0,1,,
+6,,,B,1051,1,1,1, SEL,0,1,,
+7,,,B,1052,2,1,1, SEL,0,1,,
+8,,,B,1101,1,1,1,,CU,0,1,,
+9,,,B,1102,2,1,1, ,CU,0,1,,
+10,,,B,1151,1,1,1, ECHG,0,1,,
+11,,,B,1152,2,1,1, ECHG,0,1,,
+12,,,B,1201,1,1,1, DCHG,0,1,,
+13,,,B,1202,2,1,1, DCHG,0,1,,
+14,,,B,1351,1,1,1, ,CAL,0,1,,
+15,,,B,1352,2,1,1, ,CAL,0,1,,
+16,,,B,1667,1,1,, ,SBY,0,1,,
+17,,,B,1668,2,1,, ,SBY,0,1,,
+18,,,B,11001,1,1,1, RDME,0,1,,
+19,,,B,11002,2,1,1, RDME,0,1,,
+20,,,8,30001,1,1,,,AN,0,1,,
+21,,,8,30002,2,1,, ,AN,0,1,,
+22,,,8,30255,1,1,, ,CY,0,1,,
+23,,,8,30256,2,1,, ,CY,0,1,,
+24,,,8,30509,1,1,, DED,0,1,,
+25,,,8,30510,2,1,, DED,0,1,,
+26,,,8,41001,1,1,1,1,RES, ,1,,31255
+27,,,8,41002,2,1,1,1,RES, ,1,,31256
+28,,,E,41255,1,1,1,1,EUHI,1,,
+29,,,E,41256,2,1,1,1,EUHI,1,,
+30, ,,Q, 20001,1,1,1,2,RES,,1,,
+31,,, R,70003,2,1,1,2,RES,,1,,
+
+20 « Maxum MODBUS User's Guide 2000584-001

@@ -1,0 +1,29 @@
+References
+
+Siemens, Advance Maxum"" Gas Chromatograph (Version 1.0) User Da-
+tabase Table Descriptions, 8 September 1998
+
+Siemens, Advance Maxum CD ROM Library, 2000583-001
+Siemens, Advance Network Access Unit, User's Manual 2000581-001
+
+Siemens, HOST Computer Communication Interface — HIWAY (HCI-H) for
+Advance Optichrom O system, chapters 3 and 4, March 1993
+
+ABB Hartmann & Braun Technical Note on MODBUS (draft) by Werner
+Ruediger, 24 April 1998.
+
+Gould Inc. MODBUS Protocol Reference Guide PI-MBUS-300 rev. B,
+January 1985.
+
+Schneider Group MODICON MODBUS Protocol Reference Guide PI-
+MBUS-300 rev D, chapters 1 and 2, appendices A and C, September 1997
+
+Schneider Group Open MODBUS/TCP Specification (draft 2) by A.
+Swales, 3 September 1997
+
+Preliminary Protocol Specification for the Maxum Modbus Protocol by R.
+D. Dillon, UCC, 22 November 1999
+
+2000584-001
+
+Maxum MODBUS User's Guide « 61

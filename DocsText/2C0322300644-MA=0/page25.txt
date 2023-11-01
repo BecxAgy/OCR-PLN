@@ -1,0 +1,67 @@
+“a.
+FLOWSERVE
+Ne *
+
+Valbart
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+4. Remove the valve from the line.
+5. Foroperated valve remove the nuts (14c), the operator and the stem key (9a).
+6. Place the valve on the end ofthe body (1) being careful do not damage the ends surface.
+7.
+s
+
+Remove the cap screws (15b) the pins (22b) and the operator flange (8d). At this point it
+is possible to remove and replace the following components:
+
+* Dust seal holder ring (5b);
+* Stem gasket (10b):
+
+* Dustseals (lo);
+
+* Stem bushing (200).
+
+8. Remove the cap screws (15a) the stem cover (7), the stem (5) and the stem grease fitting
+(17a), if provided, for cleaning. At this point it is possible to remove and replace the following
+components:
+
+* Lanterring (50);
+
+* Stemlip seals (26b);
+
+* Stem cover gasket (10c);
+* Antistatic spring (16);
+
+* Stem thrust washer (210);
+* Stem cover lip seal (26c).
+
+9. Remove the nuts (149) and the closure (2). At this point it is possible to remove and replace
+the following components:
+
+* Body gasket (100);
+
+* Body ip seal (260);
+
+* Seat (4) closure side;
+
+* Back seat ring (4a) closure side;
+* Seat gasket (10d) closure side;
+* Seat lip seal (26d) closure side;
+* Seat springs (160) closure side.
+
+10. Extract the ball (3) with ball supports (6). At this point it is possible to remove and replace
+the following components:
+
+* Seat (4) body side;
+
+* Back seatring (40) body side;
+* Seat gasket (10d) body side;
+* Seat ip seal (26d) body side;
+* Seat springs (160) body side;
+* Ball bushing (20b);
+
+* Ball thrust washer (21b).
+
+o
+
+Page 23 of 35

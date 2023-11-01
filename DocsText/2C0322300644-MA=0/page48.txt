@@ -1,0 +1,86 @@
+Et O
+FLOWSERVE
+ee?
+
+TIPO DE CHAVE
+
+00 - Sem Chaves (invólucro vazio)
+
+Mi - SPDT, Mecânico
+
+MA - SPDT, Mecânico, com cames para controle (ver nota 1)
+
+MD - DPDT, Mecânico, com cames para indicação (ver nota 1)
+
+MS - DPDT, Mecânico, com cames para indicação (ver nota 1)
+
+MC - SPDT, Mecânico — Construção para 250 “F
+
+MG - SPDT, Mecânico — Contatos Dourados
+
+M3 - DPDT, Mecânico — Cherry
+
+MB - DPDT, Mecânico — Licon
+
+P4 - SPST, Proximidade
+
+P5 - SPDT, Proximidade
+
+PE - Sabre SPDT, Proximidade
+
+PP - Phazer || SPDT, Proximidade
+
+PL - Phazer || SPDT, Proximidade com LED
+
+PT - Phazer || BRS SPST, Proximidade
+
+Px - Phazer || BRS SPST, Proximidade com LED
+
+N8 - P&F NJ2-V3-N/NJ2-V3-N-V5 (NAMUR)
+
+N9 - P&F NBB3-V3-Z4
+
+NQ - P&F NJ4-12GK-N (NAMUR)
+
+NR - P&F NJ4-12GM40-E1 (NPN NO, 3 fios)
+
+NS - P&F NJ4-12GM40-E2 (NPN NO, 3 fios)
+
+NT - P&F NJ4-12GK40-E2 (NPN NO, 3 fios)
+
+NP - P&F SJ3.5-N (NAMUR)
+
+NU - GO SWITCH, Proximidade
+
+SN - Válvulas Pneumáticas de 3 Vias
+
+EN - Cartão Controlador Dispositivo de Rede, 4 entradas e 2 saídas, com 2 chaves do tipo 4
+
+FZ - Cartão Controlador AS-i 2.1, 4 entradas e 2 saídas, com 2 chaves do tipo 4
+
+CERTIFICAÇÕES
+
+- (ver nota 2)
+
+-14 - Uso Geral
+
+47 - (CSA/UL) Classe |, Div. 1, CD; Classe | Div. 2, ABCD T3; Classe II Div. 1, EFG; Classe II Div.
+2, FG; Classe III T5
+
+-18 - UL/CSA ClI, Div. 1 Gr CD/CIII Div. 1,2 Gr EFG/ ATEX II 2G Ex d IIB T5
+
+-19 - ATEX-I|2 G Exd IB T5; Classe I|2 D ExtD A21 IP 65
+
+-25 - IECEx - Ex d IIB T5; Ex tD A21 IP 65
+
+-26 - InMetro — BR-Ex d IIB T5
+
+-27 - Factory Mutual/CUS 1.S. Class |,IL Il Div 1 Gr. A,B,C,D,E,F,G T5
+
+-Mi - Placa de Identificação de Metal UL/CSA CI | Div 1 Gr CD/CI II Div. 1,2 Gr EFG
+
+-M2 - Placa de Identificação de Metal UL/CSA CI Div 1 Gr CD Div. 2 Gr ABCD T3/CI II Div. 1,2 Gr
+EFG
+
+Experience In Motion
+

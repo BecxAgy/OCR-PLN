@@ -1,0 +1,109 @@
+BRASKEM UNIB1BA
+
+Set 1
+
+4
+4
+4
+Item Qty
+10.01 2
+
+DS-F
+
+> > > >
+
+BB
+
+Proposta Técnica Nº 21-B1-0280-RO MRO - Spot - RFQ - 97996
+Preços em Reais
+
+Customer Tag LT-41039
+Instrument Tag LT-41039
+Output Range O - 905 mmH20
+Model Description
+DS-F3A7AAAA31AZ-C Diaphragm Seal Flanged Flush -One PC
+
+Construction
+
+FUNCTION:
+
+DIAPHRAGM SEAL FLANGED FLUSH 1 PIECE CONSTRUCTION
+
+PROCESS SIZE:
+
+FLANGE RATING:
+
+ASME Class 150 (ASME):
+
+DIAPHRAGM DIAMETER:
+
+3.5" Diameter
+
+SEALING FACE:
+
+RF 125...250 AA (ASME)
+
+FLANGE MATERIAL:
+
+Stainless steel (316L); UNS S31603
+
+SEALING FACE MATERIAL:
+
+Stainless steel (316L); UNS S31603
+
+DIAPHRAGM MATERIAL:
+
+Stainless steel (316L); UNS S31603
+
+FLUSHING CONNECTION:
+
+1x 1/2 NPT Female
+
+SEALING SCREW ON FLUSHING CONNECTION:
+
+1 Sealing Screw
+
+LOWER PART MATERIAL:
+
+Stainless steel (316L); UNS S31603
+
+WETTED PARTS COATING:
+
+No Coating
+
+OPTIONS:
+
+Calibration Certificate
+
+Model Description
+
+DC-RA4BBG Diaphragm Seal Instrument Connection
+Capillary and
+
+FUNCTION:
+
+Instrument Connect and Fill
+
+INSTRUMENT CONNECTION:
+
+Remote Welded Capillary (Instrument and Seal)
+
+SEAL ORIENTATION:
+
+High and Low Side (D/P Style, IMV)
+
+CAPILLARY ID:
+
+0.059" (1.5mm)
+
+CAPILLARY LENGTH AND TYPE:
+
+6 ft (2.0m) 316 ss Flexible Armor, PVC COAT
+
+FILL FLUID:
+
+TMC 704:(-25 [-10], C [F]Low) ( 400 [750], C [F]Max)
+
+Page 3
+10 de agosto de 2021
+CONFIDENCIAL E PROPRIETÁRIO

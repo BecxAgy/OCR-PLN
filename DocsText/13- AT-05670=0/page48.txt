@@ -1,0 +1,53 @@
+MODBUS Data Types, Continued
+
+MODICON Types In some of the MODICON programming languages, data is viewed as
+being one of seven types:
+
+Type O digital output (can be read and written)
+
+Type 1 digital input (can only be read)
+
+Type 2 digital value representing internal PLC status (exception)
+Type 3 analog input (can only be read)
+
+Type 4 analog output (can be read or written)
+
+Type 5 analog value representing internal PLC value (event)
+Type 6 file of 16-bit registers
+
+In MODBUS terminology, types 0, 1, 3, 4, and 6 are general-purpose, but
+type 6 is implemented less frequently than types 0, 1, 3, and 4. Types 2
+and 5 are not referred too directly. The type 2 and type 5 data varies be-
+tween PLC models and can be accessed only through MODBUS func-
+tions that are often specific to certain PLC models.
+
+Although the MODBUS standard, defined by MODICON, does not spec-
+ify how to send values other than digitals or 16-bit 2's complement inte-
+gers, a frequent practice is to use the MODBUS protocol to other 16-bit
+values or to send 32-bit and 64-bit values as pairs and quadruples of
+registers. For 32-bit and 64-bit values, the most significant 16-bit portion
+is sent as the first register and the least significant 16-bit portion is sent
+as the last register. 32-bit IEEE floating point format values are the most
+common deviation from the MODICON standard but sometimes the val-
+ues of 32-bit integers and 64-bit IEEE floats are transmitted this way.
+
+The MODBUS data model views each type of data as belonging to a
+separate data table. The conventional notation for addresses specifies
+which table and the offset within the table. The original ranges of the four
+main data types are:
+
+00001 to 09999 for digital outputs (read and write) meaning table O
+with offsets 1 to 9999
+
+10001 to 19999 for digital inputs (read only) meaning table 1 with
+ofífsets 1 to 9999
+
+30001 to 39999 for analog inputs (read only) meaning table 3 with
+ofífsets 1 to 9999
+
+40001 to 49999 for analog outputs (read and write) meaning table 4
+with offsets 1 to 9999
+
+Extended addresses may be supported in the future.
+
+42 « Maxum MODBUS User's Guide 2000584-001

@@ -1,0 +1,64 @@
+TUV, TUEV and TUV are registered trademarks. Utilisation and application requires prior approva
+
+10/222 12. 12E A4
+
+Certificate
+
+SIL/PL
+Capability
+
+www.tuv.com
+ID 0600000000
+
+No.: 968/V 1079.01/18
+Product tested Ball Valves Certificate Flowserve S.rI.
+holder Valbart
+Via delle Industrie 15
+20883 Mezzago (MB)
+Italy
+Type designation Side Entry Trunnion Mounted Ball Valves: VB2, VB3, VW1, TMCBV
+Top Entry Trunnion Mounted Ball Valves: VT1
+Rising Stem Ball Valves: RSBV
+Codes and standards IEC 61508 Parts 1-2 and 4-7:2010
+Intended application Safety Functions: The valves can be used for Closing or Opening on
+
+Demand Application as well as for Tight Shut Off.
+
+The assessment based on the certification program of the Certification
+Body comes to the result that the valves meet the requirements of
+
+IEC 61508:2010 and are therefore suitable for use in a safety instrumented
+system up to SIL 2 (low demand mode).
+
+Under consideration of the minimum required hardware fault tolerance
+HFT = 1 the valves may be used in a redundant architecture up to SIL 3
+according to IEC 61511.
+
+Specific requirements The instructions of the associated Installation, Operating and Maintenance
+Manual and the Safety Manual shall be considered.
+
+Summary of test results see back side of this certificate.
+
+Valid until 2023-11-07
+
+The issue of this certificate is based upon an examination, whose results are documented in
+Report No. 968/V 1079.01/18 dated 2018-10-30.
+
+This certificate is valid only for products which are identical with the product tested.
+
+TÚV Rheinland Industrie Service GmbH
+Bereich Automation À
+
+Ê Ê Ê PEA
+Funktionale Sicherheit || 9
+
+a - - - ur — f
+
+Kôln, 2018-11-07 Am Grauen Stein, 51105 Kôin ()
+Certification Body Safety & Security for Automation & Grid Dr.-Ing. Thorsten Gantevoort
+
+www .fs-products.com
+
+Www.tuv.com A TUVRheinland?
+
+Precisely Right.

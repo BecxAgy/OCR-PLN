@@ -1,0 +1,86 @@
+Si,
+FLOWSERVE
+
+Valha
+
+Keep dry
+
+Center of gravity
+
+No hand truck
+here
+
+Stacking
+limitation
+
+Clamp here
+
+Temperature
+limitations
+
+Do not use forklift
+truck here
+
+Electrostatic
+sensitive device
+
+q
+dr
+
+%
+E
+4
+
+4
+Hli<
+)
+Ir)
+
+A
+Átad
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+
+Cargoes bearing this symbol must be protected from excessive
+humidity and must accordingly be stored under cover. If
+particularly large or bulky packages cannot be stored in
+warehouses or sheds, they must be carefully covered with
+tarpaulins.
+
+This symbol is intended to provide a clear indication of the
+position of the center of gravity. To be meaningful, this symbol
+should only be used where the center of gravity is not central.
+The meaning is unambiguous if the symbol is applied onto two
+upright surfaces at right angles to each other.
+
+The absence of this symbol on packages amounts to permission
+to use a hand truck on them.
+
+The maximum stacking load must be stated as "... kg max”.
+Since such marking is sensible only on packages with little
+loading capacity, cargo bearing this symbol should be stowed
+in the uppermost layer.
+
+Stating that the package may be clamped at the indicated
+point is logically equivalent to a prohibition of clamping
+anywhere else.
+
+According to regulations, the symbol should either be provided
+with the suffix "...ºC" for a specific temperature or, in the case of
+a temperature range, with an upper ("...ºC max.") and lower
+(E...ºC min.”) temperature limit. The corresponding temperatures
+or temperature limits should also be noted on the consignment
+note.
+
+This symbol should only be applied to the sides where the forklift
+truck cannot be used. Absence of the symbol on other sides of
+the package amounts to permission to use forklift trucks on these
+sides.
+
+Contact with packages bearing this symbol should be avoided
+at low levels of relative humidity, especially if insulating footwear
+is being worn or the ground/floor is nonconductive. Low levels
+of relative humidity must in particular be expected on hot, dry
+summer days and very cold winter days.
+
+Page 13 of 35

@@ -1,0 +1,75 @@
+XCL Series UltraSwitch
+Position Indicator
+
+Certificate / Certificat / Zertifikat / Ér4&RIE
+FLO 1905142 C004
+
+Systematic Capability: SC 3 (SIL 3 Capable)
+
+Random Capability: Type A, Route 2, Device
+
+PFH/PFDa,, and Architecture Constraints
+must be verified for each application
+
+Systematic Capability :
+
+The product has met manufacturer design process requirements of Safety
+Integrity Level (SIL) 3. These are intended to achieve sufficient integrity against
+systematic errors of design by the manufacturer.
+
+A Safety Instrumented Function (SIF) designed with this product must not be
+used at a SIL level higher than stated.
+Random Capability:
+
+The SIL limit imposed by the Architectural Constraints must be met for each
+element. This device meets exida criteria for Route 2,,.
+
+Versions:
+
+Group Description / Application Applicable Switch Codes
+
+Namur Proximity Sensors N8, NP
+
+Group 1 | MicroSwitches and Proximity Reed Switches, rated up
+to 3 Amps and external Current Limiting / Protection
+
+MG, P5, PE, PP, & PT
+
+MicroSwitches (Applications with Switches rated up to
+15 Amps)
+
+Group 2 M1, MC, & MK
+
+IEC 61508 Failure Rates in FIT!
+
+forcimmtoramo Tia [o To [ão]
+
+Group 1 — NAMUR Proximity Sensors,
+
+MicroSwitches?, or Proximity Reed Switches?
+
+Group 2 — MicroSwitches (Applications with
+Switches rated up to 15 Amps)
+“FIT =1 failure / 10º hours
+
+2 Failure rates listed are only applicable if the switch contacts current is limited to 60% of the
+switches rated capacity and the end user has added external transient protection if being used with
+non-resistive loads.
+
+SIL Verification:
+
+The Safety Integrity Level (SIL) of an entire Safety Instrumented Function (SIF)
+must be verified via a calculation of PFH/PFDa, considering redundant
+architectures, proof test interval, proof test effectiveness, any automatic
+diagnostics, average repair time and the specific failure rates of all products
+included in the SIF. Each element must be checked to assure compliance with
+minimum hardware fault tolerance (HFT) requirements.
+
+The following documents are a mandatory part of certification:
+
+Assessment Report: FLO 19/05-142 R005 V2R1 Switchbox Assessment
+Report (or later)
+
+Safety Manual: Ultra-Switch Safety Manual V1R2 (or later)
+
+Page 2 of 2

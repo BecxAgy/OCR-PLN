@@ -1,0 +1,44 @@
+Et O
+FLOWSERVE
+eae?
+
+Ajuste Fino da Came:
+
+Algumas cames têm a disponibilidade de ajuste fino. Essas cames possuem um parafuso pequeno embutido na lateral. Ajustar
+esse parafuso para dentro ou para fora deformará a came, alterando ligeiramente o ponto de deslocamento.
+
+Ajuste do Indicador de Posição UltraDome:
+
+Os indicadores visuais UltraDome são facilmente ajustados para combinar as janelas translúcidas do domo com as seções
+coloridas do rotor. O domo é fixado na caixa da UltraSwitch com parafusos montados através de furos oblongos. Os furos
+oblongos permitem ajuste de cerca de 20º do domo. Além disso, o domo pode ser totalmente removido e redirecionado em
+incrementos de 45º e 90º. O rotor pode ser redirecionado com relação ao eixo, removendo o acoplador do eixo e girando 90º
+antes da reinstalação. Isso pode ser necessário para obter a orientação correta das janelas em uma aplicação de múltiplas
+vias.
+
+Calibração do Transmissor 4-20 mA:
+
+Ajuste da ação direta/reversa: O ajuste da micro chave (dip-switch) controla a direção do deslocamento. Para 4mA no sentido
+horário total, selecione "D"; para 4mA no sentido anti-horário total, selecione "R".
+
+Ajuste do ponto zero/escala (span):
+
+1. Fixe um medidor mA CC nos terminais +/-.
+
+2. Opere a válvula/chave para a posição correspondente a 4maA.
+
+3. Ajuste o potenciômetro para 4maA. (Gire no sentido horário para aumentar o valor; gire no sentido anti-horário para
+diminuir o valor).
+
+4. Opere a válvula/chave para a posição correspondente a 20mA.
+
+5. Ajuste o potenciômetro para 20mA. (Gire no sentido horário para aumentar o valor; gire no sentido anti-horário para
+diminuir o valor).
+
+6. Os ajustes do ponto zero/escala span são interativos. Repita os passos 1 a 5, conforme necessário.
+
+Nota: Se tiver dificuldade para ajustar o transmissor (ou seja, se não conseguir regular com o potenciômetro), recomece
+centralizando o potenciômetro. Isso é feito girando-o em uma direção 20 voltas e invertendo a direção em 10 voltas.
+
+Experience In Motion
+

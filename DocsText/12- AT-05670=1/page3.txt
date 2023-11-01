@@ -1,0 +1,108 @@
+init value |slave euhiref
+
+9999
+
+[=
+
+= = =
+
+O O O
+11
+
+AT-05670
+
+14]
+
+TANDBY
+
+AT-05670
+
+AT-05670
+
+KIPSTRM
+KIPSTRM
+
+n|n|a
+
+2)
+
+6/AT-05670 KIPSTRM
+parse |
+ELECTSTRM
+ELECTSTRM
+
+Ia
+
+AT-05670
+9/AT-05670
+10/AT-05670
+
+11/AT-05670
+
+o
+
+URRSTRM
+URRSTRM
+
+12/AT-05670
+13/AT-05670
+
+14/AT-05670
+
+URRSTRM
+ALIBRATE
+ROGRAMRUN
+DME
+
+V
+
+2|D
+
+15/AT-05670
+16/AT-05670
+
+17/AT-05670
+
+o|jo
+pejajajajajajpjajajajajajhjhjhjh
+
+ANALYZERSTATUS
+
+18/AT-05670
+19/AT-05670
+
+AT-05670
+
+H
+
+ALARM
+
+CYCLELENGTH
+
+MN
+
+ojojo|jo|jo|jo|jo|jo|jojo|o|jo|jo|jo|jo|jojojo|jo
+
+21/AT-05670 HYDROGEN
+22/AT-05670 MAPD
+
+AT-05670 MAPD
+
+AT-05670 HYDROGEN
+
+Lud |
+
+AT-05670 HYDROGEN
+
+|
+
+1) 1) 1)
+pjm njm nio nio nio n
+olo
+
+AT-05670 MAPD
+
+w
+[=)
+[=
+

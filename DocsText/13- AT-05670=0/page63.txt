@@ -1,0 +1,26 @@
+Function 08 — Loopback Diagnostics Test, Continued
+
+Error Example 2
+
+The master sends Diagnostic Code 12 with data value O (zero) to slave
+17:
+
+Slavef Function Code Diagnostic Code Data Value
+High Low High Low
+11 08 00 0c 00 00
+
+Loopback Test Diagnostic Code 12 Command
+
+The slave will respond with its identity, the function code, the diagnostic
+code, and the value of the event counter (count of checksum errors), a
+value of 3 in this example:
+
+Slavef Function Code Diagnostic Code Data Value
+High Low High Low
+11 08 00 0c 00 03
+
+Loopback Test Diagnostic Code 12 Response
+
+2000584-001
+
+Maxum MODBUS User's Guide e 57

@@ -1,0 +1,7 @@
+MODBUS Primer, Continued
+
+Checksum and When a message is received, the CRC-16 checksum of the message is
+Communication Error — computed and compared with the received CRC-16 checksum. If the two
+checksums match, there was probably no communication error.
+
+40 «e Maxum MODBUS User's Guide 2000584-001

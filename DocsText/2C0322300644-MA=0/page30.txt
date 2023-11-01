@@ -1,0 +1,57 @@
+a.
+FLOWSERVE
+Ne *
+
+Valbart
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+8.3 Maintenance on disassembled paris
+
+Inspection and maintenance procedure:
+
+1. Wipe the metal parts with solvent by means of soft cloth.
+2. Wipe lip seals and gaskets by means of soft cloth.
+
+3. Checklip seals and gaskets, seat rings, stem and ball.
+
+4. Replace the defective part with a new one.
+
+PAN Any work on the valve must be performed when itis at a standstill and de-energized state.
+It is imperative that the procedure for shutting down the machine is followed, as described in
+Chapter 6.
+
+After every disassembly, it is recommended to replace dust
+NOTICE seals, lip seals and gaskets. Do not use dust seals, lip seals
+and gaskets with dimensions different from the original ones.
+
+8.4  Reassembly
+
+To re-assemble the valve follow the disassembly steps backwards.
+
+During re-assembly be very careful to not damage lip seals.
+NOTICE In the case of valves equipped with operator do not move
+absolutely the operator end stops (their position must be re-
+
+checked and eventually reset on the assembled valve).
+
+8.5 Spare parts stocking recommendation
+
+When ordering spare part, the following information should be provided to Flowserve:
+a) Product serial number
+
+b) Product size
+
+c) Part name -— taken from the parts list/sectional drawing
+
+d) Part number — taken from the parts list/sectional drawing
+
+e) Number of the parts required
+
+The product size and serial number are provided on the nameplate.
+
+To ensure continued satisfactory operation, replacement parts to the original design
+specification should be obtained from Flowserve. Any change to the original design
+specification (modification or use of non-standard part) will invalidate the product safety
+certification.)
+
+Page 28 of 35

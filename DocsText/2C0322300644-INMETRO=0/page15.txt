@@ -1,0 +1,61 @@
+DNV-GL
+
+DNV GL - BUSINESS ASSURANCE
+CERTIFICADO DE CONFORMIDADE
+
+Certificate of Conformity 7 Certificado de Conformidad
+
+Certificado nº: DNV 12.0059 X — Revisão 05 Emissão: 31/05/2021 Válido até: 31/05/2024
+
+Certificate nº / Certificado nº Issuance / Otorgamiento Valid until / Válido hasta
+
+Análises e ensaios realizados:
+As análises e os ensaios realizados encontram-se no arquivo nº DNV 12.0059.
+
+Documentação descritiva:
+
+Documento Páginas Descrição Rev. Data
+IECEx SIR 06.0007X 5 Certificado de Conformidade 0 14/12/2007
+IECEx SIR 06.0007X 7 Certificado de Conformidade 1 25/03/2008
+IECEx SIR 06.0007X 7 Certificado de Conformidade 2 19/03/2010
+IECEx SIR 06.0007X 7 Certificado de Conformidade 3 14/03/2011
+IECEx SIR 06.0007X 7 Certificado de Conformidade 4 15/11/2012
+IECEx SIR 06.0007X 7 Certificado de Conformidade 5 03/06/2015
+IECEx SIR 06.0007X 8 Certificado de Conformidade 6 22/06/2018
+
+GB/SIR/ExTRO7.0140/00 21 Relatório de ensaios 0 10/12/2007
+GB/SIR/ExTRO8.0033/00 3 Relatório de ensaios 0 28/02/2008
+GB/SIR/ExTR10.0043/00 7 Relatório de ensaios (o) 08/03/2010
+GB/SIR/ExTR11.0021/00 5 Relatório de ensaios 0 31/01/2011
+GB/SIR/ExTR12.0262/00 11 Relatório de ensaios 0 15/11/2012
+GB/SIR/ExTR15.0143/00 16 Relatório de ensaios 0 13/05/2015
+GB/SIR/ExTR18.0106/00 7 Relatório de ensaios 0 22/06/2018
+Marcação:
+
+A chave fim de curso foi aprovada nos ensaios e análises, nos termos das normas adotadas, devendo receber a
+marcação, levando-se em consideração o item observações.
+
+Ex d IIB T5 Gb
+
+Ex tb IIIC T100 ºC Db
+IP66/IP67
+
+-200C < Ta < +559C
+
+Observações:
+
+1. O número do certificado é finalizado pela letra X para indicar que os produtos estão sujeitos as condições
+específicas de utilização especificadas abaixo:
+Os seguintes interstícios de fabricação máximos são menores do que os requeridos pela
+ABNT NBR IEC 60079-1:
+
+Junta flangeada entre tampa e base: 0,058 mm
+Junta cilíndrica entre eixo e tampa: 0,088 mm (folga diametral)
+Junta cilíndrica entre tampa e base: 0,088 mm (folga diametral)
+
+A tensão de cisalhamento dos parafusos de fixação da tampa é de 671 N/mm?.
+
+DNV GL Business Assurance Avaliações e Certificações Brasil Ltda
+Av. Alfredo Egydio de Souza Aranha, 100 - Bloco D - 3º Andar — CEP: 04726-908 - São Paulo, SP, Brasil
+Form Ref.: ZNS-BR-EX-006 Rev.: 03 Data: 03/01/2020 http:/Awww.dnvgl.com.br Pág.: 5 de 7
+

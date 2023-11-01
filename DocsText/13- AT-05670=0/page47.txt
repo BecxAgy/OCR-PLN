@@ -1,0 +1,52 @@
+MODBUS Data Types
+
+Basic Data Types
+
+Digital Values
+
+The MODBUS protocol has two basic data types, digital and analog.
+Digital values are either O (zero) or 1 (one). Analog values are usually
+16-bit 2's complement integers, giving a range from —-32768 to 32767.
+The MODBUS protocol also uses 16-bit positive integers with a range of
+O to 65535 (for example, MODBUS addresses). Digital values are often
+referred to as coils. Analog values and other 16-bit values are often re-
+ferred to as registers.
+
+MODBUS messages that transmit a string of digital values pack these
+into a sequence of bytes. The first 8 digitals are packed into the first byte,
+the next 8 digitals are packed into the second byte, and so on. Digital
+values are packed into a byte using the least significant available bit. The
+value of the first digital value is given by the least significant bit of the
+first byte. If there are not enough digital values to fill the last data byte,
+the unused bits of that byte will be in the most significant bit positions
+and have a value of O.
+
+For an example of packing bits into bytes, assume the following se-
+quence of 19 digital values will be packed into 3 consecutive bytes:
+0,0,1,0,1,1,1,1,1,0,0,0,0,0,1,0,1,0, and 1,
+Then: the first eight bits (0,0,1,0,1,1,1,1) would be packed into the first
+byte which would have the value 0xF4 (11110100), the next eight bits
+(1,0,0,0,0,0,1,0) would be packed into the second byte which would have
+the value 0x41 (01000001), and the last three bits (1,0,1) would be
+packed into the third byte which would have the value 0x05 (00000101)
+because the most significant 5 bits of the third byte would be set to zero:
+
+Data Byte O Data Byte 1 Data Byte 2
+7/6/5/4/3/2/1/0/7/6/5/4/3/2/1/0/7/6/5/4/3/2/1]/0
+ijifififojifojofojifofofojofojifojofojofojifo(1
+
+Bit-Packing Digitals Into Bytes (bit positions are shown)
+
+One MODBUS function sets the value of a single digital (Function 05 —
+Force Single Coil). This particular function represents the value of ON by
+OxFFOO (65023 decimal) and the value of OFF by 0x0000 (zero).
+
+Within a MODBUS message, the values of 16-bit quantities are sent with
+the more significant byte transmitted before the less significant byte.
+Note that this is opposite of the way MODBUS RTU transmits the CRC-
+16 checksum.
+
+2000584-001
+
+Maxum MODBUS User's Guide e 41
+

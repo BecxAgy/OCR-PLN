@@ -1,0 +1,41 @@
+Function 16 — Preset Multiple Registers
+
+Master Command The master sends a command writing the values to a string of analog
+outputs (table 4), specifying the starting address, the number of analog
+values, and the 16-bit values. The values are sent with the more signifi-
+cant byte before the less significant byte.
+
+For example, the master might set the values of the 2 registers 40136
+and 40137 to 10 (0x000A) and 258 (0x0102) respectively in slave 17:
+
+Function Byte
+Slavef Code Data Start Quantity Count Word O Word 1
+High Low High Low High Low High Low
+11 10 00 87 00 02 04 00 OA 01 02
+
+Preset Multiple Registers Command
+
+Slave Response If the slave can process the command without error, the slave will send a
+response with its identity, the function code, the starting address, and the
+number of analogs (quantity) whose values were set:
+
+Slavef Function Code Data Start Quantity
+High Low High Low
+11 10 00 87 00 02
+
+Preset Multiple Registers Response
+
+Error Response Similar to Function Code 05, an ILLEGAL DATA ADDRESS error re-
+sponse will be sent if the register's address is outside the configured
+range of table 4 (analog outputs) or if the combination of starting address
+and quantity results in an address outside of the configured range.
+
+A FAILURE IN ASSOCIATED DEVICE error response will be sent if an
+internal error prevented the command from being carried out.
+
+Normally there would not be an ILLEGAL DATA VALUE response be-
+cause all values should be acceptable. The function code in the error
+response will be 144 (0x90) indicating that the error occurred on a com-
+mand with Function Code 16.
+
+2000584-001 Maxum MODBUS User's Guide e 59

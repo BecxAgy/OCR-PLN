@@ -1,0 +1,75 @@
+—
+FLOWSERVE
+“id
+
+2.3
+2.3.1
+
+24
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+Table 2: Additional symbols
+
+Symbol Description
+ELECTRICAL HAZARD
+This symbol indicates electrical safety instructions where
+non-compliance would affect personal safety and could
+result in loss of life
+
+TOXIC HAZARD
+
+This symbol indicates “hazardous substances and toxic fluid"
+/N safety instructions where non-compliance would affect
+
+personal safety and would damage the equipment or
+
+property
+
+ATEX EXPLOSION PROTECTION
+
+This symbol indicates explosive atmosphere marking
+
+according to ATEX. It is used in safety instructions where non-
+
+compliance in the hazardous area would cause the risk of
+
+an explosion
+
+General hazard sources
+Mechanical Hazards
+a) Lifting limits and guidelines
+
+Note: The load values mentioned in this section are Flowserve recommendations only. All lifting
+must be done in compliance with site safety protocol, local regulations, and related industry
+standards.
+
+Many precision parts have sharp corners which require appropriate personal protective
+equipment during handling. Prior to any attempt to lift an item, employees must first determine
+the approximate weight and stability of the load.
+
+e Large, unstable, or awkward loads should always be handled with the assistance
+of additional personnel or appropriate mechanical means.
+
+e Loads in excess of 23kg (50 lb.) should only be lifted by appropriate mechanical
+means and in accordance with current local legislation or with the assistance of
+additional personnel.
+
+e Lifting items less than 23kg (50 lb.) may be prohibited without assistance if the lift is
+repetitive and/or awkward (i.e., away from the body, above the shoulders or below
+the knees) thus placing excessive stress on the personnel.
+
+e Repetitive lifting of any kind should be evaluated as part of a documented end-
+user safety program.
+
+Qualified personnel and targeted group
+
+All personnel involved in the operation, installation and maintenance of the unit must be
+qualified to carry out the work involved. If the personnel in question does not already possess
+the necessary knowledge and skill, appropriate training and instruction must be provided. If
+required the operator may commission the manufacturer / supplier to provide applicable
+training.
+
+Always co-ordinate repair activities with operation and health and safety personnel, and
+follow all plant safety requirements and applicable safety and health laws and regulations.
+
+Page 7 of 35

@@ -1,0 +1,45 @@
+ITEM DESCRIÇÃO
+1 FILTRO REGULADOR DE AR - 5 MICRAS - 1/4" NPTF
+2 VÁLVULA SOLENOIDE - ASCO - EM8327B151 - 24VDC
+3 VÁLVULA DE ESCAPE RÁPIDO - SITECNA VSRO4NALHN - 1/4" NPT
+4 ATUADOR PNEUMÁTICO - AUTOMAX SUPERNOVA - S250-S09
+NOTAS:
+— POSIÇÃO DA VÁLVULA EM FALHA PNEUMÁTICA: FECHADA.
+- O DIAGRAMA É DESENHADO COM A VÁLVULA SOLENÓIDE DESERNEGIZADA H
+
+Controle elétrico remoto para abrir (Ação Ar):
+Energizar pelo menos uma válvula solenoide (A ou B)
+
+Controle elétrico remoto para fechar (Ação Mola):
+Desenergizar ambas as válvulas solenoides (A e B)
+
+I
+|
+
+Schematic presentation of
+the redundant valve
+
+PANA]
+PY
+
+Revisar o diagrama
+pneumatico da solenoide
+
+EMEA 228 AR DO SISTEMA
+9 PRESSAO:
+w eo 1 4,5 A 10 kgf/cm2
+H Lu
+>
+[a
+Ls
+Mm
+nr dx C
+0 - EMISSÃO INICIAL - PARA COMENTÁRIOS 18/09/23] - VG NG
+ECN Descrição Data Localiz. Des. | Aprov.
+ado por 3 por - Arquiv AD Esc
+RCA L 3006h4 St ID
+A IA ERA É preibico a utilização total ou parcial deste :
+PLONISERVE
+CÓDIGO DE REFERÊNCIA TAG: XV-441054 So nu
+UT4158713MM
+

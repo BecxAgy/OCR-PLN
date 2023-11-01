@@ -1,0 +1,71 @@
+CERTIFICADO DE CONFORMIDADE
+
+CERTIFICATE OF CONFORMITY
+Certificado No. / Certificate No. UL-BR 12.0005X
+
+Certificado de Conformidade válido somente acompanhado das páginas de: 1a9
+
+Certificate of Conformity valid only with the following pages
+Emissão / Dateofissue | 13 de janeiro de 2012 / January 13, 2012
+Revisão / Revision Date 27 de setembro de 2021 / September 27, 2021
+Validade / Expire date 12 de janeiro de 2024 / January 12, 2024
+
+NOMENCLATURA / NOMENCLATURE:
+
+WS EM ET X8 2140 D 095 120/60
+
+A BC DEF GH 1
+Onde/Where:
+A | Material do Invólucro Nenhum/None — aço zincado (coberto com epoxy)/zinc plated steel (epoxy coated)
+Enclosure Material WS - aço inoxidável AISI 316 /stainless steel AISI 316
+B | Operador EM-M6
+Operator EM-MXX
+EM-M12-I
+EM-M12-II
+C | Entrada T- Conduite 1/2” NPT / Conduit 1/2" NPT
+Entry ET — Adaptador para conduite M20"x1.5 / Conduit adaptor M20'x1.5
+D | Construção especial
+Special construction
+E | Tipo de Rosca 8-NPT
+Thread Type G- ISO 228/1
+F | Série da Válvula
+Valve Series
+G | Geração
+Generation
+H | Modelo
+Model
+1 | Tensão/Frequência
+Voltage/Frequency
+
+CARACTERÍSTICAS ELÉTRICAS / ELECTRICAL CHARACTERISTICS:
+
+Tensão máxima/Max.voltage: 250 Vcc/dc ou/or Vcalac.
+
+CONDIÇÕES ESPECÍFICAS DE UTILIZAÇÃO PARA EQUIPAMENTOS Ex ou LISTA DE LIMITAÇÕES PARA
+COMPONENTES Ex:
+SPECIFIC CONDITIONS OF USE FOR Ex EQUIPMENT or SCHEDULE OF LIMITATIONS FOR Ex COMPONENTS:
+
+O solenóide deve ser protegido por um fusível devidamente classificado (1,5 x |nom, mencionado na placa de identificação),
+capaz de interromper a corrente de curto-circuito potencial.
+
+Se o solenóide for utilizado em um ambiente com poeira, o risco de descarga eletrostática deve ser evitado.
+
+A proteção Ex eb é fornecida por uma caixa de junção integrada com conexões internas de fiação preenchidas em
+conformidade com Ex eb.
+
+Aperte os parafusos e prensa-cabos com o torque correto, consulte a tabela de torque no manual de instruções. Desencape
+o isolamento externo do cabo em aprox. 30 mm e o isolamento dos cabos acima de 8mm.
+
+The solenoid shall be protected by a suitably rated fuse (1.5 x | nom, mentioned on the nameplate), capable of interrupting the prospective short circuit current.
+Ifthe solenoid is used in a dust environment, the risk of electrostatic discharge shall be avoided.
+
+Ex eb protection is provided by an integrated junction box with, internal, Ex eb compliant filed wiring connections.
+
+Tighten screws and cable gland with the correct torque, see torque chart in manual. Strip the outer insulation of the cable over approx. 30 mm and the insulation
+from the leads over 8 mm.
+
+Organismo de Certificação / UL do Brasil Certificações
+Certification Body Avenida Engenheiro Luis Carlos Berrini, 105 — 24º andar
+04571-010 — Brooklin — São Paulo — SP — Brasil
+
+Página / Page 4/9 41-IC-FO400 rev. 18.0

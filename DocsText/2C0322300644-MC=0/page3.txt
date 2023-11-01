@@ -1,0 +1,24 @@
+sta z
+FLOWSERVE MEMORIAL DE CÁLCULO
+BRASKEM Folha: [05] DE Toa]
+Peão: 4503649776 Data: Mjoos
+XV-441054 Rev.:
+
+Elaborado: GARCIA Verificado: L. BARBEIRO Aprovado: N. IRON
+
+FLOWSERVE SPEED OF OPERATION
+e
+
+Flow Control Division
+Actuator : S-Series SuperNova Actuator Volume : 11.799 liter
+Fail Mode : SR(clockwise) Supply Pressure : 3.923 bar
+Actuator Size Pressure Drop : 0.345 bar
+
+Spring Set Ê Supply Temperature : 21.11 Degrees C
+
+Specific Gravity
+Cv Value
+Stroke Speed Open <= 22 Seconds
+
+Air Flow Rate 2.87 LIS
+

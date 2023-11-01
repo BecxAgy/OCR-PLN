@@ -1,0 +1,57 @@
+Function 15 — Force Multiple Coils
+
+Master Command
+
+Slave Response
+
+Error Response
+
+The master sends a command writing the values to a string of digital out-
+puts (table 0), specifying the starting address, the number of digitals, and
+the values. The values are packed into bytes. The first byte contains the
+values of the first eight digitals, the second byte contains the values of
+the next eight digitals, and so on. The values are packed into the bytes,
+beginning with the least significant bit of a byte and finishing with the
+most significant bit of the byte. If there are not enough digitals to fully use
+all of the bits of the last data byte, the unused bits should be set to zero.
+There should be at least one digital value in the last data byte.
+
+For example, the master might set the values of the 10 coils 00014
+through 00023, turning ON (one) coils 00014, 00016, 00017, 00020, and
+00021 while turning OFF (zero) coils 00015, 00018, 00019, 00022, and
+00023:
+
+Slave Function | Data Start Quantity Byte Data Data
+
+Ei Code Count ByteO | Byte 1
+
+High Low | High Low
+
+11 or 00 13 00 OA 02 CD 00
+
+Force Multiple Coils Command
+
+If the slave can process the command without error, the slave will send a
+response with its identity, the function code, the starting address, and the
+number of digitals (quantity) whose values were set:
+
+Slavef Function Code Data Start Quantity
+High Low High Low
+11 OF 00 13 00 OA
+
+Force Multiple Coils Response
+
+Similar to Function Code 05, an ILLEGAL DATA ADDRESS error re-
+sponse will be sent if the register's address is outside the configured
+range of table O (digital outputs) or if the combination of starting address
+and quantity results in an address outside of the configured range.
+
+A FAILURE IN ASSOCIATED DEVICE error response will be sent if an
+internal error prevented the command from being carried out.
+
+Normally there would not be an ILLEGAL DATA VALUE response be-
+cause all values should be acceptable. The function code in the error
+response will be 143 (0x8F) indicating that the error occurred on a com-
+mand with Function Code 15.
+
+58 e Maxum MODBUS User's Guide 2000584-001

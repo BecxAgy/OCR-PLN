@@ -1,0 +1,61 @@
+“a.
+FLOWSERVE
+Ne *
+
+Valhart
+
+4.4
+44.1
+
+4.4.2
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+Storage
+
+Standard packing
+
+The valves shall be kept indoors, with actual valve temperature higher than the dew point,
+unless otherwise specified in Flowserve contract requirements.
+
+Before unpacking for installation, the valves (and relevant operators when applicable) shall
+be kept inside their original package.
+
+During the storage period, regular checks shall be made for package condition according to
+the following instructions.
+
+The integrity of packaging shall be checked on a monthly basis. If the wooden box is
+damaged, the integrity of the envelopes (e.g. VCI film, plastic film) protecting the valves shall
+be checked. If a damage is found on the envelope, the condition of exposed surfaces of
+valves (and operators when applicable) shall be verified.
+
+Upon satisfactory completion of inspection, the original package conditions shall be restored.
+
+Refer to par. 8.1 for additional maintenance activities that must be carried out during storage
+period.
+
+In order to avoid ingress of foreign matter into the valve bore, the valve ends protectors shall
+not be removed unless necessary for inspection, then securely replaced on completion of
+inspection).
+
+Special packing
+
+The additional requirements stated in this paragraph shall be followed in case of special
+packing including:
+
+- | valves enclosed in waterproof vacuum-sealed barrier bags with desiccant bags;
+
+- | humidity indicator placed on barrier bag;
+
+- | wooden box with inspection window to check the humidity indicator.
+
+In addition to the mandatory requirements stated in the previous para. 4.4.1, at least every
+three months the humidity level on the humidity indicator shall be checked via the box
+inspection window.
+
+The desiccant bags shall be replaced every year or whenever necessary after checking the
+waterproof barrier bag humidity indicator.
+
+After replacing the desiccant bags and the humidity indicator, the waterproof barrier bag
+shall be re-sealed, the vacuum inside the bag made again and the original package restored.
+
+Page 16 of 35

@@ -1,0 +1,33 @@
+Data Validity and Operational Checks, Continued
+
+Alarm
+
+Meaning
+
+703
+
+The Host attempted to set an address that was not defined in
+the address map.
+
+704
+
+The Host has attempted a write to an address that is read-only.
+
+705
+
+Host command could not be directed to an address in the ad-
+dress map.
+
+706
+
+Can't locate EUHI.
+
+708
+
+The Data type does not match the value type. Correction has
+been taken.
+
+8 e Maxum MODBUS User's Guide
+
+2000584-001
+

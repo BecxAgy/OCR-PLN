@@ -1,0 +1,97 @@
+Maxum MODBUS Address Map, Continued
+
+Address Entries,
+Continued
+
+Field
+Name
+
+Type
+
+Range
+
+Description
+
+Value type
+
+Character
+
+(only the first 2 characters are
+required — case insensitive)
+HOSTALIVE = host alive flag
+RESULT=analyzer result value
+CYCLELENGTH=length of cycle
+EUHI=Euhi
+
+RDME = readme flag
+SELECTSTREAM = stream
+force flag
+
+SKIPSTREAM = stream skip flag
+DEDICATEDSTREAM = dedi-
+cated stream
+CURRENTSTREAM = current
+stream flag
+ANALYZERSTATUS= analyzer
+status
+
+DCHG= database change flag
+ECHG= euhi change flag
+STANDBY = standby flag
+CALIBRATE= calibration flag
+PROGRAMRUN = execute
+event
+
+DOSET = seta DO
+
+DIREAD = read a DI on the NAU
+ALARM = fault alarm code
+CLEARALARM = clear Maxum
+alams
+
+Clock settings: SCSEC; SCMIN,
+SCHR, SCDAY, SCMON,
+SCDOW
+
+Initvalue
+
+Character
+
+Initial value (not for results or
+euhi)
+
+Slave
+address
+
+Integer
+
+MODBUS Slave address
+
+Slave
+address2
+
+Integer
+
+Second slave address (for re-
+dundancy) for future use
+
+Euhi
+address
+
+Integer
+
+MODBUS address for euhi
+
+There are two special entries in the address map that set the “bad value”
+and the scale factor. The scale factor will be used to calculate all scaled
+values (data type S) in the address map. These can be results, cy-
+
+cle length, and analyzer status. The “bad value” is used when certain
+conditions exist, as in the HCI-H. If the “bad value” is set to zero, no “bad
+
+value” processing is done.
+
+2000584-001
+
+Maxum MODBUS User's Guide e 19
+

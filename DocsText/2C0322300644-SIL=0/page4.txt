@@ -1,0 +1,50 @@
+dexida
+
+The manufacturer
+may use the mark:
+
+Revision 3.0 March 3, 2022
+
+Surveillance Audit Due
+April 3, 2025
+
+Certificate / Certificat
+Zertifikat / BrAGRE
+
+FLO 1303024 C006
+
+exida hereby confirms that the:
+
+Automax Supernova Pneumatic Rack &
+Pinion Actuators
+
+Flowserve Flow Control
+Haywards Heath, West Sussex - UK
+
+Have been assessed per the relevant requirements of:
+
+IEC 61508 : 2010 Parts 1-2
+
+and meets requirements providing a level of integrity to:
+Systematic Capability: SC 3 (SIL 3 Capable)
+
+Random Capability: Type A, Route 2, Device
+
+PFH/PFDa,, and Architecture Constraints
+must be verified for each application
+
+Safety Function:
+The Actuator will move to the designed safe position per the
+actuator design within the specified safety time.
+
+Application Restrictions:
+The unit must be properly designed into a Safety Instrumented
+Function per the Safety Manual requirements.
+
+e =
+
+Evaluating Assessor
+
+Certifying Assessor
+
+Page 1 of 2

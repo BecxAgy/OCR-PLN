@@ -1,0 +1,49 @@
+Automax Valve Automation Systems
+
+-—
+FLOWSERVE
+ERVE
+
+Installation, Operation and Maintenance Instructions
+
+Flowserve Corporation 1350 N. Mountain Springs Parkway 1978 Foreman Dr.
+Flow Control Division Springville, Utah 84663-3004 Cookeville, TN 38501
+www.flowserve.com Phone: 801 489 2233 Phone: 931 432 4021
+
+315
+AT
+Optional Es
+NAMUR PO A
+Part Description | Materials SNA250 / SNA300 | |Adaptor Piate
+. M6 x 12 MM Deep
+Body Extruded hard anodized aluminum Seal Kits
+Endcap Die Cast Aluminum.Electrostatic Poly
+Pinion Nickel Plated Steel Buna Seal Kit Number | NN - (Actuator Model No.) - SK B
+Upper pinion 'O'-ring O Nitrile rubber Buna Seal Kit Number | NN - (Actuator Model No.) - SK V
+Lower pinion “O'-ring O Nitrile rubber
+Pinion washer D Nylon Seal kit consists of all sealing parts.
+Pinion snap ring O) Steel / plated
+Stop bolt Steel / plated
+Stop bolt retaining nut Steel / plated Pressure Rating
+Stop bolt 'O-ring (0) Nitrile rubber . .
+Endcap screw Stainless steel 150 psig maximum
+Endcap screw Stainless steel
+Piston and Endcap seal O Nitrile rubber
+Piston guide band PTFE Temperature Ratings
+Piston guide PTFE
+Piston Extruded aluminum Standard! Nitrile -20º Fto +175ºF
+Connection base Extruded aluminum, anodized High Temp? | Viton OºF to +300ºF
+Connection base seal O Nitrile rubber Low Temp Silicon-based | -55ºF to +175ºF
+Connection base screw Stainless steel
+Spring (2) Steel electrostatic resin coated
+Spring o Steel electrostatic resin coated Notes:
+Spring Cartridge O Steel / plated 1 For standard applications, use multi-purpose polymer
+Spring Cartridge O Steel / plated fortified grease, such as Dubois Chemicals MPG-2.
+Spring Cartridge Steel/plated 2 For low temperature and high temperature applications,
+NAMUR adaptor plate Aluminum / Anodized use special formulated grease such as Dow Corningº 55.
+Note:
+O Parts included in a Seal Kit
+Q See Torque Chart for available combinations
+
+FCD AXAIM0005-00 (LMROO14-1) (AUTO-5) 03/05 Page 4 of 4
+O 2005, Flowserve Corporation, Printed in USA

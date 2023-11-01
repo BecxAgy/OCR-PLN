@@ -1,0 +1,44 @@
+Maxum MODBUS Address Map, Continued
+
+Creating and Loading a Do NOT mark these for transmit, only mark the result's trtvals.
+
+Map, continued Set values in these results. Use type 7 for the host. This is a new
+free format used for Maxum Modbus, which allows you to be free
+of entries in the actual tables. Example:
+
+Dig&2 1 analyzerstatus NULL NULL NULL NULL NULL 1000.000000
+Hieg2 2 currentstream NULL NULL NULL NULL NULL 4000000
+Die&2 3 standby NULL NULL NULL NULL NULL 0.000000
+Digg? 4 alarmstream NULL NULL NULL NULL NULL 362000000
+Die&2 5 resultl NULL 1 NULL NULL NULL 0.234000
+Dig&2 6 result? NULL 2 NULL NULL NULL 5.678000
+Dig&2 7 alarmapp NULL NULL NULL NULL NULL 562.000000
+ieg2 8 alamaniz NULL NULL NULL “NULL NULL 444000000 |
+Hie&2 9 enablestream NULL NULL NULL NULL NULL 1.000000
+Digg? 10 skipstream NULL NULL NULL NULL NULL 1.000000
+Digg? “ skipstream NULL NULL NULL NULL NULL 2.000000
+Die&2 12 skipstream NULL NULL NULL NULL NULL -3.000000
+Dig&2 13 skipstream NULL NULL NULL NULL NULL -4.000000
+Digg? “14 skipstream NULL NULL NULL “NULL NULL -5 000000
+Digg? 15 skipstream NULL NULL NULL NULL NULL -6.000000
+1 1&&2 16 skipstream NULL NULL NULL NULL NULL -7 000000
+This will transmit 2 results, along with supporting information to
+the host.
+Address Entries The entries in the address map are detailed in the following table:
+Field Type Range Description
+Name
+Ref Index | Integer Arbitrary, suggest using se-
+quential integers, from 1 up, as
+line numbers. Note: ignored by
+the NAU.
+Host Tag Charac- Arbitrary, for use in referencing
+Name ter host database. This is the la-
+bel assigned by the host to the
+data item. Note: ignored by
+NAU.
+Description | Charac- If blank, will be set by the load
+ter routine. As results transmit,
+this will contain the result |
+name from the result table.
+
+2000584-001 Maxum MODBUS User's Guide e 17

@@ -1,0 +1,49 @@
+System Specifications
+
+Hardware
+Configuration
+
+Serial
+Communication
+
+To configure hardware, have:
+
+e | Maxum and Optichrom Advance analyzers and an Advance Network
+Access Unit (NAU) attached to the same ethernet or Advance Data-
+NET network. Small systems can allow the Maxum GC to do its own
+MODBUS communications.
+
+e NAU with 32-MB dynamic RAM and 8-MB battery backed up RAM.
+e Host computer, setup to be a MODBUS master using MODBUS RTU
+
+messages, connected to the NAU using the NAU's RS-232 or RS-
+485 serial ports.
+
+To set up serial communication:
+
+Using Advance System Manager, enter a value in the modbus setting
+attribute of the System Control table:
+
+Y:a,b,c,d where
+
+Y = serial port address (1 for the RS-232, 2 for RS-485) for SAM use
+“COM 1º
+
+a = baud rate (50, 75, 110, 134, 150, 200, 300, 600, 1200, 1800,
+2400, 4800, 9600, 19200, 38400)
+
+b = parity (e, o orn)
+c = data bits (8 only)
+d = stop bits
+
+default: 1:19200,n,8,1
+
+These settings can be changed at any time prior to or during MODBUS
+communication.
+
+Note: For version 3.0 and 3.1, when configuring the host to send
+MODBUS messages, messages must be alternated, i.e., the NAU will
+discard “duplicate” messages unless a different message intervenes.
+This is no longer required for 3.11.
+
+4 Maxum MODBUS User's Guide 2000584-001

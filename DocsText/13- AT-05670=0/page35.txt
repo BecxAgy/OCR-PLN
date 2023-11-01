@@ -1,0 +1,51 @@
+Floating Point Formats, Continued
+
+EUHI 16 Bit format
+
+The Optichrom Advance systems HOST Computer Communications In-
+terface — HIWAY (HCI-H) used 16-bit integers to represent the values
+from analyzer data as scaled fractions of the maximum expected value.
+The maximum expected value is called the Engineering Unit High
+(EUHI). The content of the 16-bit integer word is given by:
+
+Scaled Result = Round ( ScaleFactor * Result value/ EUHI )
+
+For example, if the scaling factor is 9999 and the current value is 35.0%
+of an expected maximum of 50.0%, 9999 * 35.0 / 50.0 = 6999.3 which
+would be rounded to 6999 (nearest integer) and stored in the 16-bit
+word.
+
+The ScaleFactor is normally 999, 4095, 9999, or 65534 but can be con-
+figured to any other value between 1 and 65534. A ScaleFactor of 65535
+is not allowed because 65535 is the BAD VALUE (bad quality) indicator.
+The ScaleFactor must be configured in both the host system and the
+Maxum system.
+
+The host system obtains the current value by making this conversion:
+ResultValue = EUHI * Scaled Result/ ScaleFactor
+
+The EUHI is represented using a special 16-bit floating point format de-
+rived from the IEEE 32-bit floating point format. The sign bit is still the
+significant bit (O for positive, 1 for negative). A 6-bit exponent (bias 31)
+follows the sign bit. The mantissa occupies the 9 least significant bits.
+The value 0x0000 represents 0.0. An exponent value of zero with a non-
+zero mantissa is similar to the Not A Number (NAN) values of the IEEE
+32-bit floating point format. Otherwise, the exponent should have a value
+between 1 and 62, representing powers of 2 between —30 and 31 inclu-
+sive. An exponent value of 63 is reserved as an indicator of a 'Bad
+Value”. The EUHI format is only used to represent EUHI values (maxi-
+mum values):
+
+EUHI = (-1)SSN « (2.0)EXPONENT-3 . (14,0 + (MANTISSA /512))
+
+s EXPONENT MANTISSA
+1/1/17/1/111
+
+sla|3 |2|1]o|9]8|7|6|5|4]3]2]1]70
+Byte O (More Significant) Byte 1 (Less Significant)
+
+16-Bit Word
+
+2000584-001
+
+Maxum MODBUS User's Guide e 29

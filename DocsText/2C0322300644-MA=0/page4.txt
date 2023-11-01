@@ -1,0 +1,66 @@
+—
+FLOWSERVE
+“id
+
+Valbart
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+
+CONTENTS
+
+1 General Information...
+11 Scope of manual...
+1.2 Disclaimer
+13 Certification instruction ..
+1.4 Units...
+
+2 Safety Information...
+21 Intended use
+2.2 Safety symbols and description... creeeeeerere rare ereraeaea rara raraeeeereer eee rerarararararaa 6
+
+23 General hazard sources.
+2.3.1 Mechanical Hazards
+
+24 Qualified personnel and targeted grOVp.............. e eeeereereeearereeaearerererearererereata 7
+2.5 Potential explosive areas ...
+2.6 Protective equipment
+
+3 Product Description...
+3.1 General product description...
+3.2 Function description... rrerreeeeeeeeererere rar aeataeaea eae aea eae ren arena seara rara rara ea eee ae rererenenanos 9
+
+3.3 Connections
+3.3.1 Electrical power connections
+
+3.3.2 Mechanical connections
+3.3.3  Auxiliary connections ............... ret reeeeaaereeaea ae cea aaa aeee nana rea anna aaa a aaa ea area nana rea aanaraaaaanaranaa (o)
+3.4 Tools, equipment and fixtures for maintenance activities
+3.4.1 Typical tools
+3.4.2 Typical equipment..
+3.4.3 Typical fixtures....
+3.4.4 Miscellaneous
+
+4 Packaging, Transportation and Storage.
+41 Consignment receipt
+42 Unpacking.......... eee reeeaeaereaeaeaeneraaa ane nea aaa a nea aeee nen aa aaa aaa aerea aaa aeee ane aeaaaeneneataanaaa 4
+43 Handling
+4.3.1 Packed Valves..
+4.3.2 Unpacked Valves.
+44 Storage
+4.4.1 Standard packing.
+4.4.2 Special packing....
+
+5 Installation
+5.1 Inspection and preparation .
+5.2 Mounting....... ir ierereeereaeererereaeeereaaaeateneaaa are nea aaa tener aeee aaa aa rara aa aeee nene aaa aa na neaea rea neneasaanenaaaa 7
+
+5.3 Installation
+5.3.1 Additional instructions for valve with welded end
+
+5.3.2 Standard stem/flow line valve orientation
+
+6 Commissioning....
+6.1 Periodic checks...
+6.2 Hydrostatic on-site testing recommendations... ieeeereerereereerereeartes 9
+
+Page 2 of 35

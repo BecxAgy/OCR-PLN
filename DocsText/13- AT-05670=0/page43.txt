@@ -1,0 +1,41 @@
+MODBUS Primer, Continued
+
+Message Length
+
+The message lengths are specified for the bytes in the message and
+ignore checksum. MODBUS RTU requires 2 additional bytes for the
+
+checksum.
+Function Length of Command Length of Response
+Code
+0 Communication Error
+1 6 3 + value of 3º byte
+2 6 3 + value of 3º byte
+3 6 3 + value of 3º byte
+4 6 3 + value of 3º byte
+5 6 6
+6 6 6
+7 2 3
+8 6 6
+9 2 + value of 5” byte 2 + value of 5” byte
+10 2 2 + value of 5” byte
+11 2 3 + value of 3º byte
+12 2 3 + value of 3º byte
+13 3 + value of 3º byte 3 + value of 3º byte
+14 2 3 + value of 3º byte
+15 7 + value of 7” byte 6
+16 7 + value of 7” 6
+17 2 3 + value of 3º byte
+18 3 + value of 3º byte 3 + value of 3º byte
+19 3 + value of 3º byte 3 + value of 3º byte
+20 2 + value of 3º byte 2 + value of 3º byte
+21 2 + value of 3º byte 2 + value of 3º byte
+22-126 3 + value of 3º byte 3 + value of 3º byte
+127 2 2
+128-255 Communication Error 3
+
+Message Length Table
+
+2000584-001
+
+Maxum MODBUS User's Guide e 37

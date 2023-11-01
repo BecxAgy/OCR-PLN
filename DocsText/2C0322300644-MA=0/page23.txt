@@ -1,0 +1,36 @@
+—
+FLOWSERVE
+“id
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+
+7 Operation
+
+71
+
+7.2
+
+Start-up
+
+After the line has been flushed and pressure tested the valve is ready to operate.
+
+In case of problem close the valves upstream and downstream, then depressurize the line in
+which the valve is connected.
+
+Valve Verification Before Start Up
+
+1. Verify the tightness of the drain plug and of the vent valve.
+2. Check the valve operability by stroking it to “full open” and “full close”.
+
+Normal operation
+
+The valves described in this manual have been designed to control flow for on/off service only,
+so the valve working conditions are always fully open or fully closed.
+
+Do not use the valve for flow control either in partly open or for throttling service to avoid
+damage on the sealing surface.
+
+To ensure longer life of the valve it is recommended to perform periodic checks and
+maintenance operations.
+
+Page 21 of 35

@@ -1,0 +1,67 @@
+BRASKEM UNIB1BA Proposta Técnica Nº 21-B1-0280-RO MRO - Spot - RFQ - 97996
+Preços em Reais
+
+DESCRIÇÃO TÉCNICA
+
+Item Qty Model Description
+
+10.00 1 IDP05S-TS1B01BA-M2L1B1 / Transmissor de pressão diferencial modelo
+DS-F3A7AAAA31AZ-C | DC- | IDP05S Foxboro by Schneider, 4-20mA +
+RA4BBG HART, sensor tipo Strain Gauge, invólucro
+
+com LCD e botões para setup, com protetor
+de surto, conexão ao processo via selos
+flangeados idênticos 3” 150% RF partes
+molhadas em AI316L fluido TMC704 capilar
+2m cordoalha aço inox revestida de PVC flush
+ring coneão Y)” NPT com plur em AI316,
+SPAN 12,5 a 5000 mmH20, rangeabilidade até
+400:1, função “Time in Service”, proteção da
+configuração por senha, INMETRO Ex ia IIC
+T4 Ga, SIL 2, aderente a NAMUR NE21 e NE43,
+invólucro em alumínio com pintura em epóxi,
+kit de montagem para tubo de 2” em Al 316,
+parafusos e porcas em AISI 316, grau de
+proteção IP66/67, 2 anos de garantia.
+
+Aux Specs: CERT-E
+PSS Reference: 2A-1S05A
+IDPO5S | FUNCTION:
+Value Differential Pressure Transmitter. Measures the difference between two
+pressures and transmits a proportional or square root (Flow) Electrical Signal.
+Accuracy expressed as percentage of span.
+T ELECTRONICS VERSION AND OUTPUT SIGNAL:
+HART &4 To 20 mA
+St STRUCTURE CODE:
+Prepared For Schneider Remote Seal On High & Low Sides; Silicone Fill In
+Sensor
+B SPAN LIMITS:
+0.5 and 200 inH20; 0.12 and 50 kPa; 1.2 and 500 mbar
+O PROCESS CONNECTOR: (Matl Same As Process Cover)
+No Connectors, Both Covers Tapped For Capillary Connections
+1 | CONDUIT CONNECTION & HOUSING MATERIAL:
+1/2 NPT Conduit Connection, Both Sides, Aluminum Housing
+BA ELECTRICAL SAFETY:
+INMETRO Intrinsically Safe, Ex ia IIC
+M2 OPTIONAL MODEL SUFFIX(ES) INCLUDED:
+Standard Style 316ss Mounting Bracket With 316ss Bolts
+
+L1 OPTIONAL MODEL SUFFIX(ES) INCLUDED:
+Digital Display, Pushbuttons, And Window Cover
+B1 OPTIONAL MODEL SUFFIX(ES) INCLUDED:
+
+316 ss Bolts And Nuts For Process Covers/ Connectors (max working pressure
+2175psi)
+CERT-E Quality Assurance Certificates
+
+Calibration Certificate The certificate shows calibration data for the instrument
+along with statement that calibration test equipment used is traceable to the
+National Institute of Standards and Technology (NIST). NIST was formerly called
+the National Bureau of Standards (NBS).
+
+Tags
+
+Page 2
+10 de agosto de 2021
+CONFIDENCIAL E PROPRIETÁRIO
+

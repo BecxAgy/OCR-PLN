@@ -1,0 +1,73 @@
+Si,
+FLOWSERVE
+. Nes
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+W Technical Data
+
+W.1 Nameplate
+
+Specific nameplates, standard and additional (if applicable), are applied for each project and are
+configured on the basis of the project requirements.
+
+e "
+E 6
+FLOWSERVE
+Valbart Sl. ms PS Ts
+(A) NPS (1) CLASS (2) MOP (5) AT (6)
+MODEL (3) SERIAL Nº (4) MOP (7) AT (8)
+O BODY (9) CLOSURE/END CONNECT. (10) O
+BALL (11) SEAT (12) STEM (13)
+SEALS (14) FIRESAFE (15) F.toF. (16)
+(B) DATE of MAN (17) (18) QsL (19)
+TAGNº (20) CAT (21) (0)
+Made by VALBART S.r.l. Mezzago (MB) Italy
+J
+
+Figure 6: typical nameplate drawing (shown for general reference)
+
+A) CE marking with Notified Body Number and Fluid Group (when applicable);
+B) API monogram with License Number (when applicable);
+
+C) ATEX marking with temperature class Tx - referred to(6) - (when applicable);
+Valve nominal diameter;
+
+Pressure class;
+
+Valve model;
+
+Valve assembly serial number;
+
+Maximum Permissibile Pressure at Maximum Permissibile Temperature [bar];
+Maximum Permissibile Temperature [ºC];
+
+Maximum Permissibile Pressure at Minimum Permissibile Temperature [bar];
+Minimum Permissibile Temperature [ºC];
+
+Body material;
+
+0) Closure/End Connection material;
+
+) Ball material;
+
+oO" oa son —
+
+2) Seat material;
+
+3) Stem material;
+
+4) Seals material;
+
+5) Fire safe standard;
+
+6) Face-to-Face/End-to-End (if applicable);
+7) Month and year of manufacture;
+
+8) Seat feature (if required);
+
+9) Quality Specification Level (if applicable);
+20) Tag number;
+
+21) PED Risk Category (if applicable).
+
+Page 32 of 35

@@ -1,0 +1,24 @@
+Floating Point Formats, Continued
+
+Slaveé | Func- Data Start Quantity
+tion
+Code
+High Low High Low
+41 03 21 98 00 04
+
+The Maxum Modbus will respond with a message sending the 4 16-bit
+
+words which contain the 2 32-bit values:
+Slave Func- Byte Word O Word 1 Word 2 Word 3
+tion Count
+Code
+High | Low | High | Low | High | Low | High | Low
+41 03 08 43 1D 66 66 BF 63 D7 OA
+
+In this example, the first value is 157.4 (0x431D6666) and the second
+
+value is —0.89 (0xBF63DT70A).
+
+28 « Maxum MODBUS User's Guide
+
+2000584-001

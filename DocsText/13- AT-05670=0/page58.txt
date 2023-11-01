@@ -1,0 +1,12 @@
+Function 05 — Force Single Coil, Continued
+
+Error Response Similar to Function Code 01, an ILLEGAL DATA ADDRESS error re-
+sponse will be sent if the coil's address is outside the configured range of
+table O (digital outputs).
+
+An ILLEGAL DATA VALUE error response will be sent if the digital value
+specified is neither OxFFOO (ON) nor 0x0000 (OFF). However, the func-
+tion code in the error response will be 133 (0x85) indicating that the error
+occurred on a command with Function Code 05.
+
+52 « Maxum MODBUS User's Guide 2000584-001

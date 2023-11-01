@@ -1,0 +1,109 @@
+DNV-GL
+
+DNV GL - BUSINESS ASSURANCE
+CERTIFICADO DE CONFORMIDADE
+
+Certificate of Conformity 7 Certificado de Conformidad
+
+Certificado nº: DNV 12.0059 X — Revisão 05
+
+Certificate nº / Certificado nº
+
+Produto:
+Product/Producto
+
+Tipo / Modelo:
+Type - Model/Tipo - Modelo
+
+Solicitante:
+Applicant/Solicitante
+
+Fabricante:
+Manufacturer/Fabricante
+
+Normas Técnicas:
+Standards/Normas
+
+Laboratório de Ensaio:
+Testing Laboratory/Laboratorio de Ensayo
+
+Nº do Relatório de Ensaios:
+Test Report Number/Nº del informe de Ensayo
+
+Nº do Relatório de Auditoria:
+Audit Report Number/Nº del informe de Audit
+
+Esquema de Certificação:
+Certification Scheme/Esquema de Certificación
+
+Notas:
+Notes/Anotación
+
+Portaria:
+Governmental Regulation/Regulación Oficial
+
+Adriano Marcon Duarte
+Gerente de Operações
+Operations Manager
+
+Emissão: 31/05/2021
+
+Issuance / Otorgamiento
+
+Válido até: 31/05/2024
+Valid until / Válido hasta
+
+CHAVE FIM DE CURSO
+ULTRASWITCH"M
+
+PMV AUTOMATION AB
+Korta Gatan 9
+
+SE-171 54 Solna
+Sweden
+
+PMV AUTOMATION AB
+Korta Gatan 9
+
+SE-171 54 Solna
+Sweden
+
+ABNT NBR IEC 60079-0:2013, ABNT NBR IEC 60079-1:2009 e
+ABNT NBR IEC 60079-31:2011
+
+Sira Certification Service
+
+Mencionado na documentação descritiva
+NO/NEM/QARO8.0008/10 de 30/04/2020
+
+Modelo 5 com Avaliação do Sistema de Gestão da Qualidade do Fabricante e
+Ensaios no Produto, conforme cláusula 6.1 dos Requisitos de Avaliação da
+Conformidade, anexo à Portaria nº 179 do INMETRO, publicada em 2010.
+
+A validade deste Certificado de Conformidade está atrelada à realização das
+avaliações de manutenção e tratamento de possíveis não conformidades de
+acordo com as orientações da DNV GL previstas no RAC específico. Para
+verificação da condição atualizada de regularidade deste Certificado de
+Conformidade deve ser consultado o banco de dados de produtos e serviços
+certificados do INMETRO.
+
+INMETRO nº 179 de 2010.
+INMETRO nº 89 de 2012.
+
+Heleno dos Santos Ferreira
+Especialista Atmosferas Explosivas
+Specialist for Explosive Atmospheres
+
+EN
+
+Nota: A falta de cumprimento das condições estabelecidas no contrato pode tornar este certificado inválido
+O documento assinado digitalmente e distribuído eletronicamente é o original do certificado e válido. Ref. https:/lwww.dnval.com/assurance/generalfvalidating digital signatures. html
+
+DNV GL Business Assurance Avaliações e Certificações Brasil Ltda
+Av. Alfredo Egydio de Souza Aranha, 100 - Bloco D - 3º Andar — CEP: 04726-908 - São Paulo, SP, Brasil
+
+Form Ref.: ZNS-BR-EX-006 Rev.: 03
+
+Data: 03/01/2020
+
+http:/Awww.dnvgl.com.br Pág.:1 de 7

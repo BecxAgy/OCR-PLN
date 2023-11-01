@@ -1,0 +1,101 @@
+CERTIFICADO DE CONFORMIDADE
+
+CERTIFICATE OF CONFORMITY
+Certificado No. / Certificate No. UL-BR 12.0005X
+
+Certificado de Conformidade vál lo somente acompanhado das páginas de: 1a9
+Certificate of Conformity valid only with the following pages
+Emissão / Dateofissue | 13 de janeiro de 2012 / January 13, 2012
+Revisão / Revision Date 27 de setembro de 2021 / September 27, 2021
+Validade / Expire date 12 de janeiro de 2024 / January 12, 2024
+
+LISTA DE DOCUMENTOS / DOCUMENTS LIST:
+
+Bi Description ILLH Título / Title: Desenho Nº Revisão ou Data:
+LlTestRef ILLY Drawing No.: Issue or Date
+
+01 Explosion proof solenoid operator 127650 M
+
+02 Gasket - Cover 131409 J
+
+03 Nameplate - UL/INMETRO Hv-134-302 H
+
+04 PCB Assembly - EST Coils - (Diode assembly full wave circuit) 145683 E
+
+05 PCB Assembly - EST Coils - (Diode assembly suppression circuit) 145684 H
+
+06 PCB Assembly - EST Coils - (Diode assembly half wave plus suppression circuit) 145686 J
+
+07 PCB Assembly - EST Coils - (Thermal cut-off assembly circuit) 145687 IE
+
+08 Coil MXX - E.S.T. - Outside dimensions for E.S.T. coil with P.C.B 293942 F
+
+09 Coil M6 - E.S.T. - Outside dimensions 293991 E
+
+10 Coil M12-I - E.S.T. - Outside dimensions 293992 E
+
+11 Coil M12-Il - E.S.T. - Outside dimensions 293993 F
+
+12 PCB Assembly - EST Coils - (Diode assembly half wave plus suppression circuit with 294713 D
+
+redundant suppresion diode)
+
+13 Coil Instruction Information Sheet - Testing of EST coil CIIS04-6-01 E
+
+14 Descrição de produto do operador solenóide para segurança aumentada FV-134-682 B
+
+15 Instruções de Instalação e Manutenção Dos Operadores Solenóides de Segurança MI-0018 8)
+
+Aumentada para Atmosfera Explosiva
+Modelos: EM(WSEM)-M12-I, EMT(WSEMT)-M12-I, EMET(WSEMET)-M12-I.
+(123620-325)
+
+16 Instruções de Instalação e Manutenção Dos Operadores Solenóides de Segurança MI-0019 E)
+Aumentada para Atmosfera Explosiva
+
+Modelos: EM(WSEM)-M12-I-NVR, EMT(WSEMT)-M12-I-NVR, EMET(WSEMET)-M12-
+I-NVR. (123620-330)
+
+17 Instruções de Instalação e Manutenção Dos Operadores Solenóides de Segurança MI-0020 E)
+Aumentada para Atmosfera Explosiva
+
+Modelos: EM(WSEM)-M12-Il, EMT(WSEMT)-M12-Ill, EMET(WSEMET)-M12-II.
+(123620-327)
+
+18 Instruções de Instalação e Manutenção Dos Operadores Solenóides de Segurança MI-0021 8)
+Aumentada para Atmosfera Explosiva
+
+Modelos: EM(WSEM)-MXX/M12-Il, EMT(WSEMT)-MXX/M12-Il, EMET(WSEMET)-
+MXX/M12-II. (123620-328)
+
+19 Instruções de Instalação e Manutenção Dos Operadores Solenóides de Segurança MI-0022 E)
+Aumentada para Atmosfera Explosiva
+
+Modelos: EM(WSEM)-MXX, EMT(WSEMT)-MXX, EMET(WSEMET)-MXX. (123620-
+324)
+
+20 Instruções de Instalação e Manutenção Dos Operadores Solenóides de Segurança MI-0023 E)
+Aumentada para Atmosfera Explosiva
+
+Modelos: EM(WSEM)-MXX, EMT(WSEMT)-MXX, EMET(WSEMET)-MXX. (123620-
+326)
+
+21 Instruções de Instalação e Manutenção Dos Operadores Solenóides de Segurança MI-0024 s)
+Aumentada para Atmosfera Explosiva
+
+Modelos: EM(WSEM)-MXX BAIXA POTÊNCIA, EMT(WSEMT)-MXX BAIXA
+POTÊNCIA, EMET(WSEMET)-MXX BAIXA POTÊNCIA. (123620-329)
+
+22 Instruções de Instalação e Manutenção Dos Operadores Solenóides de Segurança MI-0033 E)
+Aumentada para Atmosfera Explosiva
+Modelos: EM(WSEM)-M6, EMT(WSEMT)-M6, EMET(WSEMET)-MS, (123620-323)
+
+23 Nameplate, EM (page 51) 133497 Cc
+24 Gland, cable, non-mettalic, unarmoured clable (page 60) 144035 NA
+25 Connector, cable entry WP/WS housing (page 61) 144039 G
+26 Gasket, gland (page 62) 140043 (e)
+
+Organismo de Certificação / UL do Brasil Certificações
+Certification Body | Avenida Engenheiro Luis Carlos Berrini, 105 — 24º andar
+04571-010 — Brooklin — São Paulo — SP — Brasil
+Página / Page 6/9 41-IC-FO0400 rev. 18.0

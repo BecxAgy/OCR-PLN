@@ -1,0 +1,56 @@
+BRASKEM UNIBIBA Proposta Técnica Nº 21-B1-0280-R0 MRO - Spot - RFQ - 97996
+Preços em Reais
+
+NOTAS IMPORTANTES
+
+Segue memória de cálculo:
+
+temperatures:
+measuring instrument
+connection
+
+diaphragm seal (+ side)
+diaphragm seal (- side)
+
+measuring instrument:
+
+Schneider Electric/Foxboro IDPOSS - HART
+Span Code: B (200 inH20)
+max. measuring range: 13790,2 mbar
+
+calibrated measuring range: 90,5 mbar H1:02m H2:0,96m
+connection: di: m seal:
++ side DN3”
+capillary ID 1.5 mm (3x0.75 mm) effective diaphragm diameter 'MB": 89 mm
+length: 2m kind of diaphragm: sinusoidal
+side material: Stainless steel
+E dia thick: :0,1
+capillary ID 1.5 mm (3x0.75 mm) pegar
+length: 2m
+vacuum: no
+
+filling liquid: silicon oil DC704
+
+temperature effect / 10 K response time
+
+measuring instrument: 0,03 mbar 63,2 % 90 %
+connection: 0,07 mbar at20ºC: 0,1s 03s
+diaphragm seal: 0,09 mbar at30ºC: 01s 0,2s
+head-effect 0,57 mbar at40ºC: 01s 0,1s
+A: at coldest conditions B: at hottest conditions
+
+instr conn proc head-e sum % instr conn proc head-e sum %
+
+Notes:
+
+- The measuring assembly is operational.
+- Head pressure due to height difference is -79,6 mbar.
+Please check the zero point adjustment of instrument.
+« Measuring system is calibrated at 20 *C.
+Different normal temperatures have to be compensated by zero point adjustment after installation.
+- Please notice temperature influence, see diagrams!
+
+Page 4
+10 de agosto de 2021
+CONFIDENCIAL E PROPRIETÁRIO
+

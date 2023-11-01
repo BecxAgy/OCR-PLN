@@ -1,0 +1,80 @@
+Series 327/8327G
+Solenoid Valves
+
+Certificate / Certificat / Zertifikat / Ér4&RIE
+
+ASC 2112125 C001
+Systematic Capability: SC 3 (SIL 3 Capable)
+
+Random Capability: Type A, Route 2, Device
+
+PFH/PFDa,, and Architecture Constraints
+must be verified for each application
+
+Systematic Capability :
+
+These products have met manufacturer design process requirements of
+Safety Integrity Level (SIL) 3. These are intended to achieve sufficient
+integrity against systematic errors of design by the manufacturer.
+
+A Safety Instrumented Function (SIF) designed with these products must not
+be used at a SIL level higher than stated.
+
+Random Capability:
+
+The SIL limit imposed by the Architectural Constraints must be met for each
+element. This device meets exida criteria for Route 2,,.
+IEC 61508 Failure Rates in FIT!
+
++ Out P2 to Vent P1
+TT, NO, Pressure P1 to Out P2 P1
++ NC, Pressure P3 to Out P2
++ NO, Out P2 to Vent P3
++ NC, Out P2 to Vent P1
+327B1..., 327B2..., , NO, Pressure P1 to Out P2 P1
+LP & LP2 + NC, Pressure P3 to Out P2
++ NO, Out P2 to Vent P3
+, NC, Out P2 to Vent P1
+, NO, Pressure P1 to Out P2 P1
++ NC, Pressure P3 to Out P2
++ NO, Out P2 to Vent P3
+, NC, Out P2 to Vent P1
++ NO, Pressure P1 to Out P2 P1
++ NC, Pressure P3 to Out P2
++ NO, Out P2 to Vent P3
+, NC, Out P2 to Vent P1
++ NO, Pressure P1 to Out P2 P1
++ NC, Pressure P3 to Out P2
++ NO, Out P2 to Vent P3
+, NC, Out P2 to Vent P1
++ NO, Pressure P1 to Out P2 P1
++ NC, Pressure P3 to Out P2
++ NO, Out P2 to Vent P3
+
+327B0/8327G...
+
+327B3NFIS... &
+327B3WSCRIS...
+
+m
+m|g|a
+
+MO Option Adder
+
+NVR Option Adder
+
+ojolo/jolo|jojo|ojo|o/o/jo|jo|jolo|o|jo|ojo|o|ololjo|o
+ojolojolo|jojo|ojo|o/o/jo|jo|jolo|o|jo|ojo|o|joljojo/o
+
+*FIT=1 Failure / 10º hours
+SIL Verification:
+The Safety Integrity Level (SIL) of an entire Safety Instrumented Function (SIF)
+must be verified via a calculation of PFH/PF Dag considering redundant
+architectures, proof test interval, proof test effectiveness, any automatic
+diagnostics, average repair time and the specific failure rates of all products
+included in the SIF. Each element must be checked to assure compliance with
+minimum hardware fault tolerance (HFT) requirements.
+
+The following documents are a mandatory part of certification:
+Assessment Report: ASC 21/12-125 R001 V2R1 (or later)
+Safety Manual: V9629 Rev JC (or later) Page 2 of 2

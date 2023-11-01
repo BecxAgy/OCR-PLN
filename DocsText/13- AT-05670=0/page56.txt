@@ -1,0 +1,51 @@
+Function 04 — Read Input Registers
+
+Master Command
+
+Slave Response
+
+Error Response
+
+The master sends a command requesting the values of a number of in-
+put registers (table 3), specifying the initial address to read and the num-
+ber of locations to read.
+
+For example, the master might request a read of the register 30009 from
+slave 17. Translating the values into hexadecimal, this is a request that
+slave 0x11 read 0x0001 analogs starting at address 0x0008 (corre-
+sponds to table offset 0009 of table 3):
+
+Slavef Function Code Data Start Quantity
+High Low High Low
+11 04 00 08 00 01
+
+Read Input Registers Command
+
+If the slave can process the command without error, the slave will re-
+spond with its identifier, the function code, a count specifying the number
+of data bytes required for the analogs, and the string of data bytes. For
+example:
+
+Slavef Function Code Byte Count Word O
+High Low
+11 03 02 00 00
+
+Read Input Registers Response
+
+In this example, register 30009 has the value zero (0x0000).
+
+Similar to Function Code 01, an ILLEGAL DATA ADDRESS error re-
+sponse will be sent if the starting address or combination of starting ad-
+dress and number of analogs exceeds the configured range of table 3
+(analog inputs).
+
+An ILLEGAL DATA VALUE error response will be sent if the number of
+registers exceeds 127, the limit that can be packed into 254 data bytes
+for a response.
+
+Note: some devices limit the response length to 250 data bytes (125
+registers). However, the function code in the error response will be 132
+(0x84), indicating that the error occurred on a command with Function
+Code 04.
+
+50 « Maxum MODBUS User's Guide 2000584-001

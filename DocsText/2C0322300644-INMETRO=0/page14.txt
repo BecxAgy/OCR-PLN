@@ -1,0 +1,80 @@
+DNV-GL
+
+DNV GL - BUSINESS ASSURANCE
+CERTIFICADO DE CONFORMIDADE
+
+Certificate of Conformity 7 Certificado de Conformidad
+
+Certificado nº: DNV 12.0059 X — Revisão 05 Emissão: 31/05/2021 Válido até: 31/05/2024
+
+Certificate nº / Certificado nº Issuance / Otorgamiento Valid until / Válido hasta
+
+NR = NJ4-12GM40-E1 — P+F
+
+NS = NJ4-12GM40-E2 — P+F
+
+NT = NJ4-12GK40-E2 — P+F
+
+R1 = NBB3-V3-Z4-3G-3D — P+F (DOW = M)
+
+P1 = NCB2-12GM40-Z0 — P+F
+
+P4 = Proximidade (SPST) — ALEPH PS-6132
+
+P5 = Proximidade (SPDT) — Halim 59 135-030
+
+PE = Proximidade (SPDT) — Sabre
+
+PP = Proximidade (SPDT) — Phazer (DOW = P, K)
+PT = Proximidade (SPDT) — BRS (DOW = T, B)
+FN = Dispositivo controlador de rede (2) tipo chave P4
+FZ = Cartão com 2 chaves tipo 4 (P4) — AS-I
+
+9 > Tipo de certificação: 26 = Ex d INMETRO
+
+h > Opções: 01 caractere alfanumérico
+i > Opções de fiação: 01 caractere alfanumérico
+j > Mínimo de terminais abertos: 01 caractere alfanumérico
+k > Opções especiais: O = Sem opções especiais
+
+(anéis de vedação oring em borracha nitrílica)
+
+V = Anéis de vedação em Viton
+
+Todas as outras opções não afetam o tipo de proteção
+| > Opções de revestimento: 01 caractere alfanumérico
+
+Chave fim de curso modelo UltraSwitch abcdefgh * Específico para DOW
+
+a 5 Etiqueta: D = DOW
+b 5 Classificação: N = Marcação especial 34” NPT
+C = Marcação especial Va” NPT
+c > Invólucro: A = Alumínio, à prova de explosão
+d > Indicador de posição: 1 = Tampa superior plana, Sem indicador
+
+3 = Domo, Preto / Amarelo
+
+5 = Domo para 155º Válvula de Desvio
+
+6 = Domo para 135º Válvula de Desvio
+e > Idioma: P = Português
+f 5 Tipo de chave: B = 2x Phazer III BRS
+
+K = 2x Phazer HI
+
+T = 2x Phazer II BRS
+
+P = 2x Phazer II
+
+M = NBB3-V3-Z4-3G-3D — P+F
+
+S = NJ2-V3-N
+9 5 Tipo de chave: 1 = Padrão
+2 = Terminal de 12 posições
+h 5 Tipo de montagem: N = Configuração NAMUR, Haste NAMUR
+
+STD = Configuração não NAMUR, Haste padrão
+
+DNV GL Business Assurance Avaliações e Certificações Brasil Ltda
+Av. Alfredo Egydio de Souza Aranha, 100 - Bloco D - 3º Andar — CEP: 04726-908 - São Paulo, SP, Brasil
+Form Ref.: ZNS-BR-EX-006 Rev.: 03 Data: 03/01/2020 http:/Awww.dnvgl.com.br Pág.:4 de 7

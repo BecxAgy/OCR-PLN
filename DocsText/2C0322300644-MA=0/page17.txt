@@ -1,0 +1,38 @@
+“a.
+FLOWSERVE
+Ne *
+
+Valbart
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+
+Õ Õ
+AD)
+(ONKO
+
+NOTICE Make sure that the lifting belts never go in contact with
+handwheel/(motor) or other exposing paris.
+
+Figure 2: Handling of the VB2 valve equipped with gearbox/(electric actuator)
+
+Valve equipped with actuator
+
+Valve/actuator assemblies must be handled only by using the valve lifting lugs, which are
+suitably sized for this purpose; actuator lifting Ilugs must not be used in any case.
+
+Special care must be taken to avoid contact between lifting devices and actuator. If
+necessary, Use of special equipment is recommended.
+
+Fr
+ais
+Es
+
+In order to prevent any damage to the actuator and its
+NOTICE devices, before starting the lift make sure that the lifting
+devices (belts / chains) cannot go in contact with the control
+
+panel, the tubing or any other device.
+
+Figure 3: Handling of the VB2 valve equipped with pneumatic/(hydraulic) actuator
+
+Page 15 of 35

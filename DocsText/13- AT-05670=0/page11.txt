@@ -1,0 +1,16 @@
+System Specifications, Continued
+
+Unit/Stream/
+Component Limits
+
+There are no limits on the number of analyzers/units. Streams must have
+stream number >=100. Results must have result ff >500. See the Ad-
+dress Map limits discussed on page 16. There are no requirements for
+analyzer numbering. Component numbers should be consecutive inte-
+gers. Component numbers are assigned in the order transmitted for Op-
+tichrom Advance or correspond to the trtval setting in the result table for
+Maxums.
+
+2000584-001
+
+Maxum MODBUS User's Guide e 5

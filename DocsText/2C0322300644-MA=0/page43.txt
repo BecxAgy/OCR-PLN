@@ -1,0 +1,55 @@
+Et O
+FLOWSERVE
+eae?
+
+Instruções Especiais sobre Locais Classificados (de Risco):
+
+Para instalações na América do Norte, instale uma conexão de vedação do conduíte em uma distância de até 18 polegadas da
+caixa para atender os requisitos da NEC.
+
+Para instalações da ATEX e IECEx é obrigatório o uso de um prensa-cabo de classificação adequada. Qualquer entrada de
+conduite não utilizada deve ter um elemento de bloqueio devidamente classificado.
+
+CUIDADO: À
+
+e A substituição de componentes pode prejudicar a adeguabilidade da Segurança Aumentada de Área 2.
+
+* Não desconecte o equipamento a menos que energia tenha sido desligada ou se a área não for considerada
+classificada (de risco).
+
+A limpeza por fricção deste compartimento deve ser feita em uma área fora da área classificada (de risco).
+
+Risco potencial de carga eletrostática; limpe somente com um pano úmido. Perigo de propagação de descarga.
+Siga todos os requisitos de instalação para aterramento e ligação elétrica.
+
+Toda a instalação, inspeção e manutenção do equipamento devem ser realizadas por pessoal com treinamento
+adequado. Além disso, para satisfazer os requisitos da ATEX, toda a instalação, inspeção, manutenção e reparo
+devem ser realizados por pessoal com treinamento adequado. Para mais informações, consulte EN 60079-14:1997,
+EN 60079-17, EN 60079-19
+
+e As peças de reposição não invalidam a certificação e somente devem ser obtidas direto do fabricante.
+
+Ajuste de Chaves de Fim de Curso:
+
+As caixas da Switch!M possuem cames de ajuste rápido utilizados para deslocar as chaves de fim de curso. Esses cames são
+facilmente ajustados sem a necessidade de ferramentas. Cuidado: antes de remover a tampa, desconecte a energia quando
+instalado em locais classificados (de risco). Remova a tampa e a separe. Gire completamente o atuador/válvula no sentido
+horário. Ajuste a(s) cames associada(s) ao sentido horário como segue:
+
+1. Empurre ou puxe a came contra a mola para desprendê-lo das ranhuras.
+
+2. Gire a came no sentido horário rompendo o contato com a chave (ou afastando o ímã da chave).
+3. Continue girando a came no sentido horário até que a chave se deslocar.
+
+4. Solte a came e prenda-o novamente com as ranhuras.
+
+Gire completamente o atuador/válvula no sentido anti-horário. Ajuste a(s) came(s) associada(s) ao sentido anti-horário
+conforme descrito nos passos de 1 a 4, porém, gire a(s) came(s) no sentido anti-horário.
+
+Nota: ajuste de fábrica para a chave superior = sentido horário (CW) (fechada); 2º. chave = sentido anti-horário (CWW)
+(aberto); 3º chave = sentido horário (CW) e 4º. chave = sentido anti-horário (CWW).
+
+2,3
+
+Experience In Motion
+

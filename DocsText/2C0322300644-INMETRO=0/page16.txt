@@ -1,0 +1,50 @@
+DNV-GL
+
+DNV GL - BUSINESS ASSURANCE
+CERTIFICADO DE CONFORMIDADE
+
+Certificate of Conformity 7 Certificado de Conformidad
+
+Certificado nº: DNV 12.0059 X — Revisão 05 Emissão: 31/05/2021 Válido até: 31/05/2024
+
+Certificate nº / Certificado nº Issuance / Otorgamiento Valid until / Válido hasta
+
+2. Este Certificado de Conformidade é válido para os produtos de modelo e tipo idêntico ao protótipo ensaiado.
+Qualquer modificação de projeto ou utilização de componentes e materiais diferentes daqueles descritos na
+documentação deste processo, sem autorização prévia da DNV GL, invalidará o certificado.
+
+3. É responsabilidade do fabricante assegurar que os produtos estejam de acordo com as especificações do
+protótipo ensaiado, através de inspeções visuais e dimensionais.
+
+4. Os produtos devem ostentar, na sua superfície externa e em local visível, a Marca de Conformidade e as
+características técnicas da mesma de acordo com as especificações das normas ABNT NBR IEC 60079-0 /
+ABNT NBR IEC 60079-1 / ABNT NBR IEC 60079-31 e Requisitos de Avaliação da Conformidade, anexo à
+Portaria nº 179 do INMETRO, publicada em 18 de Maio de 2010. Esta marcação deve ser legível e durável,
+levando-se em conta possível corrosão química.
+
+5. Os produtos devem ostentar, na sua superfície externa e em local visível, a seguinte advertência:
+
+ATENÇÃO
+NÃO ABRA QUANDO ENERGIZADO
+RISCO POTENCIAL DE CARGA ELETROSTÁTICA — LIMPE SOMENTE COM UM PANO ÚMIDO
+UTILIZE CABOS APROPRIADOS PARA A TEMPERATURA DE 110 ºC
+
+6. Os bujões para fechar as aberturas não utilizadas e os dispositivos de entrada de cabos (prensa-cabos,
+unidade seladora, adaptadores de rosca) devem ser certificados, adequados para as condições de uso e
+corretamente instalados.
+
+7. Os produtos devem ser instalados em atendimento às Normas pertinentes em Instalações Elétricas em
+Atmosferas Explosivas.
+
+8. As atividades de instalação, inspeção, manutenção, reparo, revisão e recuperação dos produtos são de
+responsabilidade do usuário e devem ser executadas de acordo com os requisitos das normas técnicas
+vigentes e com as recomendações do fabricante.
+
+9. Para fins de comercialização no Brasil, as responsabilidades da alínea “e” do item 10.1 da Portaria 179 de 18
+de maio de 2010, é do representante legal ou importador.
+
+Projeto nº: PRJC-393660-2012-PRC-BRA
+
+DNV GL Business Assurance Avaliações e Certificações Brasil Ltda
+Av. Alfredo Egydio de Souza Aranha, 100 - Bloco D - 3º Andar — CEP: 04726-908 - São Paulo, SP, Brasil
+Form Ref.: ZNS-BR-EX-006 Rev.: 03 Data: 03/01/2020 http:/Awww.dnvgl.com.br Pág.: 6 de 7

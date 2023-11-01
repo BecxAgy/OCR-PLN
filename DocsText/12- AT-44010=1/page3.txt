@@ -1,0 +1,76 @@
+ref [host tag desc data type [address janlz lapp |stream |res |value type init value |slave |slave2 [euhiadd
+
+SF 9999
+
+BV
+
+3/AT-44010 STANDBY anlz/app/strm/res: 8142/1// STANDBY
+
+4/AT-44010 SKIPSTRM anlz/app/strm/res: 8142/1/1/ SKIPSTREAM
+5/AT-44010 SKIPSTRM anlz/app/strm/res: 8142/1/2/ SKIPSTREAM
+6/AT-44010 SKIPSTRM anlz/app/strm/res: 8142/1/3/ SKIPSTREAM
+7/AT-44010 SKIPSTRM anlz/app/strm/res: 8142/1/20/ SKIPSTREAM
+8/AT-44010 SELECTSTRM anlz/app/strm/res: 8142/1/1/ SELECTSTREAM
+9/AT-44010 SELECTSTRM anlz/app/strm/res: 8142/1/2/ 2 SELECTSTREAM
+10/AT-44010 SELECTSTRM anlz/app/strm/res: 8142/1/3/ SELECTSTREAM
+
+11/AT-44010 SELECTSTRM anlz/app/strm/res: 8142/1/20/ SELECTSTREAM
+
+12 /AT-44010 CURRSTRM anlz/app/strm/res: 8142/1/1/ CURRENTSTREAM
+
+13/AT-44010 CURRSTRM anlz/app/strm/res: 8142/1/2/ CURRENTSTREAM
+14/AT-44010 CURRSTRM anlz/app/strm/res: 8142/1/3/ CURRENTSTREAM
+15/AT-44010 CURRSTRM anlz/app/strm/res: 8142/1/20/ CURRENTSTREAM
+17/AT-44010 PROGRAMRUN anlz/app/strm/res: 8142/1// PROGRAMRUN
+18/AT-44010 RDME anlz/app/strm/res: 8142/1/1/
+
+19/AT-44010 RDME anlz/app/strm/res: 8142/1/2/
+
+20/AT-44010 RDME anlz/app/strm/res: 8142/1/3/
+
+21/AT-44010 RDME anlz/app/strm/res: 8142/1/20/ RDME
+23/AT-44010 ALARM anlz/app/strm/res: 8142/// ALARM
+24/AT-44010 CYCLELENGTH anlz/app/strm/res: 8142/1// CYCLELENGTH
+22/AT-44010 ANALYZERSTATUS anlz/app/strm/res: 8142/1// ANALYZERSTATUS
+16/AT-44010 CALIBRATE anlz/app/strm/res: 8142/1/1/ CALIBRATE
+
+25/AT-44010 METHANE RESULT anlz/app/strm/res: 8142/1/1/1
+26/AT-44010 ETHANE RESULT anlz/app/strm/res: 8142/1/1/2
+
+RESULT
+RESULT
+
+27/AT-44010 ACETYLENE RESULT anlz/app/strm/res: 8142/1/1/3
+
+RESULT
+
+28/AT-44010 METHANE + ETHANE  |RESULT anlz/app/strm/res: 8142/1/1/4 RESULT
+
+29/AT-44010 METHANE RESULT aniz/app/strm/res: 8142/1/2/1 RESULT
+30/AT-44010 ETHANE RESULT anlz/app/strm/res: 8142/1/2/2 RESULT
+31/AT-44010 ACETYLENE RESULT anlz/app/strm/res: 8142/1/2/3 RESULT
+32/AT-44010 METHANE + ETHANE  |RESULT anlz/app/strm/res: 8142/1/2/4 RESULT
+33/AT-44010 METHANE RESULT aniz/app/strm/res: 8142/1/3/1 RESULT
+
+34/AT-44010 ETHANE RESULT aniz/app/strm/res: 8142/1/3/2
+35/AT-44010 ACETYLENE RESULT anlz/app/strm/res: 8142/1/3/3
+
+RESULT
+RESULT
+
+vjwujwjlw|njnijnijnjnjn|jpijn|jhniolojo
+
+ojo
+
+36/AT-44010 METHANE + ETHANE | |RESULT anlz/app/strm/res: 8142/1/3/4
+
+RESULT
+
+nm
+o
+
+RESULT
+
+o
+
+37/AT-44010 METHANE RESULT anlz/app/strm/res: 8142/1/20/1

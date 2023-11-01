@@ -1,0 +1,89 @@
+“a.
+FLOWSERVE
+| Nes *
+
+V
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+
+SCENARIO
+
+CAUSES
+
+REMEDIES
+
+INTERNAL LEAK
+
+SEAT OR SEATS ARE LEAKING
+
+The valve is not fully closed
+position.
+
+Check the ball position.
+
+Remove position indicator and
+check that stem key is 90º deg
+with reference to the line.
+
+Try to move the ball around
+closed position checking that
+leak has stopped through
+bleeding the body cavity.
+
+Operator stops are incorrectly
+adjusted.
+
+Properly adjust the operator
+stops.
+
+Verify the correct position
+bleeding the body cavity.
+
+Seats are dirty or damaged.
+
+ry to clean the seat/ball
+contact surfaces injecting a
+valve cleaner product (ref to
+cleaning procedure).
+
+nject valve lubricant/sealant
+product (ref to seat sealant
+injection procedure).
+
+fthe leakage doesn't stop the
+valve should be removed from
+he line for maintenance. If
+necessary contact Valbart after
+sales service.
+
+OPERATION
+
+VALVE IS HARD/DIFFICULT TO
+OPERATE
+
+The operator is damaged or
+malfunctioning.
+
+Check the operator.
+
+Refer to operator maintenance
+instruction.
+
+Debris is present between seat
+and ball contact areas or
+within seat pockets.
+
+Flush seats with valve cleaner. If
+problem is solved after cleaning
+inject Iubricant in order to
+protect flushed cavities ffom
+corrosion.
+
+If problem is not solved the
+valve should be removed from
+the line for maintenance.
+Contact Valbart after sales
+service.
+
+Page 30 of 35
+

@@ -1,0 +1,74 @@
+-—
+FLOWSERVE
+ERVE
+
+Flowserve Corporation
+Flow Control Division
+www.flowserve.com
+
+Op e rati on (as viewed from top of actuator)
+
+Double Acting
+
+Applying air pressure to Port 1 drives the pistons
+outward, which turns the pinion counterclockwise as
+the air volume on the outside of the pistons exhausts
+through Port 2.
+
+1350 N. Mountain Springs Parkway
+Springville, Utah 84663-3004
+Phone: 801 489 2233
+
+Automax Valve Automation Systems
+
+Installation, Operation and Maintenance Instructions
+
+1978 Foreman Dr.
+Cookeville, TN 38501
+Phone: 931 432 4021
+
+Applying air pressure to Port 2 drives the pistons
+inward, which turns the pinion clockwise as the air
+volume on the inside of the pistons exhausts through
+Port 1.
+
+Spring Return (Fail CW)
+
+Applying air pressure to Port 1 drives the pistons
+outward, which compresses the springs and turns
+the pinion counterclockwise as the air volume on the
+outside of the pistons exhausts through Port 2.
+
+Exhausting the air pressure from Port 1 allows
+stored energy of the springs to drive pistons inward,
+turning the pinion clockwise. Air volume on outside
+of pistons vents through Port 2.
+
+«dl
+
+>
+
+pr P2
+
+Spring Return (Fail CCW)
+
+Applying air pressure to Port 1 drives the pistons
+outward, which compresses the springs and turns
+the pinion clockwise as the air volume on the outside
+of the pistons exhausts through Port 2.
+
+Exhausting the air pressure from Port 1 allows stored
+energy of the springs to drive pistons inward, turning
+the pinion counterclockwise. Air volume on outside of
+pistons vents through Port 2.
+
+FCD AXAIM0005-00
+
+(LMRO014-1)
+O 2005, Flowserve Corporation, Printed in USA
+
+(AUTO-5)
+
+03/05
+
+Page 2 0f4

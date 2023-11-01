@@ -1,0 +1,59 @@
+DNV
+
+CERTIFICADO DE CONFORMIDADE
+CERTIFICATE OF CONFORMITY
+
+Certificado nº: DNV 22.0209 Emissão: 09/11/2022 Válido até: Não aplicável
+Certificate nº Issuance Valid until
+
+2. DOCUMENTOS APRESENTADOS:
+
+NOTA FISCAL
+Identificação Nº 4.297
+Emissão 20/10/2022
+
+CERTIFICADO DE CONFORMIDADE DO PRODUTO
+Identificação 1294084
+Organismo CSA Group
+
+CERTIFICADO DE CONFORMIDADE DO SISTEMA DE GESTÃO DA QUALIDADE
+Identificação — CERT-02564-2004-AQ-HOU-RvA
+Organismo | DNV Business Assurance USA Inc.
+Validade 08/01/2025
+Norma | ISO 9001:2015
+
+3. ANÁLISE DA DOCUMENTAÇÃO:
+
+Os documentos supracitados foram analisados, não tendo sido encontradas
+evidências objetivas de não conformidades ao estabelecido no item 6.3 dos
+Requisitos de Avaliação da Conformidade, anexo à Portaria INMETRO nº
+115/2022.
+
+4. OBSERVAÇÕES:
+
+1. Este documento só é válido acompanhado do Certificado de Conformidade
+relacionado acima.
+
+2. O solicitante deve encaminhar as instruções para instalação, operação e
+manutenção de cada unidade junto com os equipamentos.
+
+3. As atividades de instalação, inspeção, manutenção, reparo, revisão e
+recuperação dos equipamentos são de responsabilidade dos usuários e devem
+ser executadas de acordo com os requisitos das normas técnicas vigentes e
+com as recomendações do fabricante.
+
+4. Os produtos devem ser instalados em atendimento às Normas pertinentes em
+Instalações Elétricas em Atmosferas Explosivas.
+
+Projeto nº: PRJC-493890-2013-PRC-BRA
+
+Histórico:
+
+Revisão Descrição Data
+
+0 Certificação inicial 09/11/2022
+
+DNV Business Assurance Avaliações e Certificações Brasil Ltda
+Av. Roque Petroni Junior, 850, 6º Andar, Conjunto 61 a 64 — Jd. das Acácias — CEP: 04.707-000 — São Paulo — SP — Brasil
+Form Ref.: ZNS-BR-EX-008 Rev.: 06 Data: 14/07/2022 http:/Avww.dnv.com.br Pág.: 2 de 2
+

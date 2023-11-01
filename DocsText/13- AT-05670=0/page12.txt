@@ -1,0 +1,32 @@
+Component Values
+
+Result Values
+
+Scaled Results
+
+Floating Point
+
+Result values (any component or other value stored in the Maxum's re-
+sult table) can be sent to the Host as either:
+
+* scaled integers, or
+
+* 32-bit floating point numbers.
+
+Scaled results are stored in a single register as:
+
+scaled result = Round(ScaleFactor * Maxum ResultValue / EUHI)
+
+EUHI must be >= 1.0.
+
+A floating point result is stored in a pair of registers. Only the first register
+in the pair is defined in the address map. The floating point format for
+MODBUS addresses in the 70000s is the 754 standard IEEE 32-bit float.
+The format for addresses in the 20000s is IEEE 32-bit float with the
+words swapped. The format for addresses in the 40000s is either
+swapped or unswapped based on the data type setting (R or Q).
+
+Floating point values can be transmitted ffom Advance Optichrom by
+using a fractional full scale of 1.0 and an euhi of 1.0.
+
+6 e Maxum MODBUS User's Guide 2000584-001

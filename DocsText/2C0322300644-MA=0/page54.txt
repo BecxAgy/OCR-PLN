@@ -1,0 +1,151 @@
+TUBULAÇÃO
+Instale a tubulação de acordo com as indicações no corpo da válvula.
+
+VÁLVULAS DE 2 VIAS: A conexão de entrada de pressão é indicada com “A”, “IN”, “EN” ou “PRESS”, bem como
+pode ter uma seta indicativa do sentido de fluxo. Refira-se a seção Operacão deste Manual.
+
+VÁLVULAS DE 3 VIAS: Dependerá de sua construção, se Normalmente Aberta, Normalmente Fechada ou
+Universal. Refira-se a seção Operação deste Manual.
+
+VÁLVULAS DE 4 VIAS: Sua ligação dependerá do lado do acionador que deverá estar com pressão com a
+bobina desenergizada. Refira-se a seção Operação deste Manual.
+
+Nas válvulas piloto as linhas de entrada e saída devem estar completamente livres e a pressão diferencial mínima
+deve ser mantida, para garantir funcionamento adequado (manter áreas de passagem, evitando restrições).
+Controles de fluxo para os acionadores, devem ser instalados entre o acionador e a conexão da válvula.
+
+Utilize fita veda-rosca para a instalação de tubulações rosqueadas: aplique somente na rosca macho, deixe
+sempre o 1º fio de rosca livre. Evite aplicação de compostos químicos de vedação nas roscas, pois estes podem
+entrar na válvula e causar problemas de funcionamento. O peso próprio das tubulações, tensões e deformações
+das mesmas, não devem ser transmitidos ao corpo da válvula. Mantenha o alinhamento das tubulações e utilize
+suportes adequados. Quando apertar a tubulação, nunca utilize a válvula como alavanca.
+
+INSTALAÇÃO ELÉTRICA
+
+Ainstalação elétrica, deve atender ás Normas e Códigos Locais e Nacionais. Verifique a tensão indicada na placa
+de identificação. Para facilitar a instalação Elétrica, todas as caixas dos solenóides podem girar de 360º em torno
+de seu eixo. Os solenóides em corrente alternada e corrente contínua tem construção distinta. Para converter de
+C.A.emC.C. ouvice-versa, é necessário mudar a bobina e os componentes internos no solenóide. Consulte um
+Distribuidor Autorizado, nossas Filiais de Vendas ou nossa Matriz.
+
+TEMPERATURA DO SOLENÓIDE
+
+Todas as válvulas standards indicadas no Catálogo, são fornecidas com bobinas projetadas para serviço pesado
+contínuo. Quando o solenóide permanecer energizado por um longo período, a caixa do solenóide aquece,
+podendo ser tocada com as mãos, por alguns segundos. Esta é a temperatura normal do funcionamento e
+segurança, não indicando qualquer anormalidade, sendo que o excesso da temperatura será indicada por
+fumaça ou odor de queima de bobina. Cuidados especiais com classe de temperatura da Bobina devem ser
+tomados quando da sua especificação evitando a queima da bobina. Consulte nossos catálogos para maiores
+esclarecimentos.
+
+MANUTENÇÃO
+
+Antes de efetuar reparos, certifique-se que a parte elétrica está desligada e que não há mais pressão de fluido na
+entrada da válvula. Se achar necessário solicite o formulário com a vista explodida aos nossos Distribuidores
+Autorizados, Filiais ou nossa Matriz, informando modelo da válvula e nº de série que estão indicados no Termo de
+Garantia ou Placa de Identificação da Válvula. Faça manutenção preventiva e procure sempre repor peças do
+jogo de reparo original que pode ser encontrado em qualquer dos distribuidores Autorizados. Consulte nossos
+catálogos e Seção Operação irregular deste manual.
+
+LIMPEZA
+É recomendado uma limpeza periódica, o intervalo de tempo varia de acordo com fluido e as condições de
+operação.
+
+OPERAÇÃO IRREGULAR
+
+1 - Sistema elétrico: O correto funcionamento do solenóide, é indicado por um “Click Metálico” quando
+energizado: a ausência deste “Click” poderá ser causado por: Fusíveis queimados ou soltos; Fios de alimentação
+interrompidos ou mal conectados; Bobina queimada. Voltagem baixa: a voltagem deverá ser pelo menos 85% da
+indicada na placa de identificação - Pressão incorreta: a pressão deverá estar dentro dos limites especificados na
+Placa de Identificação.
+
+2- Vazamento Excessivo: Desmonte a válvula e limpe todas as peças.
+
+3 - Maiores detalhes sobre condições de operação consultar nossos catálogos ou ainda nossos Distribuidores
+Autorizados, Filiais ou nossa Matriz.
+
+JOGOS DE REPARO
+
+Todas as válvulas ASCO dispõem de jogos de reparo e bobinas sobressalentes. Quando pedir um jogo de reparo,
+especifique o número de válvula, o número de série, voltagem e frequência, que estão indicados na placa de
+identificação ou anotados no ato da compra no Termo de Garantia.
+
+Nota: A descrição completa de qualquer válvula poderá ser encontrada em nossos catálogos e para consultar a
+
+relação de Distribuidores Autorizados acesse: www.ascoval.com.br.
+M-0003-REV. A - 12/2011
+
+SIMBOLOGIAS
+
+SIMBOLOGIA DE VÁLVULAS SOLENÓIDE 2 VIAS
+
+air a
+
+2
+A2 É
+
+NORMALMENTE FECHADA NORMALMENTE ABERTA NORMALMENTE FECHADA NORMALMENTE ABERTA
+COMANDO SOLENÓIDE/ COMANDO SOLENÓIDE/ COMANDO SOLENÓIDE / PILOTO / COMANDO SOLENÓIDE / PILOTO /
+RETORNO MOLA RETORNO MOLA RETORNO MOLA | PILOTO RETORNO / MOLA PILOTO
+SIMBOLOGIA DE VÁLVULAS SOLENÓIDE 3 VIAS
+;2 2, 2 PE PE
+T | / Dm + T Hr
+4 5/1) [rm Cl alZ
+3 1
+3A Y 3 4 A A
+
+NORMALMENTE FECHADA NORMALMENTE ABERTA UNIVERSAL
+COMANDO SOLENÓIDE/ COMANDO SOLENÓIDE/ — COMANDO SOLENÓIDE /
+
+NORMALMENTE FECHADA | NORMALMENTE ABERTA
+COMANDO SOLENÓIDE COMANDO SOLENÓIDE
+
+RETORNO MOLA RETORNO MOLA RETORNO MOLA PILOTO / RETORNO PILOTO PILOTO / RETORNO PILOTO
+SIMBOLOGIA DE VÁLVULAS SOLENÓIDE 4 VIAS
+A BAB
+ch em
+T E
+EA PEB
+2 POSIÇÕES / 2 POSIÇÕES / 2 POSIÇÕES DUPLO SOLENÓIDE
+
+SIMPLES SOLENÓIDE COMANDO | COMANDO SOLENÓIDEI PILOTO / COMANDO SOLENÓIDE/
+
+SOLENÓIDE / RETORNO MOLA RETORNO PILOTO RETORNO SOLENÓIDE
+VA AB VP
+I Tyr 1
+EAP EB
+
+3 POSIÇÕES / CENTRO ABERTO
+COMANDO SOLENÓIDE / PILOTO /
+RETORNO SOLENÓIDE / PILOTO
+
+3 POSIÇÕES / CENTRO FECHADO
+COMANDO SOLENÓIDE / PILOTO /
+RETORNO SOLENÓIDE / PILOTO
+
+3 POSIÇÕES / PRESSÃO CENTRAL
+COMANDO SOLENÓIDE / PILOTO /
+RETORNO SOLENÓIDE PILOTO
+
+sat
+
+ALGUNS MODELOS OPERADOR MANUAL
+
+p
+| pt
+S | E] ]
+R y
+/ in E N
+o 7a
+l 1
+& ; o
+BOTÃO SEM TRAVA ALAVANCA ROTATIVA BOTÃO COM TRAVA PARAFUSO
+
+APERTA E ACIONA
+
+SOLTA E DESACIONA APERTA, GIRA E ACIONA
+
+APERTA, GIRA E
+DESACIONA
+
+M-0003-REV. A - 12/2011

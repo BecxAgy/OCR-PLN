@@ -1,0 +1,46 @@
+Function 08 — Loopback Diagnostics Test, Continued
+
+Diagnostic Codes 11
+through 17
+
+Error Response
+
+Error Example 1
+
+Diagnostic Codes 11, 12, 13, 14, 15, 16, and 17 are useful to allow a
+host computer system (MODBUS master) to track communication statis-
+tics on MODBUS slaves. The slaves respond with the values of event
+counters.
+
+Note: For Diagnostic Codes 10 through 17, the master should send a
+data value of O (zero). Unless there is reason to do otherwise, the slave
+device should ignore the data value (i.e., accept every data value) for
+these diagnostic codes. For Diagnostic Codes 11 through 17, the slave
+should respond with the value of the specified event counter. For Diag-
+nostic Code 10, the slave should respond by echoing the command
+(similar to the response for Diagnostic Code 0).
+
+The only error that should occur is that a command with an unsupported
+diagnostic code is sent. If the slave does not recognize the diagnostic
+code, it should send an ILLEGAL DATA VALUE error response (see
+Function Code 01 on page 45) with the Function Code set to 136 (0x88)
+to indicate that the error occurred on a command with Function Code 08.
+
+The master sends Diagnostic Code O with data value 42295 (0xA537) to
+slave 17:
+
+Slavef Function Code Diagnostic Code Data Value
+High Low High Low
+11 08 00 00 As 37
+
+Loopback Test Diagnostic Code O Command
+
+The slave will echo the command as a response:
+
+Slavef Function Code Diagnostic Code | Data Value
+High Low High Low
+11 08 00 00 As 37
+
+Loopback Test Diagnostic Code O Response
+
+56 e Maxum MODBUS User's Guide 2000584-001

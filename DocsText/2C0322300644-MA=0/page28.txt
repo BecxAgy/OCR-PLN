@@ -1,0 +1,76 @@
+F
+
+Si,
+LOWSERVE
+. Nes
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+
+Table 7: NPT tightening requirements
+
+NPT tightening according to ASME B1.20.1
+
+(ref. TON rev. 03)
+
+c
+
+NPT SIZE (INCH)
+
+Threads/inch
+Filetti per pollice
+
+HAND TIGHT
+ENGAGEMENT Li
+(turns) Tolerance +1
+turn
+
+WRENCH TIGHT
+ENGAGEMENT Ls
+(turns) Tolerance +1
+turn
+
+Total Minimum Turns
+
+27.0
+
+18.0
+18.0
+
+14.0
+14.0
+11.5
+
+11.5
+11.5
+11.5
+
+21/2"
+E
+31/2"
+
+8.0
+8.0
+8.0
+
+a"
+
+8.0
+
+sistojafajajajunjujajajaja
+
+MINIMA || |U | to | |U |to | |
+
+sisjojtujojojojojojujujiun|u
+
+1. Inspect components to ensure that male and female port threads and sealing surfaces are free of burrs, nicks
+and scratches, or any foreign material.
+
+2. Apply sealant or lubricant to male pipe threads if not pre-applied, as required by Operative Istruction IO 10-09.
+
+3. Manually screw the connector into the port, following the value detailed in column C of the table.
+
+4. Wrench tighten the connector following appropriate values shown in in column D ofthe table.
+Never back off (loosen) pipe threaded connectors to achieve alignment.
+
+Page 26 of 35
+

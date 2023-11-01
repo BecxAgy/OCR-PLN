@@ -1,0 +1,131 @@
+ASLAVAL
+
+INDÚSTRIA E COMÉRCIO LTDA.
+
+AStã
+numarTtics
+
+TERMO DE GARANTIA
+
+A Ascoval assegura a Garantia contra qualquer não conformidade do equipamento ou de fabricação
+que nele apresentar, pelo período de 12 (doze) meses contados a partir da data de aquisição
+devidamente comprovada através da Nota Fiscal emitida.
+
+Durante este período de vigência, comprometemo-nos a substituir ou consertar gratuitamente as peças
+não conforme, quando o seu exame técnico revelar a existência de não conformidade proveniente de
+matéria-prima ou de fabricação, reservando-nos o direito de utilizar as instalações de nossa fábrica ou
+revendedor mais próximo.
+
+O mesmo não se aplica a quaisquer peças ou acessórios com não conformidade ou danos resultantes
+de uso indevido durante a instalação, manutenção, ou ainda em casos de imprevistos, quando as
+despesas inerentes ao transporte, embalagem e seguro correrão por conta do comprador.
+
+Estes termos também tornam-se nulos e sem efeito, caso os produtos tenham sofrido alguma alteração
+ou modificação realizada por terceiros não autorizadas pela Ascoval.
+
+*A validade será confirmada mediante a apresentação da Nota Fiscal de compra emitida contra o comprador
+inicial. Reservamo-nos o direito de promover alteração no produto, sem prévio aviso .*
+
+FABRICANTE: ASCOVAL INDÚSTRIA E COMÉRCIO LTDA.
+
+NOME/COMPRADOR:
+
+CNPJ.
+
+ENDEREÇO DO COMPRADOR:
+
+DATA DA COMPRA: Nº NOTA FISCAL:
+
+NOME / CARIMBO / DISTRIBUIDOR AUTORIZADO:
+
+CNPJ.
+
+ENDEREÇO DO DISTRIBUIDOR AUTORIZADO:
+
+CÓDIGO DO PRODUTO: VOLTAGEM: Nº SÉRIE:
+
+ASLOVAL INDÚSTRIA E COMÉRCIO LTDA.
+Rodovia Pres. Castelo Branco, Km 20 - Jd. Santa Cecília - Cep 06465-300 - Barueri - SP
+Tel.: (11) 4208-1700 - Fax: (11) 4195-3970 - e-mail : ascoval(Demerson.com
+
+SUBSIDIÁRIA DE ASTO Valve, Inc. - EMERSON ELECTRIC CO.
+
+M-0003-REV. A - 12/2011
+
+ASta
+NUmMaTies
+
+ASVAVAL
+
+INDÚSTRIA E COMÉRCIO LTDA.
+
+“MANUAL GERAL DE INSTALAÇÃO E MANUTENÇÃO VÁLVULAS SOLENÓIDE”
+
+Este manual foi elaborado visando fornecer instruções gerais de instalação e manutenção de todas as válvulas
+Solenóide ASCO, fabricadas pela ASCOVAL INDUSTRIAE COMÉRCIO LTDA.
+
+IMPORTANTE:
+
+Antes de instalar sua nova válvula e/ou fazer manutenção nas válvulas já existentes, leia atentamente as
+instruções deste manual bem como procure ter em mãos o nosso catálogo de válvulas solenóide, pois o mesmo
+é complemento indispensável para este manual. Mantenha sempre em seu poder este manual para futuros
+reparos nas válvulas solenóide.
+
+Certifique-se que a rede elétrica esteja desligada, bem como não coloque pressão na linha antes de terminar a
+instalação.
+
+OPERAÇÃO: Este produto foi projetado para operar dentro das condições do nosso catálogo. Caso necessite
+do catálogo, favor solicitar á nossa matriz, filiais ou a um de nossos Distribuidores Autorizados ou ainda acessar:
+www.ascoval.com.br. Todos nossos catálogos se encontram disponíveis em nosso site.
+
+VÁLVULAS DE 2 VIAS
+
+- Normalmente Fechada: A válvula é fechada quando a bobina está desenergizada, e aberta quando a bobina
+estiver energizada.
+
+- Normalmente Aberta: A válvula é aberta, quando a bobina está desenergizada, e fechada quando a bobina
+estiver energizada.
+
+Para maiores informações verifique a simbologia de válvulas de 2 vias, colocada no final deste manual.
+
+VÁLVULAS DE 3 VIAS
+
+- Normalmente fechada: Com a bobina desenergizada, o fluxo passa do acionador (A) ou (1) ao escape (E) ou
+(3), enquanto a entrada de pressão (P) ou (2) é bloqueada. Com a bobina energizada, o fluxo passa da entrada
+de pressão (P) ou (2) ao acionador (A) ou (1).
+
+- Normalmente aberta: Com a bobina desenergizada, o fluxo passa da entrada de pressão (P) ou (3) ao
+acionador (A) ou (1). Com a bobina energizada o fluxo passa do acionador (A) ou (1) ao escape (E) ou (2),
+enquanto a entrada (pressão) é bloqueada.
+
+- Universal: Uma construção que permite ser instalada como normalmente aberta ou fechada e ainda como
+convergente ou divergente de fluxo.
+
+Consulte nosso catálogo e a simbologia de válvulas de 3 vias colocadas no final deste manual.
+
+VÁLVULAS DE4 VIAS
+
+Quando a bobina está desenergizada, o fluxo passa da entrada de pressão (P) á um dos lados do acionador (A),
+enquanto o outro lado do acionador (B) está ligado com a exaustão (E). Com a bobina energizada, o fluxo passa
+da entrada de pressão (P) ao lado do acionador (B), enquanto o lado do acionador (A) será conectado com o
+escape (E). As válvulas de duplo solenóide tem funcionamento similar, porém o retorno não é feito por mola, e
+sim por outro solenóide. Logo, para cada reversão do sentido de fluxo é acionado um dos solenóides. Para
+válvulas de 4 vias, 3 posições e informações complementares das demais válvulas acima, consulte Simbologia
+de válvulas 4 vias colocada no final deste manual.
+
+OPERADOR MANUAL
+
+Este é um acessório que pode ser incorporado á grande maioria das válvulas, quando de sua fabricação, caso
+seja solicitado pelo cliente. Válvulas com sufixo “M.0.” ou “M.S.” identificam a existência de Operador Manual,
+que permite operar a válvula na ausência de comando elétrico ou interrupção de energia elétrica. Alguns
+modelos mais comuns de operador manual estão colocados no final deste manual. Caso necessite de
+informações adicionais, veja nosso catálogo ou solicite desenho da válvula específica.
+
+INSTALAÇÃO E MONTAGEM
+
+Antes de instalar a válvula, verifique na placa de identificação, os dados de pressão, fluido e voltagem. A maior
+parte das válvulas podem ser montadas em qualquer posição, entretanto, as de boletins nº 8266, 8300, 8302, e
+8215 e outras com indicação específica, deverão ser montadas com caixa do solenóide em posição vertical,
+para cima. Para maiores informações, consulte nosso catálogo.
+
+M-0003-REV. A - 12/2011

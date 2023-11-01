@@ -1,0 +1,68 @@
+Et O
+FLOWSERVE
+ee?
+
+OPÇÕES DE SAÍDA ANALÓGICA
+
+- (ver nota 3)
+
+-0 - Nenhuma
+
+T - Transmissor 4-20mA (curso de 40º a 1009)
+-D - Transmissor de Curso de 180º e 4-20mA
+-A - Potenciômetro 0-1 kOhm
+
+-B - Potenciômetro 0-5 kOhm
+
+-C - Potenciômetro 0-10 kOhm
+
+OPÇÕES DE FIAÇÃO
+
+- Nenhuma
+
+- Conectores Brad Harrison de 3 pinos
+
+- Conectores Brad Harrison de 5 pinos
+Conectores Brad Harrison de 7 pinos
+
+- Bloco Terminal Serviço Pesado
+
+- Conectores vedados/revestidos (ver nota 4)
+
+vIWN-HAO
+
+OPÇÃO MÍNIMA DE TERMINAIS ABERTOS
+
+2 - 2 (padrão — ver nota 5)
+4 - 4
+6 - 6
+8 - 8
+
+OPÇÕES ESPECIAIS
+
+- Nenhuma
+
+- Parafusos da tampa lubrificados
+
+Sem Silicone
+
+- Engrenagens do Potenciômetro de 180º (para opções analógicas A, Bou C)
+- Anéis-o de viton
+
+<UZzrmo
+
+OPÇÕES DE REVESTIMENTO
+
+- Revestimento Resistente de Poliéster Preto
+- Revestimento de Epóxi Branco
+
+Alojamento Revestido com Níquel
+
+- Alojamento Impregnado com Teflon
+
+- Epolon Il Branco
+
+sAaAmo
+
+Experience In Motion
+

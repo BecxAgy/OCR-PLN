@@ -1,0 +1,54 @@
+Formula for Map Size
+
+Descriptions
+
+Example 1
+
+Example 2
+
+1x% of applications for application status
+
+2 x% of results for results
+
+1 for host alive (useless)
+
+1 for database change flag
+
+1x% of applications for looking at longest cycle length
+1 x % of streams for readme flags
+
+1x % of streams for forcing streams
+
+1 x of streams for enable/disable stream
+
+1 x% applications for determining if a stream is running dedicated
+1 x % streams for determining next stream
+
+1x É streams for euhi change flags + 1 x É applications
+2 x % applications for calibration control
+
+1 x% applications for run/hold
+
+Customer has 30 applications, 50 streams, 300 results
+Customer wants no host control, merely unscaled results.
+
+Map needs : 30 for application status
+300 for results
+330 addresses
+
+Customer has 150 applications, 400 streams, 600 scaled results
+
+Customer wants readme flags, enable/disable stream, calibration control,
+application run/hold.
+
+Map needs: 150 for application status
+1200 for results/euhi
+400 for readme flags
+400 for stream enable, disable
+300 for calibration control
+- 150 for run/hold
+2600 addresses
+
+2000584-001
+
+Maxum MODBUS User's Guide «e 33

@@ -1,0 +1,40 @@
+“a.
+FLOWSERVE
+Ne *
+
+Valhart
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+
+10 Returns and Disposal
+
+10.1
+
+10.2
+
+Returns
+
+The valve shall be emptied, cleaned, and preserved before returning the equipment to the
+manufacturer. The manufacturer will only open the returned equipment if the contamination
+declaration is present.
+
+(Note: the terms and conditions associated with retumning a valve shall be addressed within
+the purchasing agreement or contract, and not part of the User Instruction.)
+
+Disposal and recycling
+
+At the end of the equipment service life, the relevant materials and parts should be recycled
+or disposed of using local environmental regulation methods. If the product contains
+substances which are harmful to the environment, then the removal or disposal of the
+equipment must be in accordance with local/regional regulations. This includes any liquid
+and/or gas in the “seal system” or utility.
+
+(Add additional information if necessary. If the valve is not meant to recycle, remove all
+references to recycling from this section.)
+
+Refer to Safety Data Sheets and make sure that hazardous substances or toxic fluids are
+disposed of safely and that the correct personal protective equipment is used. All activities
+involving hazardous substances or toxic fluids must be in compliance with published safety
+standards.
+
+Page 31 of 35

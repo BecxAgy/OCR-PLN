@@ -1,0 +1,51 @@
+Table of Contents
+
+Maxum Modbus Basics
+Maxum MODBUS Operation
+
+System Specifications
+
+Component Values
+
+Data Validity and Operational Checks
+
+Host / Analyzer Communications
+Maxum MODBUS Address Map
+Example Map Configurations
+MODBUS Messages
+
+Floating Point Formats
+
+Getting Started
+
+Formula for Map Size
+MODBUS Primer
+
+MODBUS Data Types
+MODBUS Functions
+
+Function 01 — Read Coil Status
+
+Function 02 — Read Input Status
+
+Function 03 — Read Output Registers
+
+Function 04 — Read Input Registers
+
+Function 05 — Force Single Coil
+
+Function 06 — Preset Single Register
+
+Function 08 — Loopback Diagnostics Test
+
+Function 15 — Force Multiple Coils
+
+Function 16 — Preset Multiple Registers
+
+Maxum Implementation of MODBUS Protocol
+
+References
+
+Index
+
+2000584-001 Maxum MODBUS User's Guide e 1

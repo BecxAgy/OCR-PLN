@@ -1,0 +1,84 @@
+“a.
+FLOWSERVE
+Ne *
+
+albart
+
+5
+5.1
+
+5.2
+
+5.3
+
+5.3.1
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+
+Installation
+
+Inspection and preparation
+
+Remove the valve from crate or case by means of lifting lugs being careful not to damage the
+valve ends and do not dent the paint.
+
+Remove the protection discs and the corrosion protection coating from the ends.
+
+Make sure that the relevant surfaces are not damaged and there are no loose parts.
+
+To avoid bending stresses the valve and the line piping have to be correctly supported.
+Unless specifically requested the valve is not designed for supporting external loads (e.g.
+seismic loads).
+
+In order to check the integrity of valve components and avoid damages due to wear, a
+scheduled maintenance must be done (refer to Chapter 7).
+
+Mounting
+
+Before installation, fix the gear or the actuator to the valve top (if shipped separately take care
+to not put grease between valve mounting flange and gear or actuator mounting flange),
+tighten the operator bolting (14c, 13c) in accordance with the operator IOM bolt tightening
+torque table, set the open and close position or verify the operator set-up in case the actuator
+has been fixed on the top of the valve by Us.
+
+It is strongly recommended to perform piping flushing before
+NOTICE installation of the valve; if this is not possible, the valve must
+be set with the ball in full open position before starting the
+
+flushing .
+
+Installation
+
+Remove any foreign object from the valve bore.
+Make sure that the valve is correctly placed and aligned with the line.
+For bolted end valve be careful to use adequate gaskets and bolting.
+
+Tighten the bolts gradually, in cross position with the proper loads recommended by the gasket
+supplier or end user recommended practice.
+
+Additional instructions for valve with welded end
+
+A valve with weld ends without pup pipes should never be installed with the ball in closed
+position.
+
+During the installation of the valve the ball must be placed in fully open position. Failure to
+keep the ball in fully open position during installation can cause damage to the valve.
+
+the ball must remain in the closed position during assembly of the valve, cover with grease
+he exposed surfaces of the ball. This will protect the ball ffom damage caused by weld
+splatter.
+
+For a welded end valve use an adequate welding procedure which shall limit the temperature
+o maximum 100 ºC at 100 mm of distance from the seat ring rear face.
+
+he use of transition pup is mandatory when this condition is not possible.
+
+n case of welding to higher strength pipe the thickness of the component shall at least equal
+o the ratio of minimum specified yield strength of the pipe to minimum specified yield strength
+of the component.
+
+he maximum thickness of the component shall not exceed 1.5 times the pipe thickness.
+he use of transition pup is mandatory when the above condition cannot be achievable.
+
+Page 17 of 35
+

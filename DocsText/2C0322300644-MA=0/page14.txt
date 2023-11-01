@@ -1,0 +1,63 @@
+Si,
+FLOWSERVE
+
+Valha
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+4 Packaging, Transportation and Storage
+
+4.1 Consignment receipt
+
+Immediately after receipt of the valve it must be checked against the delivery/shipping
+documents for its completeness and that there has been no damage in transportation.
+
+The following symbols are used to label the packaging (as applicable):
+
+Table 3: Definition of packaging symbols and markings
+
+Designation Symbol Explanation
+
+The symbol should be applied to easily broken cargoes.
+Cargoes marked with this symbol should be handled carefully
+and should never be tipped over or slung.
+
+Any other kind of point load should also be avoided with
+Use no hooks cargoes marked with this symbol. The symbol does not
+—
+
+Fragile,
+Handle with care
+
+automatically prohibit the use of the plate hooks used for
+handling bagged cargo.
+
+The package must always be transported, handled and stored
+in such a way that the arrows always point upwards. Rolling,
+swinging, severe tipping or tumbling or other such handling must
+be avoided. The cargo need not, however, be stored "on top”.
+
+Top
+
+Compliance with the symbolis best achieved if the cargo is kept
+under the coolest possible conditions. In any event, it must be
+Keep away kept away from additional sources of heat. It may be
+from heat A! N- appropriate to enquire whether prevailing or anticipated
+(solar radiation) AN temperatures may be harmful. This label should also be used for
+goods, such as butter and chocolate, which anybody knows
+should not be exposed to heat, in order to prevent losses.
+
+Protect ftom “ Mg,
+
+heat and V'g=º— Stowage as for the preceding symbol. The cargo must
+
+radioactive AN additionally be protected from radioactivity.
+
+sources =
+The symbol indicates merely where the cargo should be slung,
+but not the method of lifting. If the symbols are applied
+
+Sling here equidistant from the middle or center of gravity, the package
+willhang level if the slings are of identical length. If this is not the
+case, the slinging equipment must be shortened on one side.
+
+Page 12 of 35

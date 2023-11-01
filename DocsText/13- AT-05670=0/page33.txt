@@ -1,0 +1,49 @@
+Floating Point Formats
+
+IEEE 32-bit Float The Institute of Electrical and Electronics Engineers has published a
+
+Format standard for floating point formats on computers. The 32-bit version will
+be supported by the Maxum Modbus. The 32-bit values will be packed
+into pairs of consecutive Modbus registers (16-bit words). The most sig-
+nificant 16 of the 32 bits will be placed into the first register (lower ad-
+dress) and the less significant 16 bits will be placed into the second reg-
+ister (higher address). The most significant bit of the 32 bits will be the
+most significant bit of the first register. The least significant bit of the 32
+bits will be the least significant bit of the second register. The host com-
+puter (Modbus master) must extract the 32-bit floating point value from
+the registers in the Modbus message. 32-bit floating point values may be
+mixed with 16-bit values in the same Modbus message. The Maxum
+Modbus Address Map defines which Modbus registers hold which type of
+data. The Maxum Modbus supports two floating point formats, one is the
+standard (data type R), as described below, and the other is the same
+format with the words swapped (data type Q).
+
+NOTE: sending 32-bit IEEE floats using pairs of Modbus registers has
+become fairly common.
+
+The most significant bit of the IEEE 32-bit float is the sign bit, O for a
+positive number and 1 for a negative number. The next 8 bits are the
+exponent. If the exponent is O (zero), the mantissa represents either zero
+or a special type of value called Not A Number (NAN) indicating values
+that cannot be properly represented in the format. NAN numbers are a
+special case that should not occur in the Maxum system. If the exponent,
+mantissa, and sign bit are all zero, the value is zero. If the exponent is
+not zero, the exponent represents a power of two with a bias of 127 and
+the mantissa represents the fractional part of a value between 1.0 inclu-
+sive and 2.0 exclusive. If the exponent is not zero, the value is given as:
+
+Value = (-1)S!SN * (2.0)EXPONENT-127) * (4,0 + (MANTISSA / 8388608))
+
+s EXPONENT MANTISSA
+3/3/2/2/2]2/2]2]2]2 ]2/2 1 14 (14/14/14/14/1/1/11/1
+tjoj9|8|7|6ol5oJ4]3]2]1 [0/9 |8 |7|6 |5 |[4|3 |2 [1 [0/9 |8 |7|6|5 [4/3 |2/1]0
+Byte O (Most Signifi- Byte 1 Byte 2 Byte 3 (Least Significant)
+cant)
+More Significant 16-Bit Word (Word 0) Less Significant 16-Bit Word (Word 1)
+
+For example, the Master reads two floating point values from the regis-
+ters 48601 through 48604, where the slave is identified as slave 65
+(0x41). Translating this into a Modbus command, this would be a request
+to read 4 registers starting at offset 8600 in table 4 of slave 65:
+
+2000584-001 Maxum MODBUS User's Guide e 27

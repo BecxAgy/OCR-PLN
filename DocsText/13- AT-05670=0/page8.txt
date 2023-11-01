@@ -1,0 +1,80 @@
+Maxum MODBUS Basics
+
+Purpose This manual provides detailed information about the hardware and soft-
+ware protocol required to interface a computer to the Maxum"” system
+(starting with Maxum Version 3.0). The connection between an external
+computer and the Maxum is made via a serial, digital communication
+link. The purpose of the connection is to allow Maxum and Optichrom
+Advance analyzers to transmit the results of chromatographic analyses
+to the external computer and to allow the external computer to perform
+certain control operations of a Maxum or Optichrom Advance analyzer.
+
+Definition of Terms Term
+
+Definition
+
+Coil
+
+MODICON term for a Boolean value, also described as a
+flag.
+
+Float
+
+A data element representing an Analog value using IEEE
+standard 32-bit floating point format.
+
+HCHH
+
+HOST Computer Communications Interface — HIWAY, the
+Advance Optichrom system's MODBUS protocol interface.
+
+Host
+
+An external computer system which acts as the MODBUS
+master and requests data from the Maxum system.
+
+Master
+
+MODBUS systems require one master device (host) which
+sends requests to one or more slave devices.
+
+Maxum
+
+Siemens" Advance Maxum product line of gas analyzers
+and network devices.
+
+MODBUS
+
+Communications protocol, defined by Gould, Inc. for the
+Gould MODICON, that has become a de facto standard for
+data communications.
+
+Advance Network Access Unit (NAU) provides general pur-
+pose I/O for Advance Maxum systems. Any Maxum unit
+can be configured for this purpose, but it is recommended
+that it be done on a dedicated unit.
+
+Optichrom
+
+Siemens" Advance OptichromB product line of gas analyz-
+ers and network devices, the predecessor to the Maxum
+product line.
+
+Register
+
+MODICON term for a 16-bit 2's complement integer value,
+also described as a Word.
+
+RTU
+
+Remote Terminal Unit, MODBUS RTU is a format where
+values are transmitted in binary form.
+
+Slave
+
+MODBUS device that passively waits for requests from a
+MODBUS master device.
+
+2 e Maxum MODBUS User's Guide
+
+2000584-001

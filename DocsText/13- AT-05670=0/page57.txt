@@ -1,0 +1,49 @@
+Function 05 — Force Single Coil
+
+Master Command
+
+Slave Response
+
+Possible Error
+
+The master sends a command writing the value of one output digital (ta-
+ble 0), specifying the digital's address and the value to write. For exam-
+ple, the master might request that slave 17 turn ON coil 00173. Translat-
+ing the values into hexadecimal, this is a request that slave 0x11 write
+OxFFOO to the coil at Ox00AC (corresponds to table offset 0173 of table
+0):
+
+Slavef Function Code Data Start Digital Value
+High Low High Low
+11 05 00 AC FF 00
+
+Force Single Coil Command
+
+If the slave can process the command without error, the slave will echo
+the command as a response:
+
+Slavef Function Code Data Start Digital Value
+High Low High Low
+11 05 00 AC FF 00
+
+Force Single Coil Response
+
+A possible error that might occur is that, although the address and data
+value are valid, there is some internal error that prevents the digital value
+from being written to the specified digital. For instance, the value may be
+on another device connected over an internal network. If the other device
+is offline or has security features, which can block writing to that device's
+digital, this would cause a FAILURE IN ASSOCIATED DEVICE error
+response.
+
+For example, if slave 17 had not been able to carry out the command
+because of an internal system problem, the response would have been:
+
+Slavef Function Code Error Code
+
+11 85 04
+FAILURE IN ASSOCIATED DEVICE Error Response
+
+2000584-001
+
+Maxum MODBUS User's Guide e 51

@@ -1,0 +1,30 @@
+Maxum MODBUS Address Map, Continued
+
+View/Edit Address
+Map
+
+Address Map and
+MODBUS Driver
+
+Once the address map has been loaded onto the NAU, it may be viewed
+and edited with System Manager/System Tables/MODBUS addmap or
+MMI/Menu/Setup/Other Devices/MODBUS. Starting with Version 3.1, a
+MODBUS Address Map may be fully edited in place. Use System Man-
+ger to add, delete, and modify table entries in the Modbus addmap or
+Modbus addmap result tables. Similar functions are available through
+the Maxum MMI. Since the MODBUS address is the primary key of the
+table, it cannot be modified, only deleted and replaced with a new entry.
+
+The value attribute can be changed for testing. It contains the pre-scaled
+version of scaled results and character representations of Boolean val-
+ues (True or False).
+
+The MODBUS addmap table acts as data collector for the Maxum and
+Optichrom analyzers and the NAU's MODBUS driver. The MODBUS
+driver has its own tables and memory. MODBUS communication occurs
+between the driver tables and the host computer. These tables are not
+viewable.
+
+2000584-001
+
+Maxum MODBUS User's Guide e 21

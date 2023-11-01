@@ -1,0 +1,78 @@
+—
+FLOWSERVE
+“id
+
+Valbart
+
+3.3
+3.3.1
+
+3.3.2
+
+3.3.3
+
+3.4
+3.4.1
+
+3.4.2
+
+3.4.3
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+
+sealing action is achieved by the thrust of the springs acting on the seat rings. As the pressure
+increases, the fluid pressure pushes the seat rings against the ball.
+
+3 Anti-blowout stem
+
+Stem is retained by the stem cover (other designs available on request).
+
+4 Anti-static design
+
+The electrical continuity between all the metallic components is guaranteed and certified.
+5 Floating seat rings
+
+Two independent floating seat rings assure the bi-directional tightness of the valve. The seats
+are carefully designed to minimize the torque required to operate the valves without losing
+sealing power, which is assured from zero differential pressure to the valve's maximum rated
+pressure. Self-relieving seats are supplied as a standard feature. Double piston or combination
+seats (self-relieving/upstream, double piston/down-stream) can be supplied upon request.
+
+6 Emergency sealant injection
+
+Each valve is supplied complete with emergency sealant injection feature located between
+the upper lip seal and the graphite gasket.
+
+Connections
+
+Electrical power connections
+
+In case of the valve is equipped with electric actuator, refer to the actuator Installation,
+Operation and Maintenance Manual for the details of these connections.
+
+Mechanical connections
+
+Valve ends can be Flanged RF or RTJ to ASME Bló.5.
+Butt-weld ends to ASME B16.25 (others types of weld ends are available upon request).
+Hub ends for clamped connect-ions are available as per customer specification.
+
+Auxiliary connections
+
+In case of the valve is equipped with pneumatic/hydraulic actuator, refer to the actuator
+Installation, Operation and Maintenance Manual for the details of these connections.
+
+Tools, equipment and fixtures for maintenance activities
+Typical tools
+
+- | Hydraulic tensioner for body/bonnet studs with UN/UNC tool series [x4]
+- | Dynamometric wrench with metric Allen tool series [x1]
+
+Typical equipment
+
+- — Hydraulic high pressure pump unit [x1]
+
+Typical fixtures
+
+- Blind flange [x1] for each flanged end
+
+Page 10 of 35

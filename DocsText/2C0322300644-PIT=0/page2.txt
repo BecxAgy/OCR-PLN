@@ -1,0 +1,63 @@
+—. :
+FLOWSERVE PLANO DE INSPEÇÃO E TESTE Númerc 011-23;
+
+Produto: Válvula ON-OFF / ASME B.1634
+Fabricante: VALBART
+Modelo: TMBV
+Projeto / Referência: PJ-0602565
+Cliente: BRASKEM S/A
+TAG's: XV-441054
+
+INSPEÇÃO E TESTES Normas / Procedimentos | Critério de Aceitação |Relatórios / Registros Evento de inspeção
+Componentes Críticos ASTM conforme material | ASTM conforme material | Certificados de RP
+(nota 1) materiais
+Reconhecimento de liga de
+Componentes usinados IT-10.03 ASTM conforme material | Relatório XL3T-90135 RP
+(nota 2)
+Teste Hidrostático Final 1T-09.27 API598 Formulário 005 HP
+(nota 3)
+Teste Pneumático | IT-09.27 API 598 Formulário 005 HP
+Estanqueidade
+Teste Funcional 710.11 740.11 Formulário 003 HP
+(nota 4)
+Pintura Final
+(nota 5) NA NA NA NA
+Visual é dimensional final 17-10.02 ASME 816.34 Formulários 007 / 021 HP
+com a válvula montada
+Verificação da Identificação e Certificado de
+Rastreabilidade 17.08.01 T-08.01 Conformidade st
+Databook da Qualidade PR-20 PR-20 Databook da Qualidade RP
+(nota 6)
+Embalagem e Transporte IT-08.01 IT-08.01 - RP
+LEGENDA
+
+HP (HOLD POINT): evento de inspeção, no ciclo fabril do fornecedor, que requer análise, verificação ou testemunho do órgão inspetor ou
+cliente e sem o qual o processo de fabricação não pode continuar.
+
+WP (WITNESS POINT): evento de inspeção, no ciclo fabril do fornecedor, em que este notificará o cliente ou firma inspetora, dentro dos
+prazos contratuais, visando a análise, verificação ou testemunho de eventos acordados no Plano de Inspeção e Teste, sem que o processo
+fabril seja interrompido.
+
+RP (REVIEW POINT): evento de inspeção, no ciclo fabril do fornecedor, em que serão gerados registros a serem apresentados ao cliente ou
+órgão inspetor como documentação técnica, na inspeção final.
+
+NA (NOT APPLICABLE): evento não aplicável para este fornecimento.
+
+NOTAS
+
+Nota 1: Certificado de Materiais: Corpo, Tampa/Castelo, Flange da Tampa/Castelo, Obturador e Prisioneiros ( conforme EN 10204;
+conforme 3.1)
+
+Nota 2: Aplicavel somente em aços inoxidaveis (13% de Cr no mínimo) e duplex.
+
+Nota 3: Deve ser realizado com a válvula montada com prisioneiros, juntas e gaxetas definitivas.A pressão considerada no teste deve ser de
+no mínimo 1,1 vezes a PMT na temperatura ambiente conforme ASME B16.34. A pressão não deve ultrapassar 1,5 vezes PMT.
+
+Nota 4: O teste funcional (com a válvula montada) deve ser feito utilizando o posicionador. Testes funcionais serão realizados sem pressão.
+Nota 5: Inspeção visual, teste de aderência, medição de espessura de camada de tinta e apresentação de certificados.
+
+Nota 6: Databook de qualidade contem: Certificados dos materiais e Inmetro (quando aplicável), relatório dimensional, folha de dados,
+desenho de arranjo geral, relatório de PMI, certificado de conformidade, relatório de testes (TH, estanqueidade e funcional) e PIT.
+
+Nota 7: Certificados de conformidade serão apresentados para as válvulas de baixas emissões fugitivas e testadas a fogo.
+

@@ -1,0 +1,57 @@
+a.
+FLOWSERVE
+eae?
+
+INSTRUÇÕES PARA O USUÁRIO
+
+Sistemas de Automação de Válvulas Automax Instalação
+UltraSwitch"M XCL/XML Operação
+Manutenção
+
+FCD AXPTIMO120-02
+
+Descrição:
+
+As caixas de chave de fim de curso Automax UltraSwitchTM indicam a posição local e remota de válvulas automatizadas.
+Geralmente oferecem um indicador visual sendo: vermelho (fechado) e verde (aberto) para que, no caso de dúvida, a posição
+local seja determinada intuitivamente. A UltraSwitchTM está disponível em diversas opções de chave de fim de curso com
+indicação remota em várias aplicações elétricas. Também podem ser utilizadas como caixa de junção para instalação direta de
+válvulas solenóides.
+
+Instalação:
+
+As UltraSwitches podem ser instaladas em válvulas ou atuadores de válvula com diversos componentes de montagem. Para
+melhores resultados, especifique a opção de eixo e componente de montagem NAMUR ao instalar o produto em um atuador
+NAMUR compatível. Essas opções permitem conexão direta nos atuadores sem acoplamento, reduzindo a banda morta.
+
+Basta parafusar o suporte no atuador e a UltraSwitchTM no suporte, apertando os parafusos manualmente. Para aplicações
+NAMUR, o eixo UltraSwitchTM possui um pino de alinhamento integral. Esse pino fixa o furo rosqueado no eixo do atuador.
+Para outras aplicações, certifique-se de instalar adequadamente um acoplamento entre a UltraSwitchTM e o atuador. Quando a
+UltraSwitchTM estiver instalada com fixadores ligeiramente soltos, bata duas ou três vezes no atuador para alinhar o suporte.
+Em seguida, aperte todos os fixadores.
+
+Instruções para Fiação:
+
+As caixas do UltraSwitchTM oferecem chaves pré-conectadas. Todas as conexões do usuário são feitas em um borne com terminais
+numerados. Os locais de ligação e aterramento externo e interno foram feitos para serem utilizados na instalação.Há um diagrama
+para a fiação localizado na parte interna da tampa e indica quais terminais correspondem aos contatos da chave: normalmente
+aberta, normalmente fechada, comum, etc. Siga o diagrama e o código elétrico para conectar os chaves ao seu sistema.
+
+Nota: para todas as chaves de proximidade acionadas magneticamente, a chave superior (chave superior e terceira chave para as
+versões com 4 chaves) deve ser utilizada para indicar a posição no sentido horário. A chave inferior (segunda e quarta chaves para as
+versões com 4 chaves) deve ser utilizada apenas para indicar a posição no sentido anti-horário. Qualquer desvio desses ajustes pode
+resultar em indicação errada.
+
+As solenóides também podem ser conectadas através da caixa da UltraSwitchTM, Pelo menos dois terminais auxiliares são fornecidos
+como padrão.
+
+Um parafuso de aterramento também é incluído. Conecte a solenóide nos terminais auxiliares e, em seguida, conecte os condutores
+de energia no lado oposto do terminal. Certifique-se de ter aterrado apropriadamente a solenóide no terminal de aterramento
+fornecido.
+
+As caixas UltraSwitch TM série XCL incluem duas entradas para conduites 3/4" NPT e as da série XML possuem duas entradas para
+conduítes M25x1.5. A instalação deve ser conforme os requisitos do Código Nacional de Instalação Elétrica, normas locais e instruções do
+fabricante. Em todos os casos, use selos contra os elementos ambientais para evitar entrada de água através do conduite.
+
+Experience In Motion
+

@@ -1,0 +1,63 @@
+CERTIFICADO DE CONFORMIDADE
+
+CERTIFICATE OF CONFORMITY
+Certificado No. / Certificate No. UL-BR 12.0005X
+
+Certificado de Conformidade válido somente acompanhado das páginas de: 1a9
+Certificate of Conformity valid only with the following pages
+Emissão / Dateofissue | 13 de janeiro de 2012 / January 13, 2012
+Revisão / Revision Date 27 de setembro de 2021 / September 27, 2021
+Validade / Expire date 12 de janeiro de 2024 / January 12, 2024
+
+ENSAIOS DE ROTINA / ROUTINE TESTS:
+
+Os seguintes ensaios de rotina devem ser conduzidos pelo fabricante e serão verificados durante as auditorias conduzidas pela UL:
+The following routine tests shall be conducted by the manufacturer and will be verified during the audits conducted by UL:
+
+1- De acordo com a ABNT NBR IEC 60079-7 (Segurança aumentada "e"), ensaio de rigidez dielétrica aplicada por 1 minuto com as
+seguintes tensões:
+
+a) 500 Vrms. *9% para equipamentos com tensões que não excedem 90 V pico.
+
+b) (1000 + 2 U) Vrms. *8% ou 1500 Vrms. *8%, O que for maior, onde U é a tensão de trabalho, para equipamentos que excedem
+90 V pico.
+
+Alternativamente, o ensaio poderá ser conduzido sob 1.2 vezes a tensão de ensaio dado acima, mas mantida por pelo menos 100
+ms.
+
+Tensões de ensaio em CC são permitidas como alternativa a tensão de ensaio especificada para CA, e deve ser 170% da tensão
+de ensaio especificada para CA ru.s. para enrolamentos isolados, ou 140% da tensão de ensaio especificada para CA Rus para
+situações onde o ar ou a distância escoamento sejam o meio de isolação.
+
+O ensaio deve ser considerado como estando em conformidade com os requisitos caso não haja fuga de corrente.
+2- De acordo com a ABNT NBR IEC 60079-18 (Encapsulado "m"):
+
+Inspeção visual: Cada parte do equipamento "m" deve ser submetido a uma inspeção visual e nenhum dano no composto, que
+poderia prejudicar o tipo de proteção, deve ser observado, por exemplo, rachaduras no composto, exposição dos componentes
+encapsulados ou falhas na adesão.
+
+Ensaio de rigidez dielétrica: Este ensaio não deverá ser realizado tendo em vista que ele já será realizado de acordo com o ensaio
+da ABNT NBR IEC 60079-7 informado no item 1 acima.
+
+1- According to ABNT NBR IEC 60079-7 (Increased safety "e"), Clause 7.1, dielectric strength test for at least 1 minute of application with the following voltages:
+a) 500 Vrms. *9% for equipment voltages not exceeding 90 V peak.
+
+b) (1000 + 2 U) Vrms *3% or 1500 Vrms. *8%, whichever is greater, where U is the working voltage, for equipment voltages in excess of 90 V peak.
+Alternatively, a test shall be carried out at 1.2 times the test voltage given above but maintained for at least 100 ms.
+
+DC test voltages are permitted as alternative to the specified a.c. test voltage and shall be 170% of the specified a.c. r.m.s. test voltage for insulated windings, or 140% of
+the specified a.c. rm.s. test voltage for situations where air or creepage distance is the insulation medium.
+
+The test is deemed to be in compliance with the requirements if no breakdown occurs.
+2- According to ABNT NBR IEC 60079-18 (Encapsulation "m'"):
+
+Visual inspection: Each piece of the "m" apparatus shall be subjected to a visual inspection and no damage to the compound, that could impair the type of protection, shall
+be observed, for example, cracks in the compound, exposure of the encapsulated components or failure of adhesion.
+
+Dielectric strength test: This test does not need to be conducted, as the test will be already conducted in accordance with the test of ABNT NBR IEC 60079-7 as given on
+item 1 above.
+
+Organismo de Certificação / UL do Brasil Certificações
+Certification Body | Avenida Engenheiro Luis Carlos Berrini, 105 — 24º andar
+04571-010 — Brooklin — São Paulo — SP — Brasil
+Página / Page 5/9 41-IC-FO0400 rev. 18.0

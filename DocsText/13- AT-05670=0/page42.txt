@@ -1,0 +1,38 @@
+MODBUS Primer, Continued
+
+RTU vs. ASCII MODBUS RTU is more efficient than MODBUS ASCII, but has stringent
+timing restrictions that are difficult to comply with when implemented on a
+multitasking computer, especially using languages such as FORTRAN.
+For this reason, many MODBUS interfaces either deviates from the
+MODICON specifications regarding MODBUS RTU timeouts or else im-
+plement the MODBUS ASCII format.
+
+Communication In both message formats, the message will be discarded if one of these
+Errors communication errors is detected:
+
+* Received checksum differs from the checksum computed for the
+message;
+
+* | Length of received message differs from length determined for
+that function;
+
+* lfaslave receives a message with a function code of O (zero) or
+between 128 and 255;
+
+* | Ifthe master receives a message with a function code of 0;
+* Character parity error if either odd or even parity is configured.
+
+As a diagnostic tool, MODBUS devices usually maintain message count-
+ers that record the number of messages received and the number dis-
+carded due to communication errors.
+
+If a slave detects a communication error in a command, the slave dis-
+cards the message and does not respond to the master. If the master
+detects a communication error in a response, the master discards the
+message and retries sending the command. The master will also retry
+sending a command if an expected response is not received within a
+configured timeout interval. Master devices may be configured to alert an
+operator or execute a diagnostic sequence if sending a command fails
+after a number of retries.
+
+36 « Maxum MODBUS User's Guide 2000584-001

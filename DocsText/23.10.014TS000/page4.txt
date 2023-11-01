@@ -1,0 +1,84 @@
+ARVOS GmbH Round-Type Transfer Line Exchanger | ARVOS No.: 23.10.014
+
+SCHMIDTSCHE SCHACK
+lenbacher StraBe 10, 34123 Kassel Client: BraskemsS. A. Client No.: PJ-0602056
+
+Germany Project: Projeto Helius Spec. No.: N-3
+
+Number of Units 3 Arrangement: vertical upflow
+tem No. EA-4107 A/B/C
+Operating Case Rating Case 2
+
+Performance of one Unit
+
+Shell Side Tube Side
+
+Fluid Water / Steam Furnace Effluent
+
+Total Fluid Entering 7.400 Mol. Wt. 23,188
+Hydrocarbon Mol. Wt.
+
+Hydrogen Mol. Wt. 2,016
+Steam Mol. Wt. 18,016
+Operating Pressure Out:
+
+Operating Temperature Out: 358
+
+cln|alo|O|j00||joju|Ejwoln|—
+
+Density
+
+Viscosity
+
+Spec. Heat
+
+Thermal Conductivity
+
+Number of Passes
+
+Mass Velocity
+
+Average Velocity
+
+Pressure Loss (Diff. in Static Press.)
+Fouling Resistance 0,000086
+Heat Exchanged 1.644,6
+Heat Transfer Coefficient
+Transfer Rate Service Refer to O. D. of Inner Tube
+Log. Mean Temp. Diff.
+Required Surface Refer to O. D. of Inner Tube
+Required Tube Length
+nstalled Tube Length
+nstalled Surface Refer to O. D. of Inner Tube
+Steam Generated at Sat. Temp.
+
+Construction of one Unit 1)
+
+Design Code AD 2000 AD 2000
+Design Pressure kg/em?g 140,5 3,5
+
+Test Pressure kg/em?g according to code according to code
+Tube No. 76
+
+Size Corr. Allow. Material Design Metal Temp.
+Headers from Tube .d. 108x 11 thk. (o) 16Mo3 370
+Outer Tube .d. 73x 5,6 thk. 16Mo3 350
+nner Tube .d.51x5 thk. 16Mo3 370
+Downcomer Header .a 8 SA 106M Gr. B 350
+Riser Header o.d. 8 SA 106M Gr. B 350
+nlet Flange 5) 18", 300 lb, RF 16Mo3 450
+Outlet Flange 14", 300 Ib 13CrMo4-5 550
+nlet Channel/Main Flange cone 5)/ DN 1250 16Mo3 / 16Mo3 450/450
+Outlet Channel/Main Flange | cylindrical / DN 1150 13CrMo4-5 / 13CrMo4-5 550
+Weight empty, approx.: 14.300 kg Weight with water, approx.:
+
+For main dimensions refer to drawing no. 23.10.014-HP-04.0-001-RO
+
+Remarks: 1) for clean conditions / 2) refer to mean pressure and mean temperature / 3) under consideration of 1 % heat loss
+4) all values without dimensions are in mm / 5) existing cone will be reused
+
+CjWUjw|jwW|wW|w|O]O
+
+Revision: O / Apr. 27, 2023
+
+Dok. CTLE-2/11.17

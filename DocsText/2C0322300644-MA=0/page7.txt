@@ -1,0 +1,39 @@
+“a.
+FLOWSERVE
+Ne *
+
+Valhart
+
+1.3
+
+1.4
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+The users not allowed, in any case, to modify the valve; this action causes imme diate expiring
+of guarantee period and API marking (when applicable).
+Valbart refuses any liability for any damage to personnel, property or plants caused by
+incorrect usage of valves, incorrect or maintenance not strictly carried out in line with these
+procedures, unskilled personnel or non-observance of safety rules.
+In case Valbart is not aware of the final use of the valve (e.g. valve ordered and stocked by a
+third party) it is the responsibility of the third party or of the user to verify the suitability of the
+valve material combination for the medium and/or service the valve is to be used.
+Unless specifically requested the valves are furnished without thermal and noise insulation.
+Evenif the valves are provided with an antistatic device it is strongly recommended to ground
+the line.
+
+Certification instruction
+
+It is a legal regquirement that valves put into service within certain regions of the world shall
+conform to the Marking Directives applicable to Flowserve products (i.e. Pressure Equipment
+Directive (PED), Equipment for Potentially Explosive Atmospheres (ATEX), etc.).
+
+Note: Certificates defined in the Contract requirements are provided with these instructions
+where applicable. Examples of the certificates can be found in the Annex of this document. If
+required, copies of other certificates sent separately to the Purchaser should be obtained from
+the Purchaser for retention with this User Instruction.
+
+Units
+
+The meftric unit system is utilized in this document.
+
+Page 5 of 35

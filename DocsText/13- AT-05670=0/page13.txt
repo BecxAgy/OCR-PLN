@@ -1,0 +1,56 @@
+Data Validity and Operational Checks
+
+Status Information
+
+Maxum Alarms
+
+NAU Alarms
+
+Each Maxum or Optichrom Advance analyzer transmits status informa-
+tion at the end of the application cycle, along with the results. This infor-
+mation is made available to the Host to ascertain the following:
+
+e whether the application is in normal state, reporting data on schedule
+
+e whether the application is calibrating, in hold, out of service, or has
+not reported data on schedule
+
+e whether the application has an error in the current cycle
+
+e whether the application is operating with a forced always stream
+
+e the enable/disable state of every stream in an application
+
+e the current and next stream to be analyzed
+
+e whether specific database or EUHI values have changed
+
+Maxum alarms are defined as any alarms that may occur on the Maxum
+analyzers. Most alarms that are associated with MODBUS communica-
+
+tions will appear on the Network Access Unit (NAU).
+Alarm Meaning
+698 The NAU is unreachable or refuses connection. Results will not
+
+be transmitted.
+
+NAU alarms are defined as any alarms that may occur on the Advance
+Network Access Unit (NAU):
+
+Alarm
+
+Meaning
+
+699
+
+The Maxum tried to transmit a result or analyzer status that was
+not defined in the address map.
+
+700 The Maxum analyzer is not reachable or refuses connection. It
+will not receive a command from the HOST.
+701 Scale factor or EUHI is missing.
+
+2000584-001
+
+Maxum MODBUS User's Guide e 7
+

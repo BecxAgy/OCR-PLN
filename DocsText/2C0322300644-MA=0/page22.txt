@@ -1,0 +1,52 @@
+“a.
+FLOWSERVE
+Ne *
+
+Valhart
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+6.2.3 Valve installed in a piping system
+
+1. When the valve is installed in a piping system that requires hydrostatic testing, follow these
+steps to minimize any damage that may occur to the sealing surfaces and seals in the valve
+seats.
+
+2. The valve must be with the ball in partially open position (approximately 10º to the fully
+open position) and the drain port open when the flushing with the test fluid begins. This will
+allow any piping system debris to be expelled through the drain port of the valve and/or
+outside of the piping system.
+
+3. Once allthe debris has been expelled out of through the drain port and the piping system
+has been purged of debris, the valve must be placed in a half open position. This allows the
+test fluid to enter into the valve body cavity.
+
+4. Start the filling of test fluid.
+
+5. The valve is ready to be pressure tested once it has been filed completely with the test
+fluid through the piping system.
+
+6. Apply the test pressure inside the valve body through the end and vent the air off through
+the uppermost vent on the body (if any). Make sure to vent air off as much as possible.
+
+7. Examine the entire surface of the valve and the body/closure joint and ascertain that no
+drops, or sweating, or humidity is visible during the duration of the test.
+
+8. Atthe end of the hydrostatic test, the valve must be placed in the fully open position
+before removing the test fluid from the piping system. The test fluid in the body cavity can be
+drained through the drain opening located in the lower part of the valve body.
+
+9. Once the valve and the piping system have been pigged and before the customer's
+product is introduced in the piping system, the valve must be placed in the partially open
+position (approximately 10º to the fully open position). Any residual test fluid trapped in the
+cavity of the valve body can then be drained through the drain port, which is located in the
+lower part of the valve body. If the valve has been fitted with a stem extension, the drain plug
+is located below the operator flange on the top of the stem extension.
+
+10. The opening of the drain plug of the body will force the test fluid trapped in the body
+cavity to exit. Keep the drain plug open until all the liquids have been expelled through the
+body.
+
+11. Close the drain plug of the body and put the valve in the fully open position or operating
+position request.
+
+Page 20 of 35

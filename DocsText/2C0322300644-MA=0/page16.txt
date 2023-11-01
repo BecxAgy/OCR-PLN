@@ -1,0 +1,63 @@
+—
+FLOWSERVE
+“id
+
+Do not destroy
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+
+A barrier layer which is (virtually) impermeable to water vapor
+
+>€ and contains desiccants for corrosion protection is located
+beneath the outer packaging. This protection will be ineffective
+
+fr if the barrier layer is damaged. Since the symbol has not yet
+
+Darrier l US] been approved by the ISO, puncturing of the outer shell must in
+particular be avoided for any packages bearing the words
+“Packed with desiccants”.
+Tear off here D » > > This symbol is intended only for the receiver.
+eProPoePos
+4.2  Unpacking
+
+4.3
+4.3.1
+
+4.3.2
+
+Unpacking of the valves (and relevant operators when applicable) must be made in such a
+way that no damage can occur to the exposed parts of the valves and their auxiliary
+equipment.
+
+In order to maintain the valves (and relevant operators when applicable) protected,
+unpacking should be done just before installation, except for the case in which the valves must
+be unpacked for inspection or for periodical stroke activities when applicable. Once the
+inspection or the periodical stroke activities have been completed, the original packing must
+be restored.
+
+Handling
+Packed Valves
+
+Crates: Lifting and handling of the packed valves in crates will be carried out by a fork lift truck,
+by means of the appropriate fork hitches.
+
+Cases: The lifting of packed valves in cases should be carried out in the lifting points and at
+the centre of gravity position which have been marked. The transportation of all packed
+material must be carried out safely and following the local safety regulations.
+
+Unpacked Valves
+
+1. The lifting and the handling of these valves has to be carried out by using appropriate means
+and by respecting the carrying limits. The handling must be carried out on pallets, protecting
+the machined surfaces to avoid any damage.
+
+2. With valves of large dimensions, the sling and the hooking of the load must be carried out
+by using the appropriate tools (brackets, hook, fasteners, ropes) and load balancing tools in
+order to prevent them from falling or moving during the lifting and handling.
+
+The valves are equipped with lifting lugs: they represent the only lifting points that can be used.
+Valves shall be lifted as per pictures shown below.
+
+Valve equipped with manual gearbox/(electric actuator)
+
+Page 14 of 35

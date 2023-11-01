@@ -1,0 +1,16 @@
+MODBUS Functions, Continued
+
+Error Responses If a slave receives a command with the slave's identifier and with a func-
+tion code that the slave doesn't support, the slave will send an error re-
+sponse indicating that an ILLEGAL FUNCTION was received. The slave
+will send a 3-byte error response with its identity, the function code
+summed with 128, and the ILLEGAL FUNCTION error code.
+
+For example, if slave 17 (0x11) receives a request for function 98 (0x62),
+slave 17 will respond with identity 0x11, function code OxE2 (128+98),
+and error code 0x01 (ILLEGAL FUNCTION):
+
+Slave? | Function Code Error Code
+11 E2 01
+
+44 « Maxum MODBUS User's Guide 2000584-001

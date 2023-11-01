@@ -1,0 +1,60 @@
+IAM BRAS
+
+Proposta Técnica SSA-105/2021 Rev.1 — Trocador de Calor EA-1302 — BRASKEM
+
+4.0 LISTA DE SOBRESSALENTES
+4.1 Fornecimento de 10% de estojos parafuso/porcas, e 200% de juntas.
+
+5.0 PRAZO DE FORNECIMENTO
+5.1 Fornecimento em até 180 (cento e oitenta) dias após o recebimento da Ordem de Compra.
+
+6.0 PROJETO MECÂNICO, FABRICAÇÃO, INSPEÇÃO E GARANTIA DA QUALIDADE
+
+6.1 O projeto mecânico, os processos de fabricação e inspeção serão realizados sob os critérios estabelecidos
+no código ASME Séc VIII-Div 1 — Edição 2019, TEMA - Edição 2019 e padrões normativos Braskem PNE-
+40-00023 Rev.8 — Projeto de Vasos de Pressão, PNE-40-00025 Rev.5 — Fabricação de Vasos de Pressão, e
+PN-0502-00067 Rev.3 — Projeto e Fabricação de Trocadores de Calor.
+
+6.2 Será realizada análise de tensões localizadas em bocais.
+
+6.3 Para cálculo mecânico será utilizado software PV Elite 2023, gerando relatórios contendo dados de entrada e
+saída que serão fornecidos em meio impresso e magnético, sendo estes últimos com extensão “pdf”.
+
+6.4 A emissão dos desenhos será no software AutoCad e serão fornecidos em meio impresso e magnético, sendo
+este último em extensões “pdf” e “dwg “.
+
+6.5 O fornecimento do equipamento atenderá aos requisitos do Sistema de Controle e Garantia da Qualidade da
+Techbras, que é baseado no sistema ISO 9001:2015, no qual é certificada, do código de projeto e das normas
+da Braskem.
+
+7.0 LISTA DE DESVIOS
+7.1 Declaramos esta proposta atente todos os requisitos e condições determinadas nos documentos de referência
+do cliente, não existindo desvios de ordem técnica.
+
+8.0 VALIDADE DA PROPOSTA
+8.1 Proposta válida por um prazo de 30 (trinta) dias a parte da data de emissão.
+
+9.0 CONFIDENCIALIDADE
+9.1 ATECHBRAS se compromete a manter sob sua guarda todo o “know-how” e qualquer informação, documentos
+ou arquivos de propriedade da Braskem que lhe vier a ser entregue, ou por ela gerada em decorrência da
+apresentação desta proposta ou da fabricação dos equipamentos não revelando qualquer informação a
+terceiros sem a expressa concordância por escrito do cliente.
+
+10.0GARANTIA MECÂNICA
+10.1 Garantia mecânica e de materiais pelo período de 24 meses após entrada em operação ou 36 meses após a
+entrega, prevalecendo o que ocorrer primeiro, desde que o equipamento seja operado dentro das premissas
+consideradas no cálculo dele.
+10.2 Em caso de aplicação da garantia, Techbras não se responsabilizará por perdas do produto em operação, pela
+redução ou paralisação da produção, ou ainda por lucros cessantes.
+
+Atenciosamente,
+
+Jorge Rojas — Gerente Geral
+
+TECHBRAS Equipamentos Industriais Ltda.
+€355.71.3594.9530 / E 55.71.99972.8326
+jorge.rojasQtechbras.ind.br
+
+TECHBRAS EQUIPAMENTOS INDUSTRIAIS LTDA.
+Via Periférica |I, s/n — Centro Industrial de Aratu - CIA SUL - Simões Filho / BA — Brasil - CEP 43.700-000
+Fone: + 55 71.3594.9530 - www.techbras.ind.br

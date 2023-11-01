@@ -1,0 +1,44 @@
+Example Map Configurations
+
+Simple Example Analyzer 124 has 3 applications:
+* Application 1 has stream 1, results 1-3
+
+* Application 2 has stream 4, results 1-3
+
+* Application 3 has stream 1, results 1-3
+
+No control from host is required. The only information from Maxum units
+that is needed by the Host is results and analyzer status.
+
+These addresses do not conform with the HCI-H.
+
+i host | desc | data address | anlz al stream |res |value init slave | slave | EUHI
+Simple Example Map tg per PP pe” Ive [100 ]2
+1 sf| 9999 1
+2 bv| 65535 1
+3 R| 40001 124 1 1 1 RES 1 (o)
+4 R| 70003 124 1 1 2 RES 1 (o)
+5 Q| 20005 124 1 1 3 RES 1 0
+6 R| 40007 124 2 4 1 RES 1 (o)
+7 R| 40009 124 2 4 2 RES 1 (o)
+8 R[ 40011 124 2 4 3 RES 1 0
+9 R| 40013 124 3 1 1 RES 1 (o)
+10 Ri 40015 124 3 1 2 RES 1 (o)
+1 R[ 40017 124 3 1 3 RES 1 0
+21 I| | 30001 124 1 AN 1
+22 || 30002 124 2 AN 1
+23 I[ 30003 124 3 AN 1
+
+Note: The results are designated here as 32-bit floating point numbers
+(data type Q or R). The second addresses (40002, 70004...) are not de-
+fined in the map, but are present in the driver tables.
+
+Detailed Example Analyzer 162 has 2 applications:
+* Application 1 has stream 1 with results 1-5
+
+* Application 2 has stream 1 with results 1-5
+All possible controls and information from the Maxum are available.
+
+The addresses in this example do conform with the HCI-H.
+
+22 « Maxum MODBUS User's Guide 2000584-001

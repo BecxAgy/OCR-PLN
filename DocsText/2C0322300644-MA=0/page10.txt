@@ -1,0 +1,38 @@
+—
+FLOWSERVE
+“id
+
+2.5
+
+2.6
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+
+Potential explosive areas
+
+ED eu are required to:
+
+Avoid excess temperature
+
+Prevent build-up of explosive mixtures
+Prevent the generation of sparks
+Prevent leakages
+
+Maintain the pump to avoid hazard
+
+All instructions for equipment installed in potentially explosive atmospheres must be followed
+to help ensure explosion protection. For ATEX, both electrical and non-electrical equipment
+must meet the requirements of the European Explosion Protection Directive 2014/34/EU. Always
+observe the regional legal Ex requirements, e.g. Ex electrical items outside the EU may be
+required certified to other than ATEX e.g. IECEx, UL.
+
+E. equipment only in the zone for which it is appropriate. Always check that all
+equipment is suitably rated and/or certified for the classification of the specific atmosphere in
+which they are to be installed.
+
+Protective equipment
+
+Plant operating personnel must be equipped with the proper safety equipment (e.g. glasses,
+helmets, gloves, reinforced boots, hear plugs) according to local regulation.
+
+Page 8 of 35

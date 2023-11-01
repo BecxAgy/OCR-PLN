@@ -1,0 +1,81 @@
+Et O
+FLOWSERVE
+a
+Folgas Máximas de Segurança:
+
+Proteção Antichamas
+Tampa e base
+
+Haste o e bucha da tampa
+Tampa e bucha
+
+Haste e bucha da base
+Tampa e bucha
+
+Desenhos
+
+4520
+
+ENTRADA DE CONDUÍTE ke
+PT 314º OU M25
+(AMBOS OS LADOS)
+
+r— 300 —
+
+(2) LOCAIS 5/16-18 UNC
+X 0,35 DE PROFUNDIDADE
+
+10
+
+Folga Máxima (mm) Comentários
+0,038 Juntas flangeadas
+0,088 Junta do excêntrico cilíndrico
+0,00 Ajuste de interferência
+0,088 Junta do excêntrico cilíndrico
+0,00 Ajuste de interferência
+
+O
+
+FOLGA MÍNIMA 9,09
+PARA AJUSTES E
+INSPEÇÃO
+
+4
+
+581
+
+(4) LOCAIS 5/16-18 UNC.
+0,35 DE PROFUNDIDADE
+
+SUPERFÍCIE DE
+MONTAGEM LATERAL
+
+Experience In Motion
+
+DE PROFUNDIDADE
+
+(4) LOCAIS M6-1 X 0,35
+
+0.120 — || e 0.80
+
+LOCALIZAÇÃO DE PARAFUSO ATERRAMENTO / aii=— 20.375
+
+EXTERNO 5/16-18 UNC X 0,35 DE
+
+|. 04155PLANOS
+
+PI | MI —
+'ROFUNDIDADE (AMBOS OS LADOS) (EIXO NAMUR)
+t
+FOLGA MÍNIMA
+DE 4,99 PARA
+| 1 AJUSTES E
+f á Ri INSPEÇÃO
+342
+'
+R j
+0375 0.250 0.50
+
+0,250 PLANOS p=
+EIXO CURTO
+

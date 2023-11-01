@@ -1,0 +1,45 @@
+Function 06 — Preset Single Register
+
+Master Command
+
+Slave Response
+
+Error Response
+
+The master sends a command writing the value of one output analog
+(table 4), specifying the analog's address and the value to write. For ex-
+ample, the master might request that slave 17 write the value 926 to reg-
+ister 40136. Translating the values into hexadecimal, this is a request
+that slave 0x11 write 0x039E to the register at 0x0087 (corresponds to
+table offset 0136 of table 4):
+
+Slavef Function Code Data Start Analog Value
+High Low High Low
+11 06 00 87 03 9E
+
+Preset Single Register Command
+
+If the slave can process the command without error, the slave will echo
+the command as a response:
+
+Slavef Function Code Data Start Analog Value
+High Low High Low
+11 06 00 87 03 9E
+
+Preset Single Register Response
+
+Similar to Function Code 05, an ILLEGAL DATA ADDRESS error re-
+sponse will be sent if the register's address is outside the configured
+range of table 4 (analog outputs).
+
+A FAILURE IN ASSOCIATED DEVICE error response will be sent if an
+internal error prevented the command from being carried out.
+
+Normally there would not be an ILLEGAL DATA VALUE response be-
+cause all values should be acceptable. The function code in the error
+response will be 134 (0x86) indicating that the error occurred on a com-
+mand with Function Code 06.
+
+2000584-001
+
+Maxum MODBUS User's Guide e 53

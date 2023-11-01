@@ -1,0 +1,21 @@
+rd
+FLOWSERVE
+Valh Mirna
+
+VB2 User Instruction — MO2-LSS ENG rev. 8
+
+Copyright
+
+All rights reserved. No part of these instructions may be reproduced, stored in a
+retrieval system or transmitted in any form or by any means without prior permission of
+Flowserve Corporation.
+
+Revision history
+
+Revision 0 1 2 3 4 5 6 7 8
+Date 18-11-2010 | 11-10-2011 | 15-02-2012 | 22-05-2015 | 16-09-2016 | 16-03-2017 | 31-03-2017 | 22-06-2018 | 12-10-2018
+
+Signed AP. AP. AP. AP. AP. AP. AP. AP. AP.
+
+Approved LP. LP. AZ. AZ. AZ. AA. AA. DB. DB.
+
